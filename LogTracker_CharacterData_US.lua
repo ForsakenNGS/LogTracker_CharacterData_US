@@ -9,6 +9,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -22,6 +23,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -44,6 +46,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -57,6 +60,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -79,6 +83,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -92,6 +97,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -114,6 +120,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -131,6 +138,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -157,6 +165,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -170,6 +179,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -187,6 +197,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -200,6 +211,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -222,6 +234,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -235,6 +248,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -257,6 +271,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -270,6 +285,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -292,6 +308,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -305,6 +322,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -322,6 +340,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -343,6 +362,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -365,6 +385,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -378,6 +399,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -408,6 +430,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -421,6 +444,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -443,6 +467,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -464,6 +489,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -494,6 +520,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -511,6 +538,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -537,6 +565,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -550,6 +579,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -572,6 +602,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -585,6 +616,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -607,6 +639,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -620,6 +653,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -642,6 +676,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -655,6 +690,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -677,6 +713,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -690,6 +727,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -712,6 +750,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -725,6 +764,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -747,6 +787,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -760,6 +801,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -777,6 +819,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -785,6 +828,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -811,6 +855,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -832,6 +877,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -849,6 +895,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -862,6 +909,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -879,6 +927,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -896,6 +945,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -918,6 +968,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -939,6 +990,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -969,6 +1021,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -982,12 +1035,66 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
           {
             spec = "Subtlety",
             percentRank = 98.09663250366,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "Newestgerm-Arugal" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 06:53:08",
+    last_update_int = 1649998388,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        partitionName = "P3.5 & P4",
+        allstars = {
+          {
+            spec = "Feral",
+            percentRank = 93.864275284939,
+          },
+          {
+            spec = "Warden",
+            percentRank = 84.105196754476,
+          },
+          {
+            spec = "Guardian",
+            percentRank = 76.574105565734,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        partitionName = "P3.5 & P4",
+        allstars = {
+          {
+            spec = "Feral",
+            percentRank = 74.544824999279,
+          },
+          {
+            spec = "Guardian",
+            percentRank = 64.624869487396,
+          },
+          {
+            spec = "Warden",
+            percentRank = 63.544499278209,
           },
         },
         encountersKilled = 6,
@@ -1004,6 +1111,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -1017,6 +1125,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -1039,6 +1148,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -1052,6 +1162,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -1069,6 +1180,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -1082,6 +1194,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -1104,6 +1217,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -1117,6 +1231,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -1139,6 +1254,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -1152,6 +1268,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -1174,6 +1291,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -1187,6 +1305,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -1204,6 +1323,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -1217,6 +1337,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -1234,6 +1355,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -1251,6 +1373,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -1277,6 +1400,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -1294,6 +1418,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -1320,6 +1445,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -1333,6 +1459,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -1350,6 +1477,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -1363,12 +1491,90 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
           {
             spec = "Arcane",
             percentRank = 75.970004206373,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "Jalador-Remulos" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 06:54:17",
+    last_update_int = 1649998457,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        partitionName = "P3.5 & P4",
+        allstars = {
+          {
+            spec = "BeastMastery",
+            percentRank = 52.088346217512,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        partitionName = "P3.5 & P4",
+        allstars = {},
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "Gunnerslugs-Atiesh" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 06:52:46",
+    last_update_int = 1649998366,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        partitionName = "P3.5 & P4",
+        allstars = {
+          {
+            spec = "Protection",
+            percentRank = 83.892447474225,
+          },
+          {
+            spec = "Gladiator",
+            percentRank = 71.946980246532,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        partitionName = "P3.5 & P4",
+        allstars = {
+          {
+            spec = "Protection",
+            percentRank = 88.013655329372,
+          },
+          {
+            spec = "Gladiator",
+            percentRank = 87.400236263578,
           },
         },
         encountersKilled = 6,
@@ -1385,6 +1591,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -1402,6 +1609,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -1432,6 +1640,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -1445,6 +1654,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -1467,6 +1677,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -1480,6 +1691,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -1502,6 +1714,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -1515,6 +1728,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -1537,6 +1751,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -1550,6 +1765,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -1567,6 +1783,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -1580,6 +1797,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -1602,6 +1820,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -1615,6 +1834,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -1637,6 +1857,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -1650,6 +1871,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -1672,6 +1894,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -1685,6 +1908,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -1707,6 +1931,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -1720,6 +1945,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -1742,6 +1968,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -1763,6 +1990,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -1779,6 +2007,55 @@ LogTracker_CharacterData_US = {
       },
     },
   },
+  [ "Askr-Remulos" ] = {
+    level = "60",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 06:56:16",
+    last_update_int = 1649998576,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        partitionName = "P3.5 & P4",
+        allstars = {
+          {
+            spec = "Balance",
+            percentRank = 91.267408250854,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        partitionName = "P3.5 & P4",
+        allstars = {
+          {
+            spec = "Balance",
+            percentRank = 91.466478254043,
+          },
+          {
+            spec = "Warden",
+            percentRank = 71.534562057273,
+          },
+          {
+            spec = "Feral",
+            percentRank = 56.308970770696,
+          },
+          {
+            spec = "Guardian",
+            percentRank = 41.097797444439,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
   [ "Southbeard-Grobbulus" ] = {
     level = "0",
     faction = "Alliance",
@@ -1789,6 +2066,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -1806,6 +2084,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -1832,6 +2111,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -1845,6 +2125,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -1867,6 +2148,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -1880,6 +2162,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -1897,6 +2180,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -1914,6 +2198,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -1936,6 +2221,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -1949,6 +2235,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -1971,6 +2258,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -1988,6 +2276,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -2010,6 +2299,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -2023,6 +2313,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -2045,6 +2336,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -2058,6 +2350,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -2080,6 +2373,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -2093,6 +2387,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -2115,6 +2410,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -2132,6 +2428,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -2154,6 +2451,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -2179,6 +2477,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -2196,6 +2495,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -2209,6 +2509,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -2231,6 +2532,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -2244,6 +2546,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -2266,6 +2569,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -2283,6 +2587,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -2309,6 +2614,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -2322,6 +2628,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -2344,6 +2651,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -2357,6 +2665,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -2379,6 +2688,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -2392,6 +2702,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -2414,6 +2725,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -2427,6 +2739,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -2449,6 +2762,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -2462,6 +2776,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -2479,6 +2794,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -2492,12 +2808,50 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
           {
             spec = "Arcane",
             percentRank = 89.025716896567,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "Prushka-Remulos" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 06:55:39",
+    last_update_int = 1649998539,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        partitionName = "P3.5 & P4",
+        allstars = {
+          {
+            spec = "Enhancement",
+            percentRank = 94.997776536185,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        partitionName = "P3.5 & P4",
+        allstars = {
+          {
+            spec = "Enhancement",
+            percentRank = 88.137827151196,
           },
         },
         encountersKilled = 6,
@@ -2514,6 +2868,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -2527,6 +2882,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -2549,6 +2905,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -2562,6 +2919,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -2584,6 +2942,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -2597,6 +2956,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -2619,6 +2979,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -2632,6 +2993,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -2654,6 +3016,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -2667,6 +3030,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -2689,6 +3053,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -2702,6 +3067,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -2719,6 +3085,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -2736,6 +3103,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -2762,6 +3130,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -2775,6 +3144,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -2792,6 +3162,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -2805,6 +3176,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -2827,6 +3199,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -2840,6 +3213,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -2862,6 +3236,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -2883,6 +3258,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -2909,6 +3285,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -2922,6 +3299,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -2944,6 +3322,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -2957,6 +3336,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -2979,6 +3359,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -2992,6 +3373,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -3014,6 +3396,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -3027,6 +3410,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -3049,6 +3433,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -3062,6 +3447,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -3084,6 +3470,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -3097,6 +3484,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -3119,6 +3507,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -3136,6 +3525,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -3158,6 +3548,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -3171,6 +3562,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -3193,6 +3585,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -3206,6 +3599,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -3232,6 +3626,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -3253,6 +3648,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -3283,6 +3679,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -3296,6 +3693,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -3318,6 +3716,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -3331,6 +3730,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -3353,6 +3753,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -3366,6 +3767,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -3388,6 +3790,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -3401,6 +3804,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -3423,6 +3827,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -3431,6 +3836,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -3453,6 +3859,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -3466,6 +3873,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -3483,6 +3891,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -3496,6 +3905,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -3513,6 +3923,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -3530,6 +3941,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -3552,6 +3964,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -3565,6 +3978,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -3587,6 +4001,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -3600,6 +4015,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -3622,6 +4038,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -3635,6 +4052,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -3652,6 +4070,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -3665,6 +4084,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -3687,6 +4107,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -3700,6 +4121,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -3717,6 +4139,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -3730,6 +4153,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -3752,6 +4176,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -3769,6 +4194,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -3795,6 +4221,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -3808,6 +4235,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -3834,6 +4262,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -3847,6 +4276,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -3873,6 +4303,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -3886,6 +4317,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -3908,6 +4340,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -3921,6 +4354,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -3943,6 +4377,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -3960,6 +4395,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -3982,6 +4418,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -3995,6 +4432,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -4017,6 +4455,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -4030,6 +4469,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -4052,6 +4492,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -4065,6 +4506,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -4082,6 +4524,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -4095,6 +4538,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -4117,6 +4561,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -4130,6 +4575,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -4152,6 +4598,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -4173,6 +4620,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -4190,6 +4638,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -4211,6 +4660,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -4237,6 +4687,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -4250,6 +4701,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -4272,6 +4724,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -4289,6 +4742,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -4306,6 +4760,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -4319,6 +4774,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -4341,6 +4797,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -4362,6 +4819,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -4392,6 +4850,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -4405,6 +4864,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -4413,6 +4873,38 @@ LogTracker_CharacterData_US = {
             percentRank = 59.759618402059,
           },
         },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "Alfredosauce-Benediction" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 06:53:09",
+    last_update_int = 1649998389,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        partitionName = "P3.5 & P4",
+        allstars = {
+          {
+            spec = "Shadow",
+            percentRank = 97.40268790443,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        partitionName = "P3.5 & P4",
+        allstars = {},
         encountersKilled = 6,
       },
     },
@@ -4427,6 +4919,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -4440,6 +4933,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -4462,6 +4956,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -4479,6 +4974,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -4505,6 +5001,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -4518,6 +5015,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -4544,6 +5042,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -4557,6 +5056,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -4579,6 +5079,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -4600,6 +5101,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -4630,6 +5132,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -4647,6 +5150,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -4664,6 +5168,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -4677,6 +5182,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -4694,6 +5200,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -4707,6 +5214,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -4733,6 +5241,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -4746,6 +5255,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -4768,6 +5278,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -4781,6 +5292,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -4807,6 +5319,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -4820,6 +5333,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -4842,6 +5356,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -4859,6 +5374,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -4881,6 +5397,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -4894,6 +5411,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -4916,6 +5434,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -4929,6 +5448,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -4951,6 +5471,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -4964,6 +5485,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -4986,6 +5508,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -4999,6 +5522,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -5021,6 +5545,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -5034,9 +5559,47 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "Lestare-Atiesh" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 06:55:10",
+    last_update_int = 1649998510,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        partitionName = "P3.5 & P4",
+        allstars = {
+          {
+            spec = "Destruction",
+            percentRank = 87.742518033282,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        partitionName = "P3.5 & P4",
+        allstars = {
+          {
+            spec = "Destruction",
+            percentRank = 52.41468538635,
+          },
+        },
         encountersKilled = 6,
       },
     },
@@ -5051,6 +5614,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -5064,6 +5628,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -5086,6 +5651,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -5103,6 +5669,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -5119,6 +5686,42 @@ LogTracker_CharacterData_US = {
       },
     },
   },
+  [ "Ranathei-Pagle" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 06:53:26",
+    last_update_int = 1649998406,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        partitionName = "P3.5 & P4",
+        allstars = {},
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        partitionName = "P3.5 & P4",
+        allstars = {
+          {
+            spec = "Justicar",
+            percentRank = 49.170855530135,
+          },
+          {
+            spec = "Protection",
+            percentRank = 45.670858431082,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
   [ "Jattlocke-Grobbulus" ] = {
     level = "0",
     faction = "Alliance",
@@ -5129,6 +5732,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -5142,6 +5746,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -5164,6 +5769,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -5181,6 +5787,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -5203,6 +5810,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -5216,6 +5824,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -5233,6 +5842,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -5250,6 +5860,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -5276,6 +5887,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -5293,6 +5905,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -5315,6 +5928,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -5328,6 +5942,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -5350,6 +5965,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -5363,6 +5979,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -5385,6 +6002,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -5402,6 +6020,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -5428,6 +6047,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -5441,6 +6061,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -5463,6 +6084,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -5476,12 +6098,87 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
           {
             spec = "Affliction",
             percentRank = 35.187609075044,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "Mammo-Benediction" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 06:55:18",
+    last_update_int = 1649998518,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        partitionName = "P3.5 & P4",
+        allstars = {
+          {
+            spec = "Restoration",
+            percentRank = 87.443951593462,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        partitionName = "P3.5 & P4",
+        allstars = {
+          {
+            spec = "Restoration",
+            percentRank = 71.281643604203,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "Armatage-Benediction" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 06:53:31",
+    last_update_int = 1649998411,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        partitionName = "P3.5 & P4",
+        allstars = {
+          {
+            spec = "Fury",
+            percentRank = 91.609782363261,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        partitionName = "P3.5 & P4",
+        allstars = {
+          {
+            spec = "Fury",
+            percentRank = 78.189345845984,
           },
         },
         encountersKilled = 6,
@@ -5498,6 +6195,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -5511,6 +6209,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -5528,6 +6227,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -5541,6 +6241,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -5563,6 +6264,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -5576,6 +6278,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -5598,6 +6301,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -5611,6 +6315,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -5633,6 +6338,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -5646,6 +6352,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -5663,6 +6370,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -5676,6 +6384,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -5698,6 +6407,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -5715,12 +6425,50 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
           {
             spec = "Enhancement",
             percentRank = 88.514404067031,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "Hannadin-Benediction" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 06:53:41",
+    last_update_int = 1649998421,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        partitionName = "P3.5 & P4",
+        allstars = {
+          {
+            spec = "Retribution",
+            percentRank = 91.932445162159,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        partitionName = "P3.5 & P4",
+        allstars = {
+          {
+            spec = "Retribution",
+            percentRank = 96.607846496488,
           },
         },
         encountersKilled = 6,
@@ -5737,6 +6485,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -5750,6 +6499,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -5767,6 +6517,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -5780,6 +6531,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -5797,6 +6549,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -5810,6 +6563,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -5832,6 +6586,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -5845,6 +6600,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -5862,6 +6618,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -5879,6 +6636,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -5896,6 +6654,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -5913,6 +6672,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -5930,6 +6690,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -5943,6 +6704,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -5965,6 +6727,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -5986,6 +6749,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -6012,6 +6776,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -6041,6 +6806,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -6063,6 +6829,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -6076,6 +6843,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -6098,6 +6866,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -6115,6 +6884,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -6137,6 +6907,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -6150,6 +6921,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -6172,6 +6944,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -6189,6 +6962,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -6215,6 +6989,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -6228,6 +7003,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -6250,6 +7026,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -6263,6 +7040,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -6285,6 +7063,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -6298,6 +7077,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -6320,6 +7100,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -6333,6 +7114,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -6350,6 +7132,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -6367,6 +7150,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -6389,6 +7173,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -6402,6 +7187,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -6424,6 +7210,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -6437,6 +7224,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -6459,6 +7247,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -6472,6 +7261,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -6494,6 +7284,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -6507,6 +7298,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -6529,6 +7321,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -6546,6 +7339,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -6572,6 +7366,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -6585,6 +7380,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -6607,6 +7403,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -6624,6 +7421,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -6650,6 +7448,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -6663,6 +7462,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -6680,6 +7480,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -6693,6 +7494,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -6715,6 +7517,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -6732,6 +7535,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -6754,6 +7558,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -6767,6 +7572,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -6789,6 +7595,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -6802,6 +7609,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -6824,6 +7632,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -6837,6 +7646,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -6859,6 +7669,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -6876,6 +7687,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -6902,6 +7714,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -6919,6 +7732,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -6945,6 +7759,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -6958,6 +7773,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -6980,6 +7796,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -6993,6 +7810,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -7015,6 +7833,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -7028,6 +7847,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -7045,6 +7865,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -7058,6 +7879,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -7080,6 +7902,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -7093,6 +7916,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -7115,6 +7939,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -7128,6 +7953,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -7150,6 +7976,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -7163,6 +7990,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -7185,6 +8013,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -7206,6 +8035,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -7232,6 +8062,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -7249,6 +8080,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -7266,6 +8098,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -7279,6 +8112,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -7301,6 +8135,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -7314,6 +8149,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -7336,6 +8172,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -7349,6 +8186,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -7371,6 +8209,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -7384,6 +8223,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -7406,6 +8246,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -7423,6 +8264,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -7445,6 +8287,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -7458,6 +8301,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -7480,6 +8324,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -7493,6 +8338,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -7510,6 +8356,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -7527,6 +8374,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -7549,6 +8397,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -7562,6 +8411,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -7584,6 +8434,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -7592,12 +8443,50 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
           {
             spec = "Fire",
             percentRank = 0.57752667922159,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "Baffldbobcat-Pagle" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 06:54:33",
+    last_update_int = 1649998473,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        partitionName = "P3.5 & P4",
+        allstars = {
+          {
+            spec = "Balance",
+            percentRank = 95.09941315582,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        partitionName = "P3.5 & P4",
+        allstars = {
+          {
+            spec = "Balance",
+            percentRank = 89.558800439629,
           },
         },
         encountersKilled = 6,
@@ -7614,6 +8503,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -7627,6 +8517,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -7649,6 +8540,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -7662,6 +8554,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -7679,6 +8572,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -7692,6 +8586,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -7714,6 +8609,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -7731,6 +8627,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -7753,6 +8650,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -7770,6 +8668,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -7792,6 +8691,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -7805,6 +8705,34 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        partitionName = "P3.5 & P4",
+        allstars = {},
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "Cosbyed-Benediction" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 06:55:43",
+    last_update_int = 1649998543,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        partitionName = "P3.5 & P4",
+        allstars = {},
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -7822,6 +8750,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -7835,6 +8764,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -7861,6 +8791,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -7874,9 +8805,79 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "Ireckn-Benediction" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 06:54:36",
+    last_update_int = 1649998476,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        partitionName = "P3.5 & P4",
+        allstars = {
+          {
+            spec = "Holy",
+            percentRank = 20.917790463583,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        partitionName = "P3.5 & P4",
+        allstars = {},
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "Hadoraz-Benediction" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 06:54:40",
+    last_update_int = 1649998480,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        partitionName = "P3.5 & P4",
+        allstars = {
+          {
+            spec = "Shadow",
+            percentRank = 88.821304131409,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        partitionName = "P3.5 & P4",
+        allstars = {
+          {
+            spec = "Shadow",
+            percentRank = 41.102443332352,
+          },
+        },
         encountersKilled = 6,
       },
     },
@@ -7891,6 +8892,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -7904,6 +8906,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -7921,6 +8924,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -7934,6 +8938,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -7942,6 +8947,38 @@ LogTracker_CharacterData_US = {
             percentRank = 88.377485140398,
           },
         },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "Earning-Benediction" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 06:56:24",
+    last_update_int = 1649998584,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        partitionName = "P3.5 & P4",
+        allstars = {
+          {
+            spec = "Arms",
+            percentRank = 95.700416088766,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        partitionName = "P3.5 & P4",
+        allstars = {},
         encountersKilled = 6,
       },
     },
@@ -7956,6 +8993,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -7969,6 +9007,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -7991,6 +9030,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -8008,6 +9048,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -8034,6 +9075,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -8047,6 +9089,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -8069,6 +9112,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -8082,6 +9126,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -8104,6 +9149,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -8117,6 +9163,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -8139,6 +9186,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -8152,6 +9200,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -8169,6 +9218,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -8190,6 +9240,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -8220,6 +9271,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -8237,6 +9289,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -8263,6 +9316,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -8276,6 +9330,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -8298,6 +9353,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -8315,6 +9371,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -8341,6 +9398,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -8354,6 +9412,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -8376,6 +9435,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -8389,6 +9449,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -8411,6 +9472,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -8424,6 +9486,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -8446,6 +9509,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -8459,6 +9523,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -8481,6 +9546,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -8494,6 +9560,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -8516,6 +9583,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -8529,6 +9597,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -8551,6 +9620,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -8564,6 +9634,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -8586,6 +9657,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -8599,6 +9671,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -8616,6 +9689,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -8629,6 +9703,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -8646,6 +9721,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -8659,6 +9735,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -8681,6 +9758,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -8694,6 +9772,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -8711,6 +9790,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -8724,6 +9804,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -8746,6 +9827,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -8759,6 +9841,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -8776,6 +9859,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -8801,6 +9885,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -8821,6 +9906,38 @@ LogTracker_CharacterData_US = {
       },
     },
   },
+  [ "Anasol-Benediction" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 06:56:39",
+    last_update_int = 1649998599,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        partitionName = "P3.5 & P4",
+        allstars = {
+          {
+            spec = "BeastMastery",
+            percentRank = 82.025717162409,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        partitionName = "P3.5 & P4",
+        allstars = {},
+        encountersKilled = 6,
+      },
+    },
+  },
   [ "Lanjali-Myzrael" ] = {
     level = "0",
     faction = "Alliance",
@@ -8831,6 +9948,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -8844,6 +9962,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -8866,6 +9985,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -8883,6 +10003,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -8905,6 +10026,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -8918,6 +10040,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -8935,6 +10058,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -8952,6 +10076,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -8974,6 +10099,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -8991,6 +10117,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -9008,6 +10135,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -9021,6 +10149,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -9043,6 +10172,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -9056,6 +10186,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -9078,6 +10209,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -9099,6 +10231,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -9125,6 +10258,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -9138,6 +10272,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -9160,6 +10295,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -9173,6 +10309,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -9195,6 +10332,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -9212,6 +10350,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -9234,6 +10373,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -9251,6 +10391,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -9273,6 +10414,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -9294,6 +10436,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -9316,6 +10459,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -9329,6 +10473,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -9351,6 +10496,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -9364,6 +10510,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -9386,6 +10533,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -9399,6 +10547,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -9421,6 +10570,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -9438,6 +10588,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -9464,6 +10615,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -9477,6 +10629,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -9499,6 +10652,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -9516,6 +10670,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -9542,6 +10697,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -9555,6 +10711,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -9577,6 +10734,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -9594,6 +10752,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -9611,6 +10770,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -9624,6 +10784,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -9646,6 +10807,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -9667,6 +10829,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -9693,6 +10856,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -9706,6 +10870,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -9723,6 +10888,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -9736,6 +10902,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -9762,6 +10929,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -9775,6 +10943,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -9797,6 +10966,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -9810,6 +10980,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -9827,6 +10998,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -9840,6 +11012,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -9857,6 +11030,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -9878,6 +11052,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -9904,6 +11079,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -9917,6 +11093,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -9934,6 +11111,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -9947,6 +11125,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -9969,6 +11148,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -9982,6 +11162,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -9999,6 +11180,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -10012,6 +11194,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -10034,6 +11217,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -10055,6 +11239,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -10085,6 +11270,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -10102,6 +11288,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -10128,6 +11315,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -10141,6 +11329,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -10167,6 +11356,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -10184,6 +11374,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -10201,6 +11392,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -10222,6 +11414,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -10252,6 +11445,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -10265,6 +11459,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -10287,6 +11482,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -10300,6 +11496,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -10322,6 +11519,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -10347,6 +11545,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -10373,6 +11572,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -10386,6 +11586,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -10403,6 +11604,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -10420,6 +11622,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -10442,6 +11645,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -10455,6 +11659,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -10477,6 +11682,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -10490,6 +11696,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -10507,6 +11714,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -10520,6 +11728,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -10542,6 +11751,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -10555,6 +11765,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -10577,6 +11788,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -10594,6 +11806,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -10611,6 +11824,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -10624,6 +11838,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -10646,6 +11861,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -10659,6 +11875,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -10681,6 +11898,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -10694,6 +11912,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -10716,6 +11935,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -10729,6 +11949,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -10751,6 +11972,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -10776,6 +11998,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -10798,6 +12021,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -10811,6 +12035,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -10841,6 +12066,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -10854,6 +12080,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -10871,6 +12098,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -10884,6 +12112,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -10901,6 +12130,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -10918,6 +12148,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -10940,6 +12171,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -10953,6 +12185,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -10979,6 +12212,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -10996,6 +12230,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -11018,6 +12253,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -11031,6 +12267,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -11053,6 +12290,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -11066,6 +12304,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -11088,6 +12327,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -11113,6 +12353,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -11135,6 +12376,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -11148,6 +12390,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -11170,6 +12413,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -11183,6 +12427,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -11205,6 +12450,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -11218,6 +12464,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -11240,6 +12487,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -11253,6 +12501,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -11275,6 +12524,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -11288,6 +12538,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -11310,6 +12561,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -11323,6 +12575,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -11345,6 +12598,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -11362,6 +12616,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -11384,6 +12639,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -11405,6 +12661,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -11431,6 +12688,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -11444,6 +12702,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -11461,6 +12720,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -11474,6 +12734,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -11496,6 +12757,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -11509,6 +12771,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -11531,6 +12794,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -11544,6 +12808,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -11561,6 +12826,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -11574,6 +12840,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -11596,6 +12863,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -11609,6 +12877,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -11626,6 +12895,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -11639,6 +12909,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -11661,6 +12932,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -11674,6 +12946,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -11696,6 +12969,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -11709,6 +12983,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -11731,6 +13006,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -11752,6 +13028,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -11778,6 +13055,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -11791,6 +13069,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -11813,6 +13092,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -11826,6 +13106,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -11848,6 +13129,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -11865,6 +13147,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -11882,6 +13165,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -11895,6 +13179,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -11917,6 +13202,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -11934,6 +13220,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -11956,6 +13243,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -11969,6 +13257,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -11991,6 +13280,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -12004,6 +13294,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -12026,6 +13317,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -12039,6 +13331,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -12061,6 +13354,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -12078,6 +13372,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -12104,6 +13399,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -12117,6 +13413,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -12139,6 +13436,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -12152,6 +13450,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -12169,6 +13468,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -12186,6 +13486,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -12212,6 +13513,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -12225,6 +13527,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -12242,6 +13545,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -12255,6 +13559,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -12272,6 +13577,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -12285,6 +13591,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -12302,6 +13609,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -12315,6 +13623,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -12337,6 +13646,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -12358,6 +13668,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -12388,6 +13699,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -12413,6 +13725,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -12443,6 +13756,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -12456,6 +13770,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -12478,6 +13793,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -12491,6 +13807,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -12513,6 +13830,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -12526,6 +13844,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -12548,6 +13867,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -12561,6 +13881,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -12583,6 +13904,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -12596,6 +13918,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -12613,6 +13936,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -12626,6 +13950,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -12648,6 +13973,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -12661,6 +13987,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -12683,6 +14010,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -12700,6 +14028,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -12726,6 +14055,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -12739,6 +14069,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -12761,6 +14092,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -12774,6 +14106,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -12796,6 +14129,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -12809,6 +14143,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -12831,6 +14166,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -12844,6 +14180,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -12861,6 +14198,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -12874,6 +14212,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -12891,6 +14230,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -12899,6 +14239,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -12916,6 +14257,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -12929,6 +14271,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -12951,6 +14294,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -12964,6 +14308,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -12986,6 +14331,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -12999,6 +14345,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -13021,6 +14368,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -13042,6 +14390,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -13068,6 +14417,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -13085,9 +14435,47 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "Odenthor-Benediction" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 06:53:37",
+    last_update_int = 1649998417,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        partitionName = "P3.5 & P4",
+        allstars = {
+          {
+            spec = "BeastMastery",
+            percentRank = 96.00035836789,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        partitionName = "P3.5 & P4",
+        allstars = {
+          {
+            spec = "BeastMastery",
+            percentRank = 97.431781701445,
+          },
+        },
         encountersKilled = 6,
       },
     },
@@ -13102,6 +14490,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -13115,6 +14504,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -13132,6 +14522,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -13149,6 +14540,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -13171,6 +14563,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -13184,6 +14577,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -13206,6 +14600,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -13219,6 +14614,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -13241,6 +14637,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -13258,6 +14655,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -13275,6 +14673,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -13296,6 +14695,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -13312,6 +14712,43 @@ LogTracker_CharacterData_US = {
       },
     },
   },
+  [ "Dammages-Benediction" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 06:55:38",
+    last_update_int = 1649998538,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        partitionName = "P3.5 & P4",
+        allstars = {
+          {
+            spec = "Arcane",
+            percentRank = 96.735752003224,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        partitionName = "P3.5 & P4",
+        allstars = {
+          {
+            spec = "Arcane",
+            percentRank = 73.891475566773,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
   [ "Samhaìn-Benediction" ] = {
     level = "0",
     faction = "Alliance",
@@ -13322,6 +14759,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -13335,6 +14773,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -13352,6 +14791,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -13369,6 +14809,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -13395,6 +14836,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -13408,6 +14850,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -13430,6 +14873,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -13443,6 +14887,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -13460,6 +14905,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -13473,6 +14919,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -13495,6 +14942,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -13508,6 +14956,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -13530,6 +14979,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -13543,6 +14993,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -13560,6 +15011,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -13573,6 +15025,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -13595,6 +15048,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -13612,6 +15066,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -13634,6 +15089,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -13647,6 +15103,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -13664,6 +15121,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -13677,6 +15135,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -13699,6 +15158,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -13712,6 +15172,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -13734,6 +15195,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -13751,6 +15213,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -13773,6 +15236,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -13790,6 +15254,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -13812,6 +15277,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -13825,6 +15291,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -13847,6 +15314,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -13860,6 +15328,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -13882,6 +15351,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -13895,6 +15365,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -13917,6 +15388,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -13934,6 +15406,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -13956,6 +15429,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -13969,6 +15443,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -13991,6 +15466,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -14004,6 +15480,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -14021,6 +15498,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -14034,6 +15512,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -14056,6 +15535,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -14069,6 +15549,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -14091,6 +15572,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -14104,6 +15586,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -14126,6 +15609,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -14139,6 +15623,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -14161,6 +15646,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -14174,6 +15660,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -14196,6 +15683,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -14209,6 +15697,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -14231,6 +15720,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -14244,6 +15734,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -14266,6 +15757,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -14279,6 +15771,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -14301,6 +15794,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -14322,6 +15816,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -14339,6 +15834,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -14352,6 +15848,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -14374,6 +15871,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -14387,6 +15885,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -14409,6 +15908,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -14430,6 +15930,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -14456,6 +15957,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -14477,6 +15979,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -14494,6 +15997,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -14507,6 +16011,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -14529,6 +16034,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -14542,6 +16048,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -14564,6 +16071,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -14577,6 +16085,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -14599,6 +16108,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -14616,6 +16126,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -14638,6 +16149,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -14646,9 +16158,47 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "Arlinaa-Pagle" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 06:55:45",
+    last_update_int = 1649998545,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        partitionName = "P3.5 & P4",
+        allstars = {
+          {
+            spec = "Arcane",
+            percentRank = 6.3454221287119,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        partitionName = "P3.5 & P4",
+        allstars = {
+          {
+            spec = "Arcane",
+            percentRank = 5.8845713125335,
+          },
+        },
         encountersKilled = 6,
       },
     },
@@ -14663,6 +16213,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -14676,6 +16227,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -14698,6 +16250,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -14715,6 +16268,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -14737,6 +16291,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -14754,6 +16309,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -14776,6 +16332,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -14789,6 +16346,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -14811,6 +16369,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -14824,6 +16383,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -14846,6 +16406,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -14859,6 +16420,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -14881,6 +16443,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -14894,6 +16457,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -14920,6 +16484,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -14941,6 +16506,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -14967,6 +16533,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -14980,6 +16547,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -15002,6 +16570,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -15019,6 +16588,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -15041,6 +16611,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -15049,6 +16620,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -15066,6 +16638,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -15083,6 +16656,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -15105,6 +16679,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -15118,6 +16693,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -15140,6 +16716,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -15153,6 +16730,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -15175,6 +16753,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -15188,6 +16767,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -15210,6 +16790,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -15218,6 +16799,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -15235,6 +16817,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -15248,6 +16831,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -15270,6 +16854,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -15283,6 +16868,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -15300,6 +16886,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -15313,6 +16900,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -15335,6 +16923,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -15352,6 +16941,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -15374,6 +16964,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -15387,6 +16978,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -15404,6 +16996,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -15417,6 +17010,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -15439,6 +17033,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -15452,6 +17047,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -15478,6 +17074,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -15495,6 +17092,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -15521,6 +17119,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -15538,6 +17137,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -15560,6 +17160,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -15573,6 +17174,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -15590,6 +17192,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -15603,6 +17206,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -15625,6 +17229,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -15638,6 +17243,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -15655,6 +17261,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -15668,6 +17275,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -15690,6 +17298,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -15707,6 +17316,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -15733,6 +17343,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -15746,6 +17357,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -15763,6 +17375,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -15776,6 +17389,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -15798,6 +17412,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -15811,6 +17426,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -15833,6 +17449,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -15846,6 +17463,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -15868,6 +17486,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -15881,6 +17500,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -15898,6 +17518,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -15911,6 +17532,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -15933,6 +17555,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -15946,6 +17569,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -15968,6 +17592,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -15981,6 +17606,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -16003,6 +17629,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -16016,6 +17643,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -16033,6 +17661,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -16046,6 +17675,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -16068,6 +17698,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -16081,6 +17712,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -16103,6 +17735,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -16116,6 +17749,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -16138,6 +17772,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -16151,6 +17786,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -16173,6 +17809,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -16186,6 +17823,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -16208,6 +17846,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -16221,6 +17860,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -16238,6 +17878,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -16251,6 +17892,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -16273,6 +17915,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -16286,6 +17929,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -16303,6 +17947,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -16324,6 +17969,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -16350,6 +17996,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -16363,6 +18010,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -16389,6 +18037,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -16402,6 +18051,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -16424,6 +18074,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -16441,6 +18092,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -16467,6 +18119,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -16480,6 +18133,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -16502,6 +18156,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -16515,6 +18170,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -16537,6 +18193,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -16550,6 +18207,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -16572,6 +18230,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -16589,6 +18248,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -16611,6 +18271,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -16624,6 +18285,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -16641,6 +18303,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -16658,6 +18321,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -16684,6 +18348,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -16697,6 +18362,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -16719,6 +18385,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -16732,6 +18399,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -16754,6 +18422,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -16771,6 +18440,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -16793,6 +18463,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -16806,6 +18477,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -16828,6 +18500,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -16841,6 +18514,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -16863,6 +18537,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -16876,6 +18551,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -16902,6 +18578,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -16915,6 +18592,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -16937,6 +18615,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -16954,6 +18633,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -16976,6 +18656,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -16989,6 +18670,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -17011,6 +18693,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -17024,6 +18707,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -17046,6 +18730,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -17059,6 +18744,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -17076,6 +18762,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -17089,6 +18776,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -17111,6 +18799,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -17124,6 +18813,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -17154,6 +18844,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -17167,6 +18858,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -17189,6 +18881,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -17202,6 +18895,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -17224,6 +18918,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -17245,6 +18940,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -17271,6 +18967,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -17284,6 +18981,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -17306,6 +19004,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -17319,6 +19018,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -17341,6 +19041,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -17358,6 +19059,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -17384,6 +19086,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -17397,6 +19100,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -17414,6 +19118,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -17427,6 +19132,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -17449,6 +19155,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -17466,6 +19173,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -17483,6 +19191,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -17500,6 +19209,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -17526,6 +19236,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -17539,6 +19250,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -17556,6 +19268,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -17569,6 +19282,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -17586,6 +19300,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -17599,6 +19314,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -17621,6 +19337,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -17634,6 +19351,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -17656,6 +19374,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -17669,6 +19388,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -17691,6 +19411,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -17704,6 +19425,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -17726,6 +19448,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -17739,6 +19462,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -17765,6 +19489,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -17778,6 +19503,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -17800,6 +19526,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -17813,6 +19540,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -17835,6 +19563,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -17848,6 +19577,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -17870,6 +19600,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -17887,6 +19618,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -17904,6 +19636,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -17921,6 +19654,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -17943,6 +19677,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -17960,6 +19695,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -17986,6 +19722,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -17999,6 +19736,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -18021,6 +19759,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -18038,6 +19777,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -18064,6 +19804,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -18077,6 +19818,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -18094,6 +19836,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -18111,6 +19854,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -18137,6 +19881,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -18150,12 +19895,87 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
           {
             spec = "Combat",
             percentRank = 88.914582518055,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "Ladrinna-Benediction" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 06:56:11",
+    last_update_int = 1649998571,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        partitionName = "P3.5 & P4",
+        allstars = {
+          {
+            spec = "Balance",
+            percentRank = 27.286064640448,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        partitionName = "P3.5 & P4",
+        allstars = {
+          {
+            spec = "Balance",
+            percentRank = 1.4523473072696,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "Replicate-Benediction" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 06:55:37",
+    last_update_int = 1649998537,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        partitionName = "P3.5 & P4",
+        allstars = {
+          {
+            spec = "Arcane",
+            percentRank = 98.285390295719,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        partitionName = "P3.5 & P4",
+        allstars = {
+          {
+            spec = "Arcane",
+            percentRank = 58.921137751476,
           },
         },
         encountersKilled = 6,
@@ -18172,6 +19992,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -18185,6 +20006,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -18207,6 +20029,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -18224,6 +20047,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -18246,6 +20070,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -18267,6 +20092,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -18297,6 +20123,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -18310,6 +20137,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -18332,6 +20160,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -18345,6 +20174,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -18367,6 +20197,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -18380,6 +20211,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -18402,6 +20234,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -18415,6 +20248,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -18445,6 +20279,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -18462,6 +20297,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -18484,6 +20320,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -18497,6 +20334,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -18519,6 +20357,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -18536,6 +20375,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -18570,6 +20410,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -18583,6 +20424,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -18605,6 +20447,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -18618,6 +20461,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -18640,6 +20484,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -18653,6 +20498,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -18675,6 +20521,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -18688,6 +20535,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -18710,6 +20558,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -18723,6 +20572,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -18745,6 +20595,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -18758,6 +20609,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -18780,6 +20632,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -18793,6 +20646,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -18815,6 +20669,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -18828,6 +20683,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -18850,6 +20706,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -18871,6 +20728,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -18901,6 +20759,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -18914,6 +20773,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -18936,6 +20796,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -18953,6 +20814,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -18975,6 +20837,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -18988,6 +20851,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -19010,6 +20874,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -19023,6 +20888,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -19045,6 +20911,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -19058,6 +20925,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -19080,6 +20948,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -19093,6 +20962,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -19115,6 +20985,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -19128,6 +20999,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -19150,6 +21022,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -19175,6 +21048,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -19205,6 +21079,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -19222,6 +21097,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -19244,6 +21120,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -19257,6 +21134,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -19279,6 +21157,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -19296,6 +21175,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -19322,6 +21202,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -19339,6 +21220,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -19356,6 +21238,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -19369,6 +21252,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -19391,6 +21275,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -19404,6 +21289,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -19426,6 +21312,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -19439,6 +21326,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -19461,6 +21349,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -19474,6 +21363,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -19496,6 +21386,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -19509,6 +21400,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -19526,6 +21418,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -19543,6 +21436,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -19560,6 +21454,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -19573,6 +21468,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -19595,6 +21491,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -19616,6 +21513,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -19633,6 +21531,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -19646,6 +21545,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -19668,6 +21568,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -19681,6 +21582,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -19698,6 +21600,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -19711,6 +21614,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -19728,6 +21632,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -19741,6 +21646,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -19763,6 +21669,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -19776,6 +21683,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -19798,6 +21706,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -19811,6 +21720,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -19833,6 +21743,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -19850,6 +21761,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -19872,6 +21784,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -19885,6 +21798,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -19907,6 +21821,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -19920,6 +21835,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -19942,6 +21858,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -19955,6 +21872,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -19977,6 +21895,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -19990,6 +21909,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -20012,6 +21932,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -20029,6 +21950,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -20051,6 +21973,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -20068,6 +21991,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -20085,6 +22009,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -20098,6 +22023,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -20120,6 +22046,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -20128,6 +22055,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -20154,6 +22082,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -20167,6 +22096,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -20189,6 +22119,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -20202,6 +22133,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -20219,6 +22151,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -20232,6 +22165,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -20249,6 +22183,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -20262,6 +22197,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -20284,6 +22220,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -20297,6 +22234,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -20319,6 +22257,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -20332,6 +22271,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -20362,6 +22302,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -20375,6 +22316,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -20397,6 +22339,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -20410,6 +22353,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -20432,6 +22376,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -20445,6 +22390,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -20467,6 +22413,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -20480,6 +22427,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -20497,6 +22445,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -20505,6 +22454,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -20527,6 +22477,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -20540,6 +22491,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -20562,6 +22514,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -20575,6 +22528,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -20597,6 +22551,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -20614,6 +22569,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -20636,6 +22592,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -20653,6 +22610,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -20675,6 +22633,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -20688,6 +22647,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -20710,6 +22670,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -20731,6 +22692,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -20761,6 +22723,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -20774,6 +22737,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -20796,6 +22760,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -20809,6 +22774,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -20831,6 +22797,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -20848,6 +22815,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -20874,6 +22842,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -20887,6 +22856,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -20904,6 +22874,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -20921,6 +22892,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -20947,6 +22919,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -20960,6 +22933,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -20982,6 +22956,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -20995,6 +22970,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -21017,6 +22993,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -21034,6 +23011,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -21056,6 +23034,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -21069,6 +23048,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -21091,6 +23071,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -21104,6 +23085,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -21126,6 +23108,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -21139,6 +23122,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -21161,6 +23145,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -21174,6 +23159,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -21196,6 +23182,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -21209,6 +23196,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -21231,6 +23219,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -21244,6 +23233,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -21266,6 +23256,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -21283,6 +23274,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -21309,6 +23301,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -21326,6 +23319,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -21343,6 +23337,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -21351,6 +23346,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -21368,6 +23364,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -21381,6 +23378,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -21403,6 +23401,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -21416,6 +23415,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -21438,6 +23438,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -21451,6 +23452,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -21473,6 +23475,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -21486,6 +23489,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -21508,6 +23512,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -21521,6 +23526,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -21543,6 +23549,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -21556,6 +23563,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -21578,6 +23586,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -21591,6 +23600,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -21613,6 +23623,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -21626,6 +23637,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -21648,6 +23660,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -21661,6 +23674,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -21683,6 +23697,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -21696,6 +23711,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -21718,6 +23734,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -21726,6 +23743,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -21743,6 +23761,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -21751,6 +23770,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -21773,6 +23793,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -21781,6 +23802,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -21807,6 +23829,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -21824,6 +23847,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -21846,6 +23870,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -21859,6 +23884,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -21881,6 +23907,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -21894,6 +23921,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -21911,6 +23939,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -21924,6 +23953,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -21941,6 +23971,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -21954,6 +23985,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -21976,6 +24008,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -21989,6 +24022,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -22011,6 +24045,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -22019,6 +24054,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -22036,6 +24072,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -22049,6 +24086,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -22071,6 +24109,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -22084,6 +24123,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -22106,6 +24146,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -22119,6 +24160,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -22141,6 +24183,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -22154,6 +24197,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -22171,6 +24215,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -22184,6 +24229,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -22201,6 +24247,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -22214,6 +24261,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -22236,6 +24284,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -22244,6 +24293,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -22261,6 +24311,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -22274,6 +24325,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -22296,6 +24348,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -22313,6 +24366,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -22339,6 +24393,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -22360,6 +24415,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -22390,6 +24446,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -22403,6 +24460,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -22425,6 +24483,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -22438,6 +24497,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -22460,6 +24520,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -22473,6 +24534,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -22490,6 +24552,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -22503,6 +24566,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -22525,6 +24589,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -22542,6 +24607,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -22564,6 +24630,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -22577,6 +24644,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -22594,6 +24662,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -22607,6 +24676,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -22629,6 +24699,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -22642,6 +24713,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -22664,6 +24736,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -22681,6 +24754,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -22703,6 +24777,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -22716,6 +24791,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -22738,6 +24814,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -22751,6 +24828,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -22768,6 +24846,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -22781,6 +24860,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -22803,6 +24883,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -22816,6 +24897,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -22833,6 +24915,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -22846,6 +24929,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -22868,6 +24952,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -22881,6 +24966,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -22903,6 +24989,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -22920,6 +25007,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -22942,6 +25030,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -22959,6 +25048,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -22981,6 +25071,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -22994,6 +25085,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -23016,6 +25108,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -23029,6 +25122,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -23051,6 +25145,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -23064,6 +25159,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -23094,6 +25190,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -23107,6 +25204,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -23129,6 +25227,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -23142,6 +25241,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -23159,6 +25259,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -23176,6 +25277,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -23193,6 +25295,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -23206,6 +25309,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -23228,6 +25332,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -23249,6 +25354,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -23271,6 +25377,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -23284,6 +25391,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -23306,6 +25414,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -23319,6 +25428,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -23341,6 +25451,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -23366,6 +25477,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -23392,6 +25504,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -23405,6 +25518,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -23427,6 +25541,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -23444,6 +25559,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -23466,6 +25582,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -23479,6 +25596,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -23501,6 +25619,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -23518,6 +25637,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -23544,6 +25664,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -23557,6 +25678,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -23579,6 +25701,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -23592,6 +25715,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -23614,6 +25738,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -23627,6 +25752,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -23644,6 +25770,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -23661,6 +25788,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -23683,6 +25811,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -23700,6 +25829,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -23717,6 +25847,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -23734,6 +25865,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -23760,6 +25892,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -23777,6 +25910,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -23794,6 +25928,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -23807,6 +25942,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -23829,6 +25965,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -23846,6 +25983,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -23872,6 +26010,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -23885,6 +26024,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -23907,6 +26047,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -23920,6 +26061,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -23937,6 +26079,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -23950,6 +26093,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -23967,6 +26111,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -23980,6 +26125,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -24002,6 +26148,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -24015,6 +26162,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -24037,6 +26185,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -24050,6 +26199,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -24072,6 +26222,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -24085,6 +26236,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -24102,6 +26254,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -24110,6 +26263,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -24127,6 +26281,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -24140,6 +26295,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -24162,6 +26318,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -24175,6 +26332,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -24192,6 +26350,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -24200,6 +26359,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -24226,6 +26386,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -24239,6 +26400,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -24256,6 +26418,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -24273,6 +26436,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -24299,6 +26463,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -24316,6 +26481,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -24342,6 +26508,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -24355,6 +26522,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -24381,6 +26549,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -24394,6 +26563,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -24416,6 +26586,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -24433,6 +26604,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -24459,6 +26631,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -24472,6 +26645,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -24494,6 +26668,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -24511,6 +26686,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -24537,6 +26713,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -24550,6 +26727,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -24572,6 +26750,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -24585,6 +26764,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -24607,6 +26787,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -24632,6 +26813,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -24658,6 +26840,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -24671,6 +26854,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -24693,6 +26877,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -24706,6 +26891,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -24728,6 +26914,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -24741,6 +26928,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -24763,6 +26951,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -24776,6 +26965,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -24798,6 +26988,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -24815,6 +27006,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -24837,6 +27029,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -24850,6 +27043,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -24872,6 +27066,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -24885,6 +27080,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -24907,6 +27103,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -24924,6 +27121,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -24946,6 +27144,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -24959,6 +27158,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -24981,6 +27181,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -25006,6 +27207,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -25032,6 +27234,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -25045,6 +27248,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -25067,6 +27271,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -25080,6 +27285,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -25102,6 +27308,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -25115,6 +27322,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -25137,6 +27345,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -25150,6 +27359,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -25180,6 +27390,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -25193,6 +27404,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -25215,6 +27427,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -25228,6 +27441,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -25250,6 +27464,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -25263,6 +27478,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -25285,6 +27501,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -25298,6 +27515,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -25320,6 +27538,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -25333,6 +27552,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -25355,6 +27575,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -25368,6 +27589,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -25385,6 +27607,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -25398,6 +27621,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -25420,6 +27644,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -25433,6 +27658,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -25455,6 +27681,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -25476,6 +27703,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -25506,6 +27734,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -25514,6 +27743,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -25531,6 +27761,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -25544,6 +27775,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -25566,6 +27798,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -25579,6 +27812,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -25601,6 +27835,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -25609,6 +27844,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -25631,6 +27867,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -25648,6 +27885,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -25670,6 +27908,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -25683,6 +27922,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -25705,6 +27945,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -25722,6 +27963,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -25744,6 +27986,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -25757,6 +28000,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -25774,6 +28018,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -25787,6 +28032,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -25809,6 +28055,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -25822,6 +28069,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -25844,6 +28092,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -25861,6 +28110,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -25883,6 +28133,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -25896,6 +28147,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -25918,6 +28170,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -25931,6 +28184,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -25957,6 +28211,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -25970,6 +28225,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -25987,6 +28243,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -25995,6 +28252,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -26012,6 +28270,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -26033,6 +28292,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -26055,6 +28315,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -26068,6 +28329,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -26090,6 +28352,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -26103,6 +28366,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -26125,6 +28389,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -26138,6 +28403,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -26160,6 +28426,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -26173,6 +28440,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -26190,6 +28458,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -26203,6 +28472,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -26225,6 +28495,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -26238,6 +28509,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -26260,6 +28532,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -26273,6 +28546,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -26295,6 +28569,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -26308,6 +28583,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -26330,6 +28606,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -26343,6 +28620,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -26360,6 +28638,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -26373,6 +28652,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -26395,6 +28675,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -26408,6 +28689,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -26430,6 +28712,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -26443,6 +28726,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -26460,6 +28744,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -26473,6 +28758,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -26495,6 +28781,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -26516,6 +28803,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -26533,6 +28821,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -26546,6 +28835,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -26580,6 +28870,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -26593,6 +28884,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -26615,6 +28907,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -26628,6 +28921,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -26650,6 +28944,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -26671,6 +28966,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -26688,6 +28984,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -26705,6 +29002,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -26727,6 +29025,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -26740,6 +29039,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -26757,6 +29057,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -26778,6 +29079,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -26808,6 +29110,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -26825,6 +29128,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -26847,6 +29151,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -26860,6 +29165,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -26882,6 +29188,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -26895,6 +29202,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -26917,6 +29225,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -26930,6 +29239,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -26952,6 +29262,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -26965,6 +29276,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -26987,6 +29299,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -27004,6 +29317,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -27030,6 +29344,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -27043,6 +29358,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -27065,6 +29381,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -27078,6 +29395,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -27100,6 +29418,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -27113,6 +29432,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -27135,6 +29455,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -27152,6 +29473,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -27169,6 +29491,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -27182,6 +29505,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -27204,6 +29528,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -27217,6 +29542,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -27239,6 +29565,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -27256,6 +29583,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -27282,6 +29610,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -27295,12 +29624,50 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
           {
             spec = "BeastMastery",
             percentRank = 93.351930059686,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "Dotnhot-Grobbulus" ] = {
+    level = "0",
+    faction = "Horde",
+    guild = nil,
+    last_update = "2022-04-15 06:52:42",
+    last_update_int = 1649998362,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        partitionName = "P3.5 & P4",
+        allstars = {
+          {
+            spec = "Shadow",
+            percentRank = 66.67994026879,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        partitionName = "P3.5 & P4",
+        allstars = {
+          {
+            spec = "Shadow",
+            percentRank = 45.334118339712,
           },
         },
         encountersKilled = 6,
@@ -27317,6 +29684,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -27330,6 +29698,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -27352,6 +29721,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -27373,6 +29743,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -27399,6 +29770,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -27416,6 +29788,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -27442,6 +29815,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -27455,6 +29829,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -27477,6 +29852,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -27494,6 +29870,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -27511,6 +29888,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -27524,6 +29902,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -27546,6 +29925,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -27559,6 +29939,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -27585,6 +29966,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -27598,6 +29980,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -27620,6 +30003,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -27633,6 +30017,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -27655,6 +30040,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -27668,6 +30054,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -27685,6 +30072,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -27698,6 +30086,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -27720,6 +30109,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -27733,6 +30123,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -27755,6 +30146,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -27768,6 +30160,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -27790,6 +30183,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -27803,6 +30197,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -27820,6 +30215,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -27837,6 +30233,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -27863,6 +30260,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -27876,6 +30274,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -27898,6 +30297,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -27911,6 +30311,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -27933,6 +30334,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -27946,6 +30348,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -27963,6 +30366,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -27980,6 +30384,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -28006,6 +30411,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -28019,6 +30425,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -28041,6 +30448,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -28054,6 +30462,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -28076,6 +30485,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -28089,6 +30499,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -28111,6 +30522,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -28128,6 +30540,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -28154,6 +30567,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -28175,6 +30589,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -28201,6 +30616,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -28214,6 +30630,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -28240,6 +30657,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -28253,6 +30671,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -28270,6 +30689,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -28287,6 +30707,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -28304,6 +30725,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -28317,6 +30739,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -28334,6 +30757,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -28347,6 +30771,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -28369,6 +30794,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -28382,6 +30808,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -28399,6 +30826,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -28412,6 +30840,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -28434,6 +30863,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -28447,6 +30877,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -28469,6 +30900,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -28482,6 +30914,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -28499,6 +30932,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -28512,12 +30946,54 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
           {
             spec = "Retribution",
             percentRank = 80.083947233168,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "Krunc-Remulos" ] = {
+    level = "70",
+    faction = "Horde",
+    guild = nil,
+    last_update = "2022-04-15 06:56:31",
+    last_update_int = 1649998591,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        partitionName = "P3.5 & P4",
+        allstars = {
+          {
+            spec = "Affliction",
+            percentRank = 61.573359524812,
+          },
+          {
+            spec = "Destruction",
+            percentRank = 51.407471495226,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        partitionName = "P3.5 & P4",
+        allstars = {
+          {
+            spec = "Affliction",
+            percentRank = 77.39965095986,
           },
         },
         encountersKilled = 6,
@@ -28534,6 +31010,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -28547,6 +31024,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -28569,6 +31047,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -28582,6 +31061,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -28604,6 +31084,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -28617,6 +31098,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -28634,6 +31116,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -28647,6 +31130,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -28664,6 +31148,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -28677,6 +31162,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -28699,6 +31185,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -28712,6 +31199,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -28729,6 +31217,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -28742,6 +31231,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -28764,6 +31254,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -28777,6 +31268,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -28799,6 +31291,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -28816,6 +31309,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -28833,6 +31327,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -28846,6 +31341,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -28868,6 +31364,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -28881,6 +31378,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -28903,6 +31401,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -28916,6 +31415,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -28933,6 +31433,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -28941,6 +31442,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -28958,6 +31460,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -28979,6 +31482,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -29005,6 +31509,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -29022,6 +31527,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -29044,6 +31550,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -29061,6 +31568,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -29087,6 +31595,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -29095,6 +31604,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -29117,6 +31627,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -29130,6 +31641,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -29152,6 +31664,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -29165,6 +31678,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -29187,6 +31701,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -29200,6 +31715,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -29217,6 +31733,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -29230,6 +31747,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -29252,6 +31770,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -29265,6 +31784,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -29287,6 +31807,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -29304,6 +31825,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -29326,6 +31848,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -29339,6 +31862,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -29356,6 +31880,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -29377,6 +31902,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -29403,6 +31929,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -29420,6 +31947,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -29442,6 +31970,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -29455,6 +31984,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -29472,6 +32002,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -29489,6 +32020,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -29511,6 +32043,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -29524,6 +32057,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -29546,6 +32080,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -29559,6 +32094,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -29581,6 +32117,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -29594,6 +32131,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -29616,6 +32154,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -29629,6 +32168,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -29646,6 +32186,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -29659,6 +32200,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -29681,6 +32223,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -29694,6 +32237,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -29716,6 +32260,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -29729,6 +32274,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -29751,6 +32297,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -29768,6 +32315,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -29785,6 +32333,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -29798,6 +32347,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -29815,6 +32365,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -29832,6 +32383,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -29849,6 +32401,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -29870,6 +32423,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -29896,6 +32450,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -29909,6 +32464,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -29935,6 +32491,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -29948,6 +32505,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -29965,6 +32523,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -29978,6 +32537,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -30000,6 +32560,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -30013,6 +32574,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -30035,6 +32597,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -30048,6 +32611,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -30070,6 +32634,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -30083,6 +32648,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -30105,6 +32671,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -30122,6 +32689,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -30148,6 +32716,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -30165,6 +32734,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -30187,6 +32757,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -30200,6 +32771,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -30217,6 +32789,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -30230,6 +32803,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -30247,6 +32821,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -30264,6 +32839,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -30281,6 +32857,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -30294,6 +32871,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -30316,6 +32894,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -30329,6 +32908,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -30351,6 +32931,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -30364,6 +32945,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -30386,6 +32968,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -30399,6 +32982,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -30421,6 +33005,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -30434,6 +33019,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -30456,6 +33042,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -30469,6 +33056,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -30477,6 +33065,114 @@ LogTracker_CharacterData_US = {
             percentRank = 93.224837909577,
           },
         },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "Maligance-Faerlina" ] = {
+    level = "0",
+    faction = "Horde",
+    guild = nil,
+    last_update = "2022-04-15 06:56:07",
+    last_update_int = 1649998567,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        partitionName = "P3.5 & P4",
+        allstars = {
+          {
+            spec = "Champion",
+            percentRank = 98.51122886702,
+          },
+          {
+            spec = "Gladiator",
+            percentRank = 95.681056269019,
+          },
+          {
+            spec = "Arms",
+            percentRank = 36.870559596932,
+          },
+          {
+            spec = "Protection",
+            percentRank = 35.428384496059,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        partitionName = "P3.5 & P4",
+        allstars = {},
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "Sneakyshots-Faerlina" ] = {
+    level = "70",
+    faction = "Horde",
+    guild = nil,
+    last_update = "2022-04-15 06:54:25",
+    last_update_int = 1649998465,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        partitionName = "P3.5 & P4",
+        allstars = {
+          {
+            spec = "Survival",
+            percentRank = 73.602982615858,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        partitionName = "P3.5 & P4",
+        allstars = {
+          {
+            spec = "Survival",
+            percentRank = 68.378629740622,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "Swadedd-Whitemane" ] = {
+    level = "0",
+    faction = "Horde",
+    guild = nil,
+    last_update = "2022-04-15 06:55:32",
+    last_update_int = 1649998532,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        partitionName = "P3.5 & P4",
+        allstars = {},
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        partitionName = "P3.5 & P4",
+        allstars = {},
         encountersKilled = 6,
       },
     },
@@ -30491,6 +33187,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -30499,6 +33196,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -30516,6 +33214,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -30533,6 +33232,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -30550,6 +33250,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -30563,6 +33264,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -30580,6 +33282,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -30593,6 +33296,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -30610,6 +33314,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -30627,6 +33332,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -30649,6 +33355,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -30662,6 +33369,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -30684,6 +33392,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -30697,6 +33406,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -30719,6 +33429,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -30736,6 +33447,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -30758,6 +33470,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -30779,6 +33492,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -30805,6 +33519,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -30818,6 +33533,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -30840,6 +33556,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -30853,6 +33570,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -30875,6 +33593,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -30888,6 +33607,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -30910,6 +33630,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -30923,6 +33644,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -30945,6 +33667,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -30958,6 +33681,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -30980,6 +33704,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -30993,6 +33718,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -31010,6 +33736,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -31023,6 +33750,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -31045,6 +33773,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -31058,6 +33787,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -31080,6 +33810,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -31088,6 +33819,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -31105,6 +33837,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -31118,6 +33851,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -31140,6 +33874,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -31153,6 +33888,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -31175,6 +33911,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -31188,6 +33925,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -31210,6 +33948,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -31223,6 +33962,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -31253,6 +33993,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -31266,6 +34007,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -31288,6 +34030,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -31301,6 +34044,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -31323,6 +34067,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -31336,6 +34081,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -31358,6 +34104,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -31383,6 +34130,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -31409,6 +34157,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -31422,6 +34171,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -31444,6 +34194,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -31457,6 +34208,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -31479,6 +34231,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -31496,6 +34249,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -31513,6 +34267,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -31526,6 +34281,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -31548,6 +34304,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -31565,6 +34322,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -31587,6 +34345,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -31600,6 +34359,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -31622,6 +34382,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -31635,6 +34396,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -31657,6 +34419,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -31670,6 +34433,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -31687,6 +34451,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -31700,6 +34465,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -31722,6 +34488,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -31730,6 +34497,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -31747,6 +34515,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -31760,6 +34529,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -31786,6 +34556,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -31799,6 +34570,79 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        partitionName = "P3.5 & P4",
+        allstars = {},
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "Akimarú-Whitemane" ] = {
+    level = "0",
+    faction = "Horde",
+    guild = nil,
+    last_update = "2022-04-15 06:53:07",
+    last_update_int = 1649998387,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        partitionName = "P3.5 & P4",
+        allstars = {
+          {
+            spec = "Feral",
+            percentRank = 95.60224028592,
+          },
+          {
+            spec = "Warden",
+            percentRank = 91.321702812643,
+          },
+          {
+            spec = "Guardian",
+            percentRank = 19.085652846501,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        partitionName = "P3.5 & P4",
+        allstars = {},
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "Drseta-Whitemane" ] = {
+    level = "70",
+    faction = "Horde",
+    guild = nil,
+    last_update = "2022-04-15 06:55:07",
+    last_update_int = 1649998507,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        partitionName = "P3.5 & P4",
+        allstars = {
+          {
+            spec = "Restoration",
+            percentRank = 98.850706330457,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -31816,6 +34660,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -31829,6 +34674,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -31851,6 +34697,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -31872,6 +34719,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -31894,6 +34742,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -31902,6 +34751,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -31919,6 +34769,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -31936,6 +34787,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -31953,6 +34805,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -31966,6 +34819,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -31988,6 +34842,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -32005,6 +34860,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -32031,6 +34887,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -32044,6 +34901,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -32066,6 +34924,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -32079,6 +34938,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -32101,6 +34961,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -32114,6 +34975,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -32136,6 +34998,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -32149,6 +35012,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -32171,6 +35035,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -32184,6 +35049,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -32206,6 +35072,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -32219,6 +35086,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -32241,6 +35109,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -32254,6 +35123,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -32276,6 +35146,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -32289,6 +35160,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -32311,6 +35183,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -32324,6 +35197,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -32346,6 +35220,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -32359,6 +35234,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -32376,6 +35252,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -32384,6 +35261,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -32406,6 +35284,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -32419,6 +35298,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -32441,6 +35321,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -32454,6 +35335,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -32476,6 +35358,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -32489,6 +35372,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -32511,6 +35395,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -32532,6 +35417,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -32558,6 +35444,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -32571,6 +35458,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -32593,6 +35481,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -32606,6 +35495,34 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        partitionName = "P3.5 & P4",
+        allstars = {},
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "Idlehandz-Mankrik" ] = {
+    level = "0",
+    faction = "Horde",
+    guild = nil,
+    last_update = "2022-04-15 06:54:46",
+    last_update_int = 1649998486,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        partitionName = "P3.5 & P4",
+        allstars = {},
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -32623,6 +35540,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -32636,6 +35554,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -32658,6 +35577,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -32679,6 +35599,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -32709,6 +35630,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -32722,6 +35644,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -32744,6 +35667,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -32757,6 +35681,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -32779,6 +35704,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -32792,6 +35718,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -32814,6 +35741,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -32827,6 +35755,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -32844,6 +35773,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -32857,6 +35787,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -32879,6 +35810,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -32900,6 +35832,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -32930,6 +35863,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -32943,6 +35877,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -32960,6 +35895,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -32977,6 +35913,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -32994,6 +35931,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -33007,6 +35945,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -33029,6 +35968,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -33042,6 +35982,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -33068,6 +36009,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -33085,6 +36027,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -33107,6 +36050,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -33120,6 +36064,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -33142,6 +36087,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -33159,6 +36105,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -33185,6 +36132,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -33198,6 +36146,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -33220,6 +36169,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -33233,6 +36183,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -33255,6 +36206,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -33268,6 +36220,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -33290,6 +36243,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -33303,6 +36257,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -33325,6 +36280,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -33338,6 +36294,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -33360,6 +36317,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -33373,6 +36331,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -33395,6 +36354,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -33416,6 +36376,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -33446,6 +36407,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -33459,6 +36421,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -33481,6 +36444,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -33494,6 +36458,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -33516,6 +36481,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -33529,6 +36495,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -33551,6 +36518,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -33568,6 +36536,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -33590,6 +36559,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -33603,6 +36573,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -33625,6 +36596,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -33638,6 +36610,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -33655,6 +36628,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -33668,6 +36642,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -33690,6 +36665,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -33711,6 +36687,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -33741,6 +36718,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -33754,6 +36732,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -33776,6 +36755,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -33793,6 +36773,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -33815,6 +36796,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -33832,6 +36814,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -33854,6 +36837,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -33867,6 +36851,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -33889,6 +36874,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -33902,6 +36888,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -33924,6 +36911,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -33937,6 +36925,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -33959,6 +36948,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -33972,6 +36962,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -33994,6 +36985,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -34007,6 +36999,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -34029,6 +37022,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -34042,6 +37036,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -34064,6 +37059,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -34077,6 +37073,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -34099,6 +37096,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -34112,6 +37110,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -34138,6 +37137,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -34151,6 +37151,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -34173,6 +37174,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -34186,6 +37188,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -34208,6 +37211,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -34225,6 +37229,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -34247,6 +37252,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -34264,6 +37270,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -34290,6 +37297,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -34303,6 +37311,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -34325,6 +37334,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -34338,6 +37348,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -34355,6 +37366,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -34368,6 +37380,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -34390,6 +37403,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -34403,6 +37417,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -34425,6 +37440,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -34438,6 +37454,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -34460,6 +37477,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -34481,6 +37499,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -34511,6 +37530,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -34524,6 +37544,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -34546,6 +37567,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -34563,6 +37585,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -34585,6 +37608,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -34598,6 +37622,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -34620,6 +37645,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -34641,6 +37667,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -34658,6 +37685,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -34679,6 +37707,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -34709,6 +37738,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -34722,6 +37752,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -34744,6 +37775,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -34757,6 +37789,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -34779,6 +37812,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -34796,6 +37830,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -34813,6 +37848,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -34826,6 +37862,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -34848,6 +37885,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -34861,6 +37899,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -34883,6 +37922,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -34900,6 +37940,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -34926,6 +37967,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -34939,6 +37981,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -34956,6 +37999,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -34969,6 +38013,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -34991,6 +38036,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -35004,6 +38050,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -35021,6 +38068,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -35034,6 +38082,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -35064,6 +38113,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -35077,6 +38127,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -35099,6 +38150,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -35112,6 +38164,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -35129,6 +38182,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -35142,6 +38196,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -35164,6 +38219,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -35177,6 +38233,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -35194,6 +38251,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -35207,6 +38265,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -35229,6 +38288,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -35242,6 +38302,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -35259,6 +38320,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -35272,6 +38334,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -35289,6 +38352,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -35302,6 +38366,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -35319,6 +38384,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -35332,6 +38398,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -35354,6 +38421,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -35367,6 +38435,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -35384,6 +38453,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -35401,6 +38471,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -35423,6 +38494,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -35436,6 +38508,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -35453,6 +38526,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -35466,6 +38540,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -35483,6 +38558,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -35496,6 +38572,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -35518,6 +38595,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -35531,6 +38609,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -35553,6 +38632,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -35566,6 +38646,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -35583,6 +38664,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -35596,6 +38678,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -35613,6 +38696,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -35626,6 +38710,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -35648,6 +38733,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -35661,6 +38747,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -35678,6 +38765,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -35695,6 +38783,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -35717,6 +38806,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -35730,6 +38820,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -35747,6 +38838,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -35760,6 +38852,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -35777,6 +38870,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -35790,6 +38884,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -35812,6 +38907,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -35833,6 +38929,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -35855,6 +38952,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -35868,6 +38966,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -35890,6 +38989,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -35903,6 +39003,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -35920,6 +39021,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -35933,6 +39035,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -35950,6 +39053,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -35971,6 +39075,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -35997,6 +39102,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -36022,6 +39128,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -36048,6 +39155,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -36061,6 +39169,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -36078,6 +39187,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -36086,6 +39196,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -36103,6 +39214,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -36116,6 +39228,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -36138,6 +39251,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -36151,6 +39265,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -36173,6 +39288,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -36186,6 +39302,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -36203,6 +39320,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -36216,6 +39334,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -36238,6 +39357,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -36255,6 +39375,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -36285,6 +39406,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -36298,6 +39420,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -36320,6 +39443,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -36333,6 +39457,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -36355,6 +39480,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -36368,6 +39494,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -36385,6 +39512,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -36402,6 +39530,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -36424,6 +39553,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -36432,6 +39562,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -36449,6 +39580,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -36462,6 +39594,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -36484,6 +39617,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -36497,6 +39631,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -36519,6 +39654,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -36536,6 +39672,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -36558,6 +39695,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -36571,6 +39709,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -36588,6 +39727,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -36601,6 +39741,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -36627,6 +39768,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -36644,6 +39786,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -36666,6 +39809,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -36679,6 +39823,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -36705,6 +39850,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -36718,6 +39864,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -36735,6 +39882,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -36748,6 +39896,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -36770,6 +39919,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -36783,6 +39933,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -36805,6 +39956,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -36822,6 +39974,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -36839,6 +39992,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -36860,6 +40014,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -36882,6 +40037,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -36895,6 +40051,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -36912,6 +40069,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -36929,6 +40087,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -36951,6 +40110,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -36964,6 +40124,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -36981,6 +40142,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -36994,6 +40156,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -37011,6 +40174,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -37024,6 +40188,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -37046,6 +40211,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -37059,6 +40225,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -37076,6 +40243,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -37089,6 +40257,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -37111,6 +40280,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -37124,6 +40294,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -37141,6 +40312,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -37154,6 +40326,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -37171,6 +40344,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -37179,6 +40353,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -37196,6 +40371,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -37217,6 +40393,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -37239,6 +40416,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -37256,6 +40434,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -37278,6 +40457,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -37291,6 +40471,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -37313,6 +40494,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -37338,6 +40520,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -37368,6 +40551,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -37381,6 +40565,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -37403,6 +40588,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -37416,6 +40602,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -37438,6 +40625,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -37455,6 +40643,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -37481,6 +40670,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -37494,6 +40684,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -37516,6 +40707,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -37537,6 +40729,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -37563,6 +40756,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -37576,6 +40770,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -37598,6 +40793,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -37611,6 +40807,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -37633,6 +40830,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -37646,6 +40844,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -37663,6 +40862,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -37676,6 +40876,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -37693,6 +40894,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -37706,6 +40908,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -37732,6 +40935,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -37753,6 +40957,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -37779,6 +40984,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -37792,6 +40998,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -37814,6 +41021,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -37827,6 +41035,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -37849,6 +41058,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -37862,6 +41072,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -37884,6 +41095,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -37897,6 +41109,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -37923,6 +41136,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -37936,6 +41150,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -37958,6 +41173,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -37971,6 +41187,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -37993,6 +41210,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -38006,6 +41224,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -38028,6 +41247,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -38041,6 +41261,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -38063,6 +41284,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -38076,6 +41298,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -38098,6 +41321,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -38111,6 +41335,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -38128,6 +41353,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -38141,6 +41367,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -38163,6 +41390,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -38176,6 +41404,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -38198,6 +41427,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -38211,6 +41441,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -38228,6 +41459,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -38241,6 +41473,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -38258,6 +41491,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -38271,6 +41505,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -38293,6 +41528,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -38306,6 +41542,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -38323,6 +41560,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -38336,6 +41574,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -38358,6 +41597,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -38371,6 +41611,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -38388,6 +41629,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -38401,6 +41643,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -38418,6 +41661,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -38431,6 +41675,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -38453,6 +41698,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -38470,6 +41716,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -38496,6 +41743,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -38513,6 +41761,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -38530,6 +41779,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -38543,6 +41793,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -38565,6 +41816,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -38578,6 +41830,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -38600,6 +41853,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -38617,6 +41871,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -38639,6 +41894,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -38652,6 +41908,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -38669,6 +41926,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -38682,6 +41940,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -38704,6 +41963,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -38725,6 +41985,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -38755,6 +42016,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -38768,6 +42030,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -38790,6 +42053,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -38807,6 +42071,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -38829,6 +42094,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -38846,6 +42112,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -38863,6 +42130,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -38880,6 +42148,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -38897,6 +42166,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -38910,6 +42180,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -38927,6 +42198,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -38935,6 +42207,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -38952,6 +42225,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -38973,6 +42247,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -39003,6 +42278,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -39016,6 +42292,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -39033,6 +42310,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -39046,6 +42324,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -39063,6 +42342,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -39076,6 +42356,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -39093,6 +42374,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -39106,6 +42388,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -39128,6 +42411,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -39141,6 +42425,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -39163,6 +42448,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -39180,6 +42466,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -39206,6 +42493,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -39219,6 +42507,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -39241,6 +42530,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -39249,6 +42539,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -39266,6 +42557,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -39279,6 +42571,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -39301,6 +42594,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -39318,6 +42612,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -39340,6 +42635,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -39353,6 +42649,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -39375,6 +42672,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -39388,6 +42686,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -39410,6 +42709,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -39427,6 +42727,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -39453,6 +42754,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -39466,6 +42768,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -39488,6 +42791,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -39509,6 +42813,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -39539,6 +42844,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -39552,6 +42858,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -39578,6 +42885,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -39591,6 +42899,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -39608,6 +42917,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -39621,6 +42931,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -39638,6 +42949,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -39651,6 +42963,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -39673,6 +42986,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -39686,6 +43000,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -39708,6 +43023,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -39725,6 +43041,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -39742,6 +43059,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -39755,6 +43073,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -39777,6 +43096,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -39790,6 +43110,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -39820,6 +43141,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -39833,6 +43155,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -39855,6 +43178,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -39868,6 +43192,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -39885,6 +43210,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -39898,6 +43224,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -39920,6 +43247,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -39933,6 +43261,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -39955,6 +43284,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -39968,6 +43298,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -39998,6 +43329,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -40015,6 +43347,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -40037,6 +43370,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -40050,6 +43384,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -40067,6 +43402,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -40084,6 +43420,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -40110,6 +43447,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -40123,6 +43461,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -40145,6 +43484,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -40158,6 +43498,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -40180,6 +43521,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -40193,6 +43535,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -40215,6 +43558,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -40232,6 +43576,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -40254,6 +43599,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -40275,6 +43621,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -40305,6 +43652,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -40318,6 +43666,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -40340,6 +43689,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -40361,6 +43711,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -40387,6 +43738,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -40400,12 +43752,54 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
           {
             spec = "Destruction",
             percentRank = 88.200707112113,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "Tomcrusader-Grobbulus" ] = {
+    level = "0",
+    faction = "Horde",
+    guild = nil,
+    last_update = "2022-04-15 06:56:36",
+    last_update_int = 1649998596,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        partitionName = "P3.5 & P4",
+        allstars = {
+          {
+            spec = "Justicar",
+            percentRank = 93.490605276959,
+          },
+          {
+            spec = "Protection",
+            percentRank = 80.070470360127,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        partitionName = "P3.5 & P4",
+        allstars = {
+          {
+            spec = "Justicar",
+            percentRank = 99.510696214158,
           },
         },
         encountersKilled = 6,
@@ -40422,6 +43816,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -40435,6 +43830,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -40457,6 +43853,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -40470,6 +43867,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -40492,6 +43890,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -40505,6 +43904,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -40527,6 +43927,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -40548,6 +43949,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -40578,6 +43980,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -40591,6 +43994,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -40613,6 +44017,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -40630,6 +44035,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -40656,6 +44062,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -40669,6 +44076,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -40691,6 +44099,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -40704,6 +44113,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -40726,6 +44136,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -40739,6 +44150,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -40761,6 +44173,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -40774,6 +44187,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -40796,6 +44210,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -40813,6 +44228,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -40839,6 +44255,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -40852,6 +44269,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -40874,6 +44292,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -40887,6 +44306,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -40909,6 +44329,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -40926,6 +44347,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -40956,6 +44378,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -40969,6 +44392,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -40991,6 +44415,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -41008,6 +44433,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -41034,6 +44460,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -41047,6 +44474,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -41069,6 +44497,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -41082,6 +44511,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -41104,6 +44534,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -41117,6 +44548,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -41139,6 +44571,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -41152,6 +44585,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -41174,6 +44608,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -41187,6 +44622,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -41209,6 +44645,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -41226,6 +44663,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -41248,6 +44686,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -41261,6 +44700,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -41283,6 +44723,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -41300,6 +44741,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -41322,6 +44764,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -41339,6 +44782,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -41361,6 +44805,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -41374,6 +44819,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -41396,6 +44842,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -41409,6 +44856,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -41435,6 +44883,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -41448,6 +44897,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -41470,6 +44920,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -41483,6 +44934,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -41500,6 +44952,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -41513,6 +44966,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -41530,6 +44984,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -41543,6 +44998,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -41560,6 +45016,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -41577,6 +45034,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -41594,6 +45052,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -41611,6 +45070,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -41637,6 +45097,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -41658,6 +45119,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -41675,6 +45137,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -41692,6 +45155,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -41709,6 +45173,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -41722,6 +45187,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -41739,6 +45205,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -41752,6 +45219,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -41769,6 +45237,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -41786,6 +45255,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -41812,6 +45282,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -41833,6 +45304,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -41855,6 +45327,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -41868,6 +45341,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -41890,6 +45364,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -41903,6 +45378,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -41920,6 +45396,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -41933,6 +45410,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -41955,6 +45433,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -41968,6 +45447,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -41985,6 +45465,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -41998,6 +45479,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -42020,6 +45502,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -42033,6 +45516,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -42055,6 +45539,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -42068,6 +45553,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -42085,6 +45571,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -42098,6 +45585,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -42115,6 +45603,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -42128,6 +45617,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -42150,6 +45640,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -42163,6 +45654,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -42185,6 +45677,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -42202,6 +45695,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -42219,6 +45713,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -42232,6 +45727,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -42254,6 +45750,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -42271,6 +45768,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -42288,6 +45786,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -42301,6 +45800,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -42318,6 +45818,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -42331,6 +45832,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -42353,6 +45855,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -42366,6 +45869,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -42388,6 +45892,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -42401,6 +45906,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -42418,6 +45924,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -42435,6 +45942,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -42457,6 +45965,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -42470,6 +45979,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -42492,6 +46002,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -42505,6 +46016,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -42527,6 +46039,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -42540,6 +46053,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -42562,6 +46076,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -42575,6 +46090,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -42597,6 +46113,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -42610,6 +46127,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -42636,6 +46154,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -42649,6 +46168,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -42675,6 +46195,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -42688,6 +46209,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -42714,6 +46236,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -42727,6 +46250,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -42749,6 +46273,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -42770,6 +46295,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -42804,6 +46330,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -42821,6 +46348,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -42843,6 +46371,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -42856,6 +46385,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -42878,6 +46408,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -42891,6 +46422,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -42913,6 +46445,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -42921,6 +46454,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -42947,6 +46481,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -42964,6 +46499,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -42990,6 +46526,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -43003,6 +46540,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -43025,6 +46563,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -43046,6 +46585,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -43072,6 +46612,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -43085,6 +46626,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -43107,6 +46649,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -43120,6 +46663,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -43137,6 +46681,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -43150,6 +46695,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -43172,6 +46718,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -43189,6 +46736,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -43215,6 +46763,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -43228,6 +46777,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -43245,6 +46795,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -43258,6 +46809,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -43280,6 +46832,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -43293,6 +46846,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -43315,6 +46869,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -43328,6 +46883,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -43350,6 +46906,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -43367,6 +46924,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -43393,6 +46951,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -43406,6 +46965,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -43428,6 +46988,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -43449,6 +47010,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -43479,6 +47041,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -43492,6 +47055,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -43514,6 +47078,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -43527,6 +47092,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -43549,6 +47115,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -43566,6 +47133,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -43592,6 +47160,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -43605,6 +47174,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -43627,6 +47197,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -43640,6 +47211,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -43662,6 +47234,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -43675,6 +47248,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -43697,6 +47271,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -43710,6 +47285,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -43732,6 +47308,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -43745,6 +47322,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -43767,6 +47345,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -43780,6 +47359,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -43802,6 +47382,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -43819,6 +47400,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -43841,6 +47423,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -43854,6 +47437,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -43876,6 +47460,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -43897,6 +47482,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -43923,6 +47509,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -43936,6 +47523,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -43962,6 +47550,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -43983,6 +47572,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -44000,6 +47590,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -44013,6 +47604,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -44035,6 +47627,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -44052,6 +47645,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -44078,6 +47672,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -44091,6 +47686,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -44113,6 +47709,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -44126,6 +47723,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -44148,6 +47746,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -44161,6 +47760,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -44183,6 +47783,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -44200,6 +47801,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -44226,6 +47828,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -44239,6 +47842,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -44261,6 +47865,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -44274,6 +47879,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -44291,6 +47897,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -44304,6 +47911,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -44326,6 +47934,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -44339,6 +47948,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -44356,6 +47966,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -44369,6 +47980,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -44391,6 +48003,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -44412,6 +48025,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -44442,6 +48056,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -44455,6 +48070,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -44477,6 +48093,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -44494,6 +48111,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -44516,6 +48134,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -44529,6 +48148,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -44551,6 +48171,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -44564,6 +48185,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -44581,6 +48203,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -44594,6 +48217,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -44616,6 +48240,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -44629,6 +48254,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -44651,6 +48277,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -44664,6 +48291,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -44681,6 +48309,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -44702,6 +48331,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -44732,6 +48362,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -44745,6 +48376,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -44767,6 +48399,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -44784,6 +48417,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -44806,6 +48440,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -44819,6 +48454,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -44841,6 +48477,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -44862,6 +48499,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -44892,6 +48530,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -44905,6 +48544,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -44927,6 +48567,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -44944,6 +48585,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -44970,6 +48612,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -44983,6 +48626,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -45000,6 +48644,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -45017,6 +48662,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -45039,6 +48685,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -45052,6 +48699,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -45074,6 +48722,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -45082,6 +48731,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -45104,6 +48754,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -45117,6 +48768,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -45139,6 +48791,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -45152,6 +48805,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -45174,6 +48828,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -45191,6 +48846,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -45208,6 +48864,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -45221,6 +48878,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -45243,6 +48901,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -45256,6 +48915,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -45278,6 +48938,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -45299,6 +48960,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -45329,6 +48991,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -45346,6 +49009,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -45372,6 +49036,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -45385,6 +49050,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -45411,6 +49077,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -45424,6 +49091,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -45446,6 +49114,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -45459,6 +49128,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -45476,6 +49146,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -45489,6 +49160,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -45506,6 +49178,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -45519,6 +49192,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -45541,6 +49215,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -45554,6 +49229,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -45576,6 +49252,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -45589,6 +49266,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -45611,6 +49289,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -45624,6 +49303,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -45646,6 +49326,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -45659,6 +49340,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -45681,6 +49363,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -45694,6 +49377,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -45716,6 +49400,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -45729,6 +49414,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -45751,6 +49437,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -45764,6 +49451,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -45786,6 +49474,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -45799,6 +49488,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -45821,6 +49511,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -45834,6 +49525,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -45856,6 +49548,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -45869,6 +49562,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -45891,6 +49585,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -45904,6 +49599,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -45926,6 +49622,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -45939,6 +49636,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -45961,6 +49659,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -45974,6 +49673,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -45996,6 +49696,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -46009,6 +49710,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -46031,6 +49733,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -46044,6 +49747,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -46066,6 +49770,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -46079,6 +49784,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -46101,6 +49807,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -46114,6 +49821,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -46136,6 +49844,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -46153,6 +49862,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -46179,6 +49889,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -46192,6 +49903,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -46214,6 +49926,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -46222,6 +49935,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -46239,6 +49953,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -46252,6 +49967,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -46269,6 +49985,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -46282,6 +49999,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -46304,6 +50022,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -46317,6 +50036,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -46339,6 +50059,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -46352,6 +50073,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -46374,6 +50096,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -46391,6 +50114,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -46417,6 +50141,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -46430,6 +50155,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -46452,6 +50178,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -46465,6 +50192,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -46487,6 +50215,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -46500,6 +50229,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -46517,6 +50247,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -46530,6 +50261,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -46547,6 +50279,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -46560,6 +50293,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -46582,6 +50316,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -46599,6 +50334,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -46621,6 +50357,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -46634,6 +50371,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -46651,6 +50389,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -46672,6 +50411,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -46698,6 +50438,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -46711,6 +50452,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -46733,6 +50475,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -46746,6 +50489,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -46768,6 +50512,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -46781,6 +50526,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -46803,6 +50549,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -46824,6 +50571,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -46854,6 +50602,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -46867,6 +50616,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -46889,6 +50639,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -46902,6 +50653,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -46924,6 +50676,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -46937,6 +50690,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -46959,6 +50713,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -46972,6 +50727,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -46989,6 +50745,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -47002,6 +50759,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -47019,6 +50777,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -47036,6 +50795,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -47062,6 +50822,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -47075,6 +50836,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -47097,6 +50859,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -47110,6 +50873,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -47132,6 +50896,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -47145,6 +50910,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -47167,6 +50933,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -47180,6 +50947,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -47202,6 +50970,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -47215,6 +50984,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -47237,6 +51007,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -47250,6 +51021,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -47272,6 +51044,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -47289,6 +51062,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -47306,6 +51080,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -47319,6 +51094,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -47336,6 +51112,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -47353,6 +51130,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -47379,6 +51157,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -47392,6 +51171,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -47409,6 +51189,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -47422,6 +51203,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -47444,6 +51226,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -47461,6 +51244,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -47483,6 +51267,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -47496,6 +51281,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -47518,6 +51304,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -47531,6 +51318,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -47553,6 +51341,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -47566,6 +51355,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -47588,6 +51378,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -47605,6 +51396,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -47622,6 +51414,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -47635,6 +51428,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -47652,6 +51446,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -47665,6 +51460,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -47682,6 +51478,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -47695,6 +51492,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -47717,6 +51515,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -47730,6 +51529,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -47752,6 +51552,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -47760,6 +51561,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -47782,6 +51584,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -47795,6 +51598,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -47817,6 +51621,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -47830,6 +51635,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -47852,6 +51658,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -47865,6 +51672,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -47887,6 +51695,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -47900,6 +51709,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -47917,6 +51727,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -47925,6 +51736,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -47942,6 +51754,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -47955,6 +51768,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -47977,6 +51791,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -47990,6 +51805,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -48012,6 +51828,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -48025,6 +51842,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -48042,6 +51860,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -48055,6 +51874,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -48077,6 +51897,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -48090,6 +51911,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -48107,6 +51929,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -48120,6 +51943,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -48142,6 +51966,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -48155,6 +51980,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -48177,6 +52003,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -48190,6 +52017,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -48212,6 +52040,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -48225,6 +52054,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -48242,6 +52072,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -48255,6 +52086,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -48277,6 +52109,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -48285,6 +52118,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -48307,6 +52141,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -48324,6 +52159,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -48346,6 +52182,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -48359,6 +52196,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -48381,6 +52219,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -48394,6 +52233,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
@@ -48411,6 +52251,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -48428,6 +52269,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -48454,6 +52296,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {
@@ -48467,6 +52310,7 @@ LogTracker_CharacterData_US = {
       {
         zoneId = 1012,
         zoneName = "Zul'Aman",
+        zoneEncounters = "6",
         partition = 5,
         partitionName = "P3.5 & P4",
         allstars = {},
