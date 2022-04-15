@@ -27046,6 +27046,53 @@ LogTracker_CharacterData_US = {
       },
     },
   },
+  [ "Althen-Benediction" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 19:59:51",
+    last_update_int = 1650045591,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Holy",
+            percentRank = 90.501306658843,
+          },
+          {
+            spec = "Retribution",
+            percentRank = 65.527915975677,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Justicar",
+            percentRank = 86.476090279947,
+          },
+          {
+            spec = "Retribution",
+            percentRank = 83.526936026936,
+          },
+          {
+            spec = "Protection",
+            percentRank = 31.357165125221,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
   [ "Althilos-Benediction" ] = {
     level = "0",
     faction = "Alliance",
@@ -28273,6 +28320,36 @@ LogTracker_CharacterData_US = {
             percentRank = 9.022125415568,
           },
         },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "Atilathehunk-Benediction" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 20:01:57",
+    last_update_int = 1650045717,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Elemental",
+            percentRank = 4.8649980235229,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {},
         encountersKilled = 6,
       },
     },
@@ -30969,6 +31046,49 @@ LogTracker_CharacterData_US = {
       },
     },
   },
+  [ "Blitzsmit-Benediction" ] = {
+    level = "70",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 20:02:13",
+    last_update_int = 1650045733,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Feral",
+            percentRank = 96.484521802622,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Warden",
+            percentRank = 95.01718775577,
+          },
+          {
+            spec = "Guardian",
+            percentRank = 92.647058823529,
+          },
+          {
+            spec = "Feral",
+            percentRank = 86.086017839895,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
   [ "Bloodyraín-Benediction" ] = {
     level = "0",
     faction = "Alliance",
@@ -32979,6 +33099,41 @@ LogTracker_CharacterData_US = {
           {
             spec = "Elemental",
             percentRank = 64.871769915811,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "Ceriously-Benediction" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 19:59:18",
+    last_update_int = 1650045558,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Combat",
+            percentRank = 26.472897938821,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Combat",
+            percentRank = 22.177913037395,
           },
         },
         encountersKilled = 6,
@@ -35829,6 +35984,36 @@ LogTracker_CharacterData_US = {
       },
     },
   },
+  [ "Derekowns-Benediction" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 19:49:31",
+    last_update_int = 1650044971,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Survival",
+            percentRank = 86.014696850977,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {},
+        encountersKilled = 6,
+      },
+    },
+  },
   [ "Dertyben-Benediction" ] = {
     level = "0",
     faction = "Alliance",
@@ -37145,6 +37330,41 @@ LogTracker_CharacterData_US = {
       },
     },
   },
+  [ "Dumaw-Benediction" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 19:50:34",
+    last_update_int = 1650045034,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Elemental",
+            percentRank = 98.408506298946,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Elemental",
+            percentRank = 72.094303494495,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
   [ "Dumpsters-Benediction" ] = {
     level = "0",
     faction = "Alliance",
@@ -37702,6 +37922,41 @@ LogTracker_CharacterData_US = {
       },
     },
   },
+  [ "Eiliminti-Benediction" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 20:06:14",
+    last_update_int = 1650045974,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Restoration",
+            percentRank = 32.001505250457,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Restoration",
+            percentRank = 56.134355319045,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
   [ "Elcosmico-Benediction" ] = {
     level = "0",
     faction = "Alliance",
@@ -38038,6 +38293,41 @@ LogTracker_CharacterData_US = {
           {
             spec = "Restoration",
             percentRank = 75.103744568667,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "Eonnx-Benediction" ] = {
+    level = "70",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 19:56:22",
+    last_update_int = 1650045382,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Destruction",
+            percentRank = 86.857497976842,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Destruction",
+            percentRank = 1.1870857171661,
           },
         },
         encountersKilled = 6,
@@ -39674,6 +39964,41 @@ LogTracker_CharacterData_US = {
           {
             spec = "Holy",
             percentRank = 52.871790596866,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "Framt-Benediction" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 19:59:52",
+    last_update_int = 1650045592,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Holy",
+            percentRank = 81.665154172097,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Holy",
+            percentRank = 58.783618082237,
           },
         },
         encountersKilled = 6,
@@ -42370,6 +42695,41 @@ LogTracker_CharacterData_US = {
       },
     },
   },
+  [ "Healpet-Benediction" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 19:57:31",
+    last_update_int = 1650045451,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "BeastMastery",
+            percentRank = 79.975440899371,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "BeastMastery",
+            percentRank = 78.207228030431,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
   [ "Hëalðruw-Benediction" ] = {
     level = "0",
     faction = "Alliance",
@@ -42468,6 +42828,41 @@ LogTracker_CharacterData_US = {
           {
             spec = "Protection",
             percentRank = 74.276906023763,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "Heckinpots-Benediction" ] = {
+    level = "70",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 20:02:59",
+    last_update_int = 1650045779,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Arcane",
+            percentRank = 90.711138696975,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Arcane",
+            percentRank = 90.56867243271,
           },
         },
         encountersKilled = 6,
@@ -43435,6 +43830,41 @@ LogTracker_CharacterData_US = {
       },
     },
   },
+  [ "Hotdøt-Benediction" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 19:48:32",
+    last_update_int = 1650044912,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Destruction",
+            percentRank = 92.447901549893,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Destruction",
+            percentRank = 80.857927766716,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
   [ "Hricen-Benediction" ] = {
     level = "0",
     faction = "Alliance",
@@ -43496,6 +43926,49 @@ LogTracker_CharacterData_US = {
         zoneEncounters = "6",
         partition = 5,
         allstars = {},
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "Hughhöney-Benediction" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 20:00:55",
+    last_update_int = 1650045655,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Holy",
+            percentRank = 96.490660200803,
+          },
+          {
+            spec = "Shadow",
+            percentRank = 85.64227016682,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Holy",
+            percentRank = 95.790558407217,
+          },
+          {
+            spec = "Discipline",
+            percentRank = 57.021489255372,
+          },
+        },
         encountersKilled = 6,
       },
     },
@@ -44642,6 +45115,41 @@ LogTracker_CharacterData_US = {
           {
             spec = "Elemental",
             percentRank = 89.155098133078,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "Jalantha-Benediction" ] = {
+    level = "70",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 19:47:43",
+    last_update_int = 1650044863,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Shadow",
+            percentRank = 83.664308897373,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Shadow",
+            percentRank = 67.311237214009,
           },
         },
         encountersKilled = 6,
@@ -46823,6 +47331,41 @@ LogTracker_CharacterData_US = {
       },
     },
   },
+  [ "Klhast-Benediction" ] = {
+    level = "70",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 20:04:26",
+    last_update_int = 1650045866,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Arcane",
+            percentRank = 79.061311843493,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Arcane",
+            percentRank = 64.758267907268,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
   [ "Kmorningstar-Benediction" ] = {
     level = "0",
     faction = "Alliance",
@@ -48124,6 +48667,49 @@ LogTracker_CharacterData_US = {
         zoneEncounters = "6",
         partition = 5,
         allstars = {},
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "Liestar-Benediction" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 19:49:45",
+    last_update_int = 1650044985,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Justicar",
+            percentRank = 42.133984859158,
+          },
+          {
+            spec = "Protection",
+            percentRank = 12.507531144928,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Justicar",
+            percentRank = 94.838327881249,
+          },
+          {
+            spec = "Protection",
+            percentRank = 78.381655062524,
+          },
+        },
         encountersKilled = 6,
       },
     },
@@ -49438,6 +50024,49 @@ LogTracker_CharacterData_US = {
           {
             spec = "Discipline",
             percentRank = 77.361853832442,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "Maju-Benediction" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 19:58:07",
+    last_update_int = 1650045487,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Restoration",
+            percentRank = 69.805392619494,
+          },
+          {
+            spec = "Elemental",
+            percentRank = 3.2614735925478,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Elemental",
+            percentRank = 59.530876017233,
+          },
+          {
+            spec = "Restoration",
+            percentRank = 54.152223795342,
           },
         },
         encountersKilled = 6,
@@ -51267,6 +51896,41 @@ LogTracker_CharacterData_US = {
       },
     },
   },
+  [ "Mookton-Benediction" ] = {
+    level = "70",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 20:00:40",
+    last_update_int = 1650045640,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Combat",
+            percentRank = 97.319820027901,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Combat",
+            percentRank = 93.846853464862,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
   [ "Moonkip-Benediction" ] = {
     level = "70",
     faction = "Alliance",
@@ -51475,6 +52139,65 @@ LogTracker_CharacterData_US = {
           {
             spec = "Holy",
             percentRank = 91.024855159868,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "Nachii-Benediction" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 19:56:17",
+    last_update_int = 1650045377,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Restoration",
+            percentRank = 92.872625270942,
+          },
+          {
+            spec = "Feral",
+            percentRank = 80.603665804082,
+          },
+          {
+            spec = "Warden",
+            percentRank = 63.377965955983,
+          },
+          {
+            spec = "Balance",
+            percentRank = 62.21698928448,
+          },
+          {
+            spec = "Guardian",
+            percentRank = 6.8333351402335,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Feral",
+            percentRank = 67.337083120277,
+          },
+          {
+            spec = "Guardian",
+            percentRank = 23.497602035823,
+          },
+          {
+            spec = "Warden",
+            percentRank = 14.39188083156,
           },
         },
         encountersKilled = 6,
@@ -52894,6 +53617,41 @@ LogTracker_CharacterData_US = {
           {
             spec = "Enhancement",
             percentRank = 65.154082721396,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "Nuaria-Benediction" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 19:55:23",
+    last_update_int = 1650045323,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Holy",
+            percentRank = 36.402853140927,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Holy",
+            percentRank = 56.474568362109,
           },
         },
         encountersKilled = 6,
@@ -57510,6 +58268,61 @@ LogTracker_CharacterData_US = {
       },
     },
   },
+  [ "Rlemos-Benediction" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 20:07:15",
+    last_update_int = 1650046035,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Restoration",
+            percentRank = 63.173105529347,
+          },
+          {
+            spec = "Feral",
+            percentRank = 55.464882799497,
+          },
+          {
+            spec = "Warden",
+            percentRank = 14.011992778542,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Warden",
+            percentRank = 75.763627434932,
+          },
+          {
+            spec = "Restoration",
+            percentRank = 65.96192722372,
+          },
+          {
+            spec = "Feral",
+            percentRank = 64.800295437759,
+          },
+          {
+            spec = "Guardian",
+            percentRank = 36.891944797886,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
   [ "Robbocop-Benediction" ] = {
     level = "0",
     faction = "Alliance",
@@ -61009,6 +61822,53 @@ LogTracker_CharacterData_US = {
         zoneEncounters = "6",
         partition = 5,
         allstars = {},
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "Smitblitz-Benediction" ] = {
+    level = "70",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 19:50:40",
+    last_update_int = 1650045040,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Arms",
+            percentRank = 93.784232365145,
+          },
+          {
+            spec = "Fury",
+            percentRank = 27.358806410906,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Fury",
+            percentRank = 96.449302880703,
+          },
+          {
+            spec = "Gladiator",
+            percentRank = 80.353406841956,
+          },
+          {
+            spec = "Protection",
+            percentRank = 5.7040609926871,
+          },
+        },
         encountersKilled = 6,
       },
     },
@@ -66753,6 +67613,40 @@ LogTracker_CharacterData_US = {
       },
     },
   },
+  [ "Vallerina-Benediction" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 19:51:34",
+    last_update_int = 1650045094,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Holy",
+            percentRank = 18.589554961805,
+          },
+          {
+            spec = "Discipline",
+            percentRank = 5.8310206598828,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {},
+        encountersKilled = 6,
+      },
+    },
+  },
   [ "Vandarr-Benediction" ] = {
     level = "0",
     faction = "Alliance",
@@ -68782,6 +69676,31 @@ LogTracker_CharacterData_US = {
             percentRank = 97.600087269554,
           },
         },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "Xployt-Benediction" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 20:02:16",
+    last_update_int = 1650045736,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {},
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {},
         encountersKilled = 6,
       },
     },
@@ -82292,31 +83211,6 @@ LogTracker_CharacterData_US = {
       },
     },
   },
-  [ "Mutalisk-Faerlina" ] = {
-    level = "0",
-    faction = "Alliance",
-    guild = nil,
-    last_update = "2022-04-15 18:29:49",
-    last_update_int = 1650040189,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {},
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {},
-        encountersKilled = 6,
-      },
-    },
-  },
   [ "Megacremoso-Faerlina" ] = {
     level = "0",
     faction = "Horde",
@@ -82465,6 +83359,31 @@ LogTracker_CharacterData_US = {
             percentRank = 56.236311155592,
           },
         },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "Mutalisk-Faerlina" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 18:29:49",
+    last_update_int = 1650040189,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {},
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {},
         encountersKilled = 6,
       },
     },
@@ -91203,41 +92122,6 @@ LogTracker_CharacterData_US = {
       },
     },
   },
-  [ "Aerolust-Grobbulus" ] = {
-    level = "0",
-    faction = "Alliance",
-    guild = nil,
-    last_update = "2022-04-15 09:03:23",
-    last_update_int = 1650006203,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Restoration",
-            percentRank = 48.977267248445,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Elemental",
-            percentRank = 50.822424448878,
-          },
-        },
-        encountersKilled = 6,
-      },
-    },
-  },
   [ "Wzzo-Faerlina" ] = {
     level = "0",
     faction = "Horde",
@@ -91364,6 +92248,80 @@ LogTracker_CharacterData_US = {
         zoneEncounters = "6",
         partition = 5,
         allstars = {},
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "Aerolust-Grobbulus" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 09:03:23",
+    last_update_int = 1650006203,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Restoration",
+            percentRank = 48.977267248445,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Elemental",
+            percentRank = 50.822424448878,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "Allty-Grobbulus" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 04:11:24",
+    last_update_int = 1649988684,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Affliction",
+            percentRank = 85.122304850101,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Affliction",
+            percentRank = 69.655322862129,
+          },
+          {
+            spec = "Destruction",
+            percentRank = 47.381635581062,
+          },
+        },
         encountersKilled = 6,
       },
     },
@@ -92389,12 +93347,12 @@ LogTracker_CharacterData_US = {
       },
     },
   },
-  [ "Allty-Grobbulus" ] = {
+  [ "Ajínx-Grobbulus" ] = {
     level = "0",
-    faction = "Alliance",
+    faction = "Horde",
     guild = nil,
-    last_update = "2022-04-15 04:11:24",
-    last_update_int = 1649988684,
+    last_update = "2022-04-15 03:20:25",
+    last_update_int = 1649985625,
     performance = {
       {
         zoneId = 1011,
@@ -92403,8 +93361,8 @@ LogTracker_CharacterData_US = {
         partition = 5,
         allstars = {
           {
-            spec = "Affliction",
-            percentRank = 85.122304850101,
+            spec = "Holy",
+            percentRank = 89.456948613599,
           },
         },
         encountersKilled = 14,
@@ -92416,12 +93374,51 @@ LogTracker_CharacterData_US = {
         partition = 5,
         allstars = {
           {
-            spec = "Affliction",
-            percentRank = 69.655322862129,
+            spec = "Holy",
+            percentRank = 79.475214047021,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "Almalexiah-Grobbulus" ] = {
+    level = "70",
+    faction = "Horde",
+    guild = nil,
+    last_update = "2022-04-15 09:49:19",
+    last_update_int = 1650008959,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Justicar",
+            percentRank = 96.524204838293,
           },
           {
-            spec = "Destruction",
-            percentRank = 47.381635581062,
+            spec = "Protection",
+            percentRank = 86.069811284085,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Protection",
+            percentRank = 90.045440135264,
+          },
+          {
+            spec = "Justicar",
+            percentRank = 17.229135502112,
           },
         },
         encountersKilled = 6,
@@ -92701,47 +93698,12 @@ LogTracker_CharacterData_US = {
       },
     },
   },
-  [ "Ajínx-Grobbulus" ] = {
-    level = "0",
-    faction = "Horde",
-    guild = nil,
-    last_update = "2022-04-15 03:20:25",
-    last_update_int = 1649985625,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Holy",
-            percentRank = 89.456948613599,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Holy",
-            percentRank = 79.475214047021,
-          },
-        },
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "Almalexiah-Grobbulus" ] = {
+  [ "Bebexita-Grobbulus" ] = {
     level = "70",
-    faction = "Horde",
+    faction = "Alliance",
     guild = nil,
-    last_update = "2022-04-15 09:49:19",
-    last_update_int = 1650008959,
+    last_update = "2022-04-15 14:57:30",
+    last_update_int = 1650027450,
     performance = {
       {
         zoneId = 1011,
@@ -92750,12 +93712,8 @@ LogTracker_CharacterData_US = {
         partition = 5,
         allstars = {
           {
-            spec = "Justicar",
-            percentRank = 96.524204838293,
-          },
-          {
-            spec = "Protection",
-            percentRank = 86.069811284085,
+            spec = "Restoration",
+            percentRank = 51.66071656254,
           },
         },
         encountersKilled = 14,
@@ -92765,16 +93723,7 @@ LogTracker_CharacterData_US = {
         zoneName = "Zul'Aman",
         zoneEncounters = "6",
         partition = 5,
-        allstars = {
-          {
-            spec = "Protection",
-            percentRank = 90.045440135264,
-          },
-          {
-            spec = "Justicar",
-            percentRank = 17.229135502112,
-          },
-        },
+        allstars = {},
         encountersKilled = 6,
       },
     },
@@ -93492,12 +94441,12 @@ LogTracker_CharacterData_US = {
       },
     },
   },
-  [ "Bebexita-Grobbulus" ] = {
-    level = "70",
-    faction = "Alliance",
+  [ "Bedow-Grobbulus" ] = {
+    level = "0",
+    faction = "Horde",
     guild = nil,
-    last_update = "2022-04-15 14:57:30",
-    last_update_int = 1650027450,
+    last_update = "2022-04-15 07:48:27",
+    last_update_int = 1650001707,
     performance = {
       {
         zoneId = 1011,
@@ -93506,8 +94455,43 @@ LogTracker_CharacterData_US = {
         partition = 5,
         allstars = {
           {
-            spec = "Restoration",
-            percentRank = 51.66071656254,
+            spec = "Destruction",
+            percentRank = 99.846189235306,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Destruction",
+            percentRank = 98.370567739291,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "Beefopotumas-Grobbulus" ] = {
+    level = "0",
+    faction = "Horde",
+    guild = nil,
+    last_update = "2022-04-15 06:42:40",
+    last_update_int = 1649997760,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Enhancement",
+            percentRank = 95.733229951768,
           },
         },
         encountersKilled = 14,
@@ -93695,71 +94679,6 @@ LogTracker_CharacterData_US = {
             percentRank = 86.138296782127,
           },
         },
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "Bedow-Grobbulus" ] = {
-    level = "0",
-    faction = "Horde",
-    guild = nil,
-    last_update = "2022-04-15 07:48:27",
-    last_update_int = 1650001707,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Destruction",
-            percentRank = 99.846189235306,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Destruction",
-            percentRank = 98.370567739291,
-          },
-        },
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "Beefopotumas-Grobbulus" ] = {
-    level = "0",
-    faction = "Horde",
-    guild = nil,
-    last_update = "2022-04-15 06:42:40",
-    last_update_int = 1649997760,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Enhancement",
-            percentRank = 95.733229951768,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {},
         encountersKilled = 6,
       },
     },
@@ -94584,6 +95503,106 @@ LogTracker_CharacterData_US = {
       },
     },
   },
+  [ "Braise-Grobbulus" ] = {
+    level = "0",
+    faction = "Horde",
+    guild = nil,
+    last_update = "2022-04-15 14:05:16",
+    last_update_int = 1650024316,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Restoration",
+            percentRank = 34.334046137121,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {},
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "Bratasena-Grobbulus" ] = {
+    level = "60",
+    faction = "Horde",
+    guild = nil,
+    last_update = "2022-04-15 11:21:13",
+    last_update_int = 1650014473,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Arcane",
+            percentRank = 96.461434623199,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Arcane",
+            percentRank = 92.733075903735,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "Bratok-Grobbulus" ] = {
+    level = "70",
+    faction = "Horde",
+    guild = nil,
+    last_update = "2022-04-15 10:08:37",
+    last_update_int = 1650010117,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Retribution",
+            percentRank = 79.232725262576,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Retribution",
+            percentRank = 43.350168350168,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
   [ "Brewmiser-Grobbulus" ] = {
     level = "60",
     faction = "Alliance",
@@ -94872,12 +95891,12 @@ LogTracker_CharacterData_US = {
       },
     },
   },
-  [ "Braise-Grobbulus" ] = {
+  [ "Chocolate-Grobbulus" ] = {
     level = "0",
-    faction = "Horde",
+    faction = "Alliance",
     guild = nil,
-    last_update = "2022-04-15 14:05:16",
-    last_update_int = 1650024316,
+    last_update = "2022-04-15 03:20:25",
+    last_update_int = 1649985625,
     performance = {
       {
         zoneId = 1011,
@@ -94886,38 +95905,8 @@ LogTracker_CharacterData_US = {
         partition = 5,
         allstars = {
           {
-            spec = "Restoration",
-            percentRank = 34.334046137121,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {},
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "Bratasena-Grobbulus" ] = {
-    level = "60",
-    faction = "Horde",
-    guild = nil,
-    last_update = "2022-04-15 11:21:13",
-    last_update_int = 1650014473,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Arcane",
-            percentRank = 96.461434623199,
+            spec = "Fury",
+            percentRank = 95.671582165251,
           },
         },
         encountersKilled = 14,
@@ -94929,43 +95918,8 @@ LogTracker_CharacterData_US = {
         partition = 5,
         allstars = {
           {
-            spec = "Arcane",
-            percentRank = 92.733075903735,
-          },
-        },
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "Bratok-Grobbulus" ] = {
-    level = "70",
-    faction = "Horde",
-    guild = nil,
-    last_update = "2022-04-15 10:08:37",
-    last_update_int = 1650010117,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Retribution",
-            percentRank = 79.232725262576,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Retribution",
-            percentRank = 43.350168350168,
+            spec = "Fury",
+            percentRank = 81.777532431686,
           },
         },
         encountersKilled = 6,
@@ -95843,12 +96797,55 @@ LogTracker_CharacterData_US = {
       },
     },
   },
-  [ "Chocolate-Grobbulus" ] = {
+  [ "Chishiya-Grobbulus" ] = {
+    level = "0",
+    faction = "Horde",
+    guild = nil,
+    last_update = "2022-04-15 10:08:28",
+    last_update_int = 1650010108,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Holy",
+            percentRank = 81.008754273081,
+          },
+          {
+            spec = "Retribution",
+            percentRank = 73.335544499724,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Justicar",
+            percentRank = 97.208751828777,
+          },
+          {
+            spec = "Protection",
+            percentRank = 76.055630607226,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "Counsel-Grobbulus" ] = {
     level = "0",
     faction = "Alliance",
     guild = nil,
-    last_update = "2022-04-15 03:20:25",
-    last_update_int = 1649985625,
+    last_update = "2022-04-15 19:47:17",
+    last_update_int = 1650044837,
     performance = {
       {
         zoneId = 1011,
@@ -95858,7 +96855,7 @@ LogTracker_CharacterData_US = {
         allstars = {
           {
             spec = "Fury",
-            percentRank = 95.671582165251,
+            percentRank = 84.491239516177,
           },
         },
         encountersKilled = 14,
@@ -95871,7 +96868,7 @@ LogTracker_CharacterData_US = {
         allstars = {
           {
             spec = "Fury",
-            percentRank = 81.777532431686,
+            percentRank = 71.287907557099,
           },
         },
         encountersKilled = 6,
@@ -96095,49 +97092,6 @@ LogTracker_CharacterData_US = {
           {
             spec = "Fury",
             percentRank = 74.974230998752,
-          },
-        },
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "Chishiya-Grobbulus" ] = {
-    level = "0",
-    faction = "Horde",
-    guild = nil,
-    last_update = "2022-04-15 10:08:28",
-    last_update_int = 1650010108,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Holy",
-            percentRank = 81.008754273081,
-          },
-          {
-            spec = "Retribution",
-            percentRank = 73.335544499724,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Justicar",
-            percentRank = 97.208751828777,
-          },
-          {
-            spec = "Protection",
-            percentRank = 76.055630607226,
           },
         },
         encountersKilled = 6,
@@ -97024,6 +97978,57 @@ LogTracker_CharacterData_US = {
       },
     },
   },
+  [ "Darsul-Grobbulus" ] = {
+    level = "0",
+    faction = "Horde",
+    guild = nil,
+    last_update = "2022-04-15 09:39:13",
+    last_update_int = 1650008353,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Feral",
+            percentRank = 87.839709656291,
+          },
+          {
+            spec = "Warden",
+            percentRank = 73.858751719395,
+          },
+          {
+            spec = "Guardian",
+            percentRank = 36.220037077592,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Feral",
+            percentRank = 75.214242432986,
+          },
+          {
+            spec = "Warden",
+            percentRank = 56.172859715174,
+          },
+          {
+            spec = "Guardian",
+            percentRank = 25.548152935912,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
   [ "Dayinblack-Grobbulus" ] = {
     level = "0",
     faction = "Alliance",
@@ -97088,6 +98093,45 @@ LogTracker_CharacterData_US = {
           {
             spec = "Destruction",
             percentRank = 49.495285919246,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "Doomkon-Grobbulus" ] = {
+    level = "60",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 19:47:10",
+    last_update_int = 1650044830,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Protection",
+            percentRank = 95.178123724564,
+          },
+          {
+            spec = "Justicar",
+            percentRank = 93.186621131194,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Protection",
+            percentRank = 93.63504104749,
           },
         },
         encountersKilled = 6,
@@ -97162,57 +98206,6 @@ LogTracker_CharacterData_US = {
           {
             spec = "Destruction",
             percentRank = 91.531617813847,
-          },
-        },
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "Darsul-Grobbulus" ] = {
-    level = "0",
-    faction = "Horde",
-    guild = nil,
-    last_update = "2022-04-15 09:39:13",
-    last_update_int = 1650008353,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Feral",
-            percentRank = 87.839709656291,
-          },
-          {
-            spec = "Warden",
-            percentRank = 73.858751719395,
-          },
-          {
-            spec = "Guardian",
-            percentRank = 36.220037077592,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Feral",
-            percentRank = 75.214242432986,
-          },
-          {
-            spec = "Warden",
-            percentRank = 56.172859715174,
-          },
-          {
-            spec = "Guardian",
-            percentRank = 25.548152935912,
           },
         },
         encountersKilled = 6,
@@ -98212,41 +99205,6 @@ LogTracker_CharacterData_US = {
       },
     },
   },
-  [ "Dullok-Grobbulus" ] = {
-    level = "0",
-    faction = "Horde",
-    guild = nil,
-    last_update = "2022-04-15 15:47:33",
-    last_update_int = 1650030453,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "BeastMastery",
-            percentRank = 98.914318379099,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {
-          {
-            spec = "BeastMastery",
-            percentRank = 92.435212539607,
-          },
-        },
-        encountersKilled = 6,
-      },
-    },
-  },
   [ "Easymana-Grobbulus" ] = {
     level = "0",
     faction = "Alliance",
@@ -98485,6 +99443,41 @@ LogTracker_CharacterData_US = {
           {
             spec = "Restoration",
             percentRank = 94.407557486696,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "Dullok-Grobbulus" ] = {
+    level = "0",
+    faction = "Horde",
+    guild = nil,
+    last_update = "2022-04-15 15:47:33",
+    last_update_int = 1650030453,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "BeastMastery",
+            percentRank = 98.914318379099,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "BeastMastery",
+            percentRank = 92.435212539607,
           },
         },
         encountersKilled = 6,
@@ -99244,41 +100237,6 @@ LogTracker_CharacterData_US = {
       },
     },
   },
-  [ "Evyll-Grobbulus" ] = {
-    level = "0",
-    faction = "Horde",
-    guild = nil,
-    last_update = "2022-04-15 04:05:01",
-    last_update_int = 1649988301,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Destruction",
-            percentRank = 72.778584597637,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Destruction",
-            percentRank = 87.243799959008,
-          },
-        },
-        encountersKilled = 6,
-      },
-    },
-  },
   [ "Eztobench-Grobbulus" ] = {
     level = "0",
     faction = "Alliance",
@@ -99731,6 +100689,41 @@ LogTracker_CharacterData_US = {
           {
             spec = "Fury",
             percentRank = 99.617533770954,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "Evyll-Grobbulus" ] = {
+    level = "0",
+    faction = "Horde",
+    guild = nil,
+    last_update = "2022-04-15 04:05:01",
+    last_update_int = 1649988301,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Destruction",
+            percentRank = 72.778584597637,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Destruction",
+            percentRank = 87.243799959008,
           },
         },
         encountersKilled = 6,
@@ -100422,41 +101415,6 @@ LogTracker_CharacterData_US = {
       },
     },
   },
-  [ "Gamblr-Grobbulus" ] = {
-    level = "70",
-    faction = "Horde",
-    guild = nil,
-    last_update = "2022-04-15 13:41:08",
-    last_update_int = 1650022868,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Enhancement",
-            percentRank = 95.297060381058,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Enhancement",
-            percentRank = 94.28412531669,
-          },
-        },
-        encountersKilled = 6,
-      },
-    },
-  },
   [ "Gatherform-Grobbulus" ] = {
     level = "0",
     faction = "Alliance",
@@ -100744,12 +101702,12 @@ LogTracker_CharacterData_US = {
       },
     },
   },
-  [ "Helorin-Grobbulus" ] = {
-    level = "0",
-    faction = "Alliance",
+  [ "Gamblr-Grobbulus" ] = {
+    level = "70",
+    faction = "Horde",
     guild = nil,
-    last_update = "2022-04-15 11:01:26",
-    last_update_int = 1650013286,
+    last_update = "2022-04-15 13:41:08",
+    last_update_int = 1650022868,
     performance = {
       {
         zoneId = 1011,
@@ -100758,8 +101716,8 @@ LogTracker_CharacterData_US = {
         partition = 5,
         allstars = {
           {
-            spec = "Combat",
-            percentRank = 89.083417252561,
+            spec = "Enhancement",
+            percentRank = 95.297060381058,
           },
         },
         encountersKilled = 14,
@@ -100771,8 +101729,8 @@ LogTracker_CharacterData_US = {
         partition = 5,
         allstars = {
           {
-            spec = "Combat",
-            percentRank = 66.845069437157,
+            spec = "Enhancement",
+            percentRank = 94.28412531669,
           },
         },
         encountersKilled = 6,
@@ -101634,6 +102592,41 @@ LogTracker_CharacterData_US = {
           {
             spec = "Gladiator",
             percentRank = 68.334746960701,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "Helorin-Grobbulus" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 11:01:26",
+    last_update_int = 1650013286,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Combat",
+            percentRank = 89.083417252561,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Combat",
+            percentRank = 66.845069437157,
           },
         },
         encountersKilled = 6,
@@ -102700,41 +103693,6 @@ LogTracker_CharacterData_US = {
       },
     },
   },
-  [ "Itachisama-Grobbulus" ] = {
-    level = "0",
-    faction = "Horde",
-    guild = nil,
-    last_update = "2022-04-15 15:23:45",
-    last_update_int = 1650029025,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Combat",
-            percentRank = 98.977263278486,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Combat",
-            percentRank = 80.228775317452,
-          },
-        },
-        encountersKilled = 6,
-      },
-    },
-  },
   [ "Ivysaur-Grobbulus" ] = {
     level = "0",
     faction = "Alliance",
@@ -102959,12 +103917,12 @@ LogTracker_CharacterData_US = {
       },
     },
   },
-  [ "Ketel-Grobbulus" ] = {
+  [ "Itachisama-Grobbulus" ] = {
     level = "0",
-    faction = "Alliance",
+    faction = "Horde",
     guild = nil,
-    last_update = "2022-04-15 04:11:24",
-    last_update_int = 1649988684,
+    last_update = "2022-04-15 15:23:45",
+    last_update_int = 1650029025,
     performance = {
       {
         zoneId = 1011,
@@ -102973,8 +103931,8 @@ LogTracker_CharacterData_US = {
         partition = 5,
         allstars = {
           {
-            spec = "Arcane",
-            percentRank = 93.853363299155,
+            spec = "Combat",
+            percentRank = 98.977263278486,
           },
         },
         encountersKilled = 14,
@@ -102984,7 +103942,12 @@ LogTracker_CharacterData_US = {
         zoneName = "Zul'Aman",
         zoneEncounters = "6",
         partition = 5,
-        allstars = {},
+        allstars = {
+          {
+            spec = "Combat",
+            percentRank = 80.228775317452,
+          },
+        },
         encountersKilled = 6,
       },
     },
@@ -103840,6 +104803,36 @@ LogTracker_CharacterData_US = {
           {
             spec = "Justicar",
             percentRank = 86.630939748723,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {},
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "Ketel-Grobbulus" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 04:11:24",
+    last_update_int = 1649988684,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Arcane",
+            percentRank = 93.853363299155,
           },
         },
         encountersKilled = 14,
@@ -105008,41 +106001,6 @@ LogTracker_CharacterData_US = {
       },
     },
   },
-  [ "Lumonious-Grobbulus" ] = {
-    level = "70",
-    faction = "Horde",
-    guild = nil,
-    last_update = "2022-04-15 11:09:17",
-    last_update_int = 1650013757,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Shadow",
-            percentRank = 81.7948642063,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Shadow",
-            percentRank = 47.966891965157,
-          },
-        },
-        encountersKilled = 6,
-      },
-    },
-  },
   [ "Mác-Grobbulus" ] = {
     level = "0",
     faction = "Alliance",
@@ -105185,6 +106143,41 @@ LogTracker_CharacterData_US = {
           {
             spec = "Shadow",
             percentRank = 53.039446570503,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "Lumonious-Grobbulus" ] = {
+    level = "70",
+    faction = "Horde",
+    guild = nil,
+    last_update = "2022-04-15 11:09:17",
+    last_update_int = 1650013757,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Shadow",
+            percentRank = 81.7948642063,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Shadow",
+            percentRank = 47.966891965157,
           },
         },
         encountersKilled = 6,
@@ -106155,66 +107148,6 @@ LogTracker_CharacterData_US = {
       },
     },
   },
-  [ "Milo-Grobbulus" ] = {
-    level = "0",
-    faction = "Horde",
-    guild = nil,
-    last_update = "2022-04-15 06:42:44",
-    last_update_int = 1649997764,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Enhancement",
-            percentRank = 93.287419755761,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {},
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "Mindsear-Grobbulus" ] = {
-    level = "0",
-    faction = "Horde",
-    guild = nil,
-    last_update = "2022-04-15 11:04:30",
-    last_update_int = 1650013470,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Shadow",
-            percentRank = 99.337062357572,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {},
-        encountersKilled = 6,
-      },
-    },
-  },
   [ "Minkss-Grobbulus" ] = {
     level = "0",
     faction = "Alliance",
@@ -106542,6 +107475,66 @@ LogTracker_CharacterData_US = {
           {
             spec = "Destruction",
             percentRank = 83.523021832202,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {},
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "Milo-Grobbulus" ] = {
+    level = "0",
+    faction = "Horde",
+    guild = nil,
+    last_update = "2022-04-15 06:42:44",
+    last_update_int = 1649997764,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Enhancement",
+            percentRank = 93.287419755761,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {},
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "Mindsear-Grobbulus" ] = {
+    level = "0",
+    faction = "Horde",
+    guild = nil,
+    last_update = "2022-04-15 11:04:30",
+    last_update_int = 1650013470,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Shadow",
+            percentRank = 99.337062357572,
           },
         },
         encountersKilled = 14,
@@ -107400,12 +108393,12 @@ LogTracker_CharacterData_US = {
       },
     },
   },
-  [ "Netmask-Grobbulus" ] = {
+  [ "Nerrv-Grobbulus" ] = {
     level = "0",
-    faction = "Horde",
+    faction = "Alliance",
     guild = nil,
-    last_update = "2022-04-15 06:42:32",
-    last_update_int = 1649997752,
+    last_update = "2022-04-15 20:05:40",
+    last_update_int = 1650045940,
     performance = {
       {
         zoneId = 1011,
@@ -107414,16 +108407,8 @@ LogTracker_CharacterData_US = {
         partition = 5,
         allstars = {
           {
-            spec = "Guardian",
-            percentRank = 89.591538942587,
-          },
-          {
-            spec = "Warden",
-            percentRank = 75.460616475604,
-          },
-          {
-            spec = "Feral",
-            percentRank = 65.670015472792,
+            spec = "Restoration",
+            percentRank = 25.849092668475,
           },
         },
         encountersKilled = 14,
@@ -107603,6 +108588,31 @@ LogTracker_CharacterData_US = {
       },
     },
   },
+  [ "Nwv-Grobbulus" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 20:05:47",
+    last_update_int = 1650045947,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {},
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {},
+        encountersKilled = 6,
+      },
+    },
+  },
   [ "Ohduh-Grobbulus" ] = {
     level = "0",
     faction = "Alliance",
@@ -107638,12 +108648,12 @@ LogTracker_CharacterData_US = {
       },
     },
   },
-  [ "Onnias-Grobbulus" ] = {
+  [ "Netmask-Grobbulus" ] = {
     level = "0",
-    faction = "Alliance",
+    faction = "Horde",
     guild = nil,
-    last_update = "2022-04-15 03:20:25",
-    last_update_int = 1649985625,
+    last_update = "2022-04-15 06:42:32",
+    last_update_int = 1649997752,
     performance = {
       {
         zoneId = 1011,
@@ -107652,8 +108662,16 @@ LogTracker_CharacterData_US = {
         partition = 5,
         allstars = {
           {
-            spec = "Holy",
-            percentRank = 88.052157611855,
+            spec = "Guardian",
+            percentRank = 89.591538942587,
+          },
+          {
+            spec = "Warden",
+            percentRank = 75.460616475604,
+          },
+          {
+            spec = "Feral",
+            percentRank = 65.670015472792,
           },
         },
         encountersKilled = 14,
@@ -107663,47 +108681,7 @@ LogTracker_CharacterData_US = {
         zoneName = "Zul'Aman",
         zoneEncounters = "6",
         partition = 5,
-        allstars = {
-          {
-            spec = "Holy",
-            percentRank = 94.224190773733,
-          },
-        },
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "Orkwarlock-Grobbulus" ] = {
-    level = "0",
-    faction = "Alliance",
-    guild = nil,
-    last_update = "2022-04-15 09:36:33",
-    last_update_int = 1650008193,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Destruction",
-            percentRank = 35.269532437111,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Destruction",
-            percentRank = 42.542016806723,
-          },
-        },
+        allstars = {},
         encountersKilled = 6,
       },
     },
@@ -108466,9 +109444,9 @@ LogTracker_CharacterData_US = {
       },
     },
   },
-  [ "Onehealman-Grobbulus" ] = {
+  [ "Onnias-Grobbulus" ] = {
     level = "0",
-    faction = "Horde",
+    faction = "Alliance",
     guild = nil,
     last_update = "2022-04-15 03:20:25",
     last_update_int = 1649985625,
@@ -108481,7 +109459,7 @@ LogTracker_CharacterData_US = {
         allstars = {
           {
             spec = "Holy",
-            percentRank = 49.336758302386,
+            percentRank = 88.052157611855,
           },
         },
         encountersKilled = 14,
@@ -108494,19 +109472,19 @@ LogTracker_CharacterData_US = {
         allstars = {
           {
             spec = "Holy",
-            percentRank = 82.168350700967,
+            percentRank = 94.224190773733,
           },
         },
         encountersKilled = 6,
       },
     },
   },
-  [ "Onitan-Grobbulus" ] = {
+  [ "Orkwarlock-Grobbulus" ] = {
     level = "0",
-    faction = "Horde",
+    faction = "Alliance",
     guild = nil,
-    last_update = "2022-04-15 04:05:01",
-    last_update_int = 1649988301,
+    last_update = "2022-04-15 09:36:33",
+    last_update_int = 1650008193,
     performance = {
       {
         zoneId = 1011,
@@ -108515,8 +109493,8 @@ LogTracker_CharacterData_US = {
         partition = 5,
         allstars = {
           {
-            spec = "Holy",
-            percentRank = 78.038275808882,
+            spec = "Destruction",
+            percentRank = 35.269532437111,
           },
         },
         encountersKilled = 14,
@@ -108528,8 +109506,8 @@ LogTracker_CharacterData_US = {
         partition = 5,
         allstars = {
           {
-            spec = "Holy",
-            percentRank = 77.936843770391,
+            spec = "Destruction",
+            percentRank = 42.542016806723,
           },
         },
         encountersKilled = 6,
@@ -108950,12 +109928,12 @@ LogTracker_CharacterData_US = {
       },
     },
   },
-  [ "Rannon-Grobbulus" ] = {
+  [ "Querkle-Grobbulus" ] = {
     level = "0",
     faction = "Alliance",
     guild = nil,
-    last_update = "2022-04-15 10:26:07",
-    last_update_int = 1650011167,
+    last_update = "2022-04-15 20:07:17",
+    last_update_int = 1650046037,
     performance = {
       {
         zoneId = 1011,
@@ -108975,82 +109953,9 @@ LogTracker_CharacterData_US = {
       },
     },
   },
-  [ "Rareblade-Grobbulus" ] = {
+  [ "Onehealman-Grobbulus" ] = {
     level = "0",
-    faction = "Alliance",
-    guild = nil,
-    last_update = "2022-04-15 04:05:01",
-    last_update_int = 1649988301,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Survival",
-            percentRank = 95.461048250748,
-          },
-          {
-            spec = "BeastMastery",
-            percentRank = 92.88341097971,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Survival",
-            percentRank = 89.852226929834,
-          },
-          {
-            spec = "BeastMastery",
-            percentRank = 69.365269834344,
-          },
-        },
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "Ravenwood-Grobbulus" ] = {
-    level = "70",
-    faction = "Alliance",
-    guild = nil,
-    last_update = "2022-04-15 08:55:27",
-    last_update_int = 1650005727,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Combat",
-            percentRank = 81.034820304852,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {},
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "Rayin-Grobbulus" ] = {
-    level = "0",
-    faction = "Alliance",
+    faction = "Horde",
     guild = nil,
     last_update = "2022-04-15 03:20:25",
     last_update_int = 1649985625,
@@ -109062,8 +109967,8 @@ LogTracker_CharacterData_US = {
         partition = 5,
         allstars = {
           {
-            spec = "Restoration",
-            percentRank = 88.823465599537,
+            spec = "Holy",
+            percentRank = 49.336758302386,
           },
         },
         encountersKilled = 14,
@@ -109075,12 +109980,43 @@ LogTracker_CharacterData_US = {
         partition = 5,
         allstars = {
           {
-            spec = "Restoration",
-            percentRank = 87.307778302238,
+            spec = "Holy",
+            percentRank = 82.168350700967,
           },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "Onitan-Grobbulus" ] = {
+    level = "0",
+    faction = "Horde",
+    guild = nil,
+    last_update = "2022-04-15 04:05:01",
+    last_update_int = 1649988301,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
           {
-            spec = "Elemental",
-            percentRank = 14.175872305222,
+            spec = "Holy",
+            percentRank = 78.038275808882,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Holy",
+            percentRank = 77.936843770391,
           },
         },
         encountersKilled = 6,
@@ -109682,9 +110618,34 @@ LogTracker_CharacterData_US = {
       },
     },
   },
-  [ "Rasaili-Grobbulus" ] = {
+  [ "Rannon-Grobbulus" ] = {
     level = "0",
-    faction = "Horde",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 10:26:07",
+    last_update_int = 1650011167,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {},
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {},
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "Rareblade-Grobbulus" ] = {
+    level = "0",
+    faction = "Alliance",
     guild = nil,
     last_update = "2022-04-15 04:05:01",
     last_update_int = 1649988301,
@@ -109696,16 +110657,51 @@ LogTracker_CharacterData_US = {
         partition = 5,
         allstars = {
           {
-            spec = "Holy",
-            percentRank = 97.896500372301,
+            spec = "Survival",
+            percentRank = 95.461048250748,
           },
           {
-            spec = "Justicar",
-            percentRank = 76.676854078883,
+            spec = "BeastMastery",
+            percentRank = 92.88341097971,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Survival",
+            percentRank = 89.852226929834,
           },
           {
-            spec = "Protection",
-            percentRank = 54.673582472958,
+            spec = "BeastMastery",
+            percentRank = 69.365269834344,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "Ravenwood-Grobbulus" ] = {
+    level = "70",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 08:55:27",
+    last_update_int = 1650005727,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Combat",
+            percentRank = 81.034820304852,
           },
         },
         encountersKilled = 14,
@@ -109716,6 +110712,45 @@ LogTracker_CharacterData_US = {
         zoneEncounters = "6",
         partition = 5,
         allstars = {},
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "Rayin-Grobbulus" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 03:20:25",
+    last_update_int = 1649985625,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Restoration",
+            percentRank = 88.823465599537,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Restoration",
+            percentRank = 87.307778302238,
+          },
+          {
+            spec = "Elemental",
+            percentRank = 14.175872305222,
+          },
+        },
         encountersKilled = 6,
       },
     },
@@ -109906,12 +110941,12 @@ LogTracker_CharacterData_US = {
       },
     },
   },
-  [ "Sapolsky-Grobbulus" ] = {
+  [ "Rasaili-Grobbulus" ] = {
     level = "0",
-    faction = "Alliance",
+    faction = "Horde",
     guild = nil,
-    last_update = "2022-04-15 04:11:24",
-    last_update_int = 1649988684,
+    last_update = "2022-04-15 04:05:01",
+    last_update_int = 1649988301,
     performance = {
       {
         zoneId = 1011,
@@ -109920,47 +110955,16 @@ LogTracker_CharacterData_US = {
         partition = 5,
         allstars = {
           {
-            spec = "Balance",
-            percentRank = 67.844004554612,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Dreamstate",
-            percentRank = 43.266475644699,
+            spec = "Holy",
+            percentRank = 97.896500372301,
           },
           {
-            spec = "Balance",
-            percentRank = 27.673104097975,
+            spec = "Justicar",
+            percentRank = 76.676854078883,
           },
-        },
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "Sayshrimp-Grobbulus" ] = {
-    level = "0",
-    faction = "Alliance",
-    guild = nil,
-    last_update = "2022-04-15 12:56:40",
-    last_update_int = 1650020200,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
           {
-            spec = "Restoration",
-            percentRank = 89.094102046424,
+            spec = "Protection",
+            percentRank = 54.673582472958,
           },
         },
         encountersKilled = 14,
@@ -110811,12 +111815,12 @@ LogTracker_CharacterData_US = {
       },
     },
   },
-  [ "Sanicent-Grobbulus" ] = {
+  [ "Sapolsky-Grobbulus" ] = {
     level = "0",
-    faction = "Horde",
+    faction = "Alliance",
     guild = nil,
-    last_update = "2022-04-15 12:59:15",
-    last_update_int = 1650020355,
+    last_update = "2022-04-15 04:11:24",
+    last_update_int = 1649988684,
     performance = {
       {
         zoneId = 1011,
@@ -110825,8 +111829,8 @@ LogTracker_CharacterData_US = {
         partition = 5,
         allstars = {
           {
-            spec = "Holy",
-            percentRank = 38.423239444909,
+            spec = "Balance",
+            percentRank = 67.844004554612,
           },
         },
         encountersKilled = 14,
@@ -110838,20 +111842,24 @@ LogTracker_CharacterData_US = {
         partition = 5,
         allstars = {
           {
-            spec = "Holy",
-            percentRank = 57.734484367709,
+            spec = "Dreamstate",
+            percentRank = 43.266475644699,
+          },
+          {
+            spec = "Balance",
+            percentRank = 27.673104097975,
           },
         },
         encountersKilled = 6,
       },
     },
   },
-  [ "Saxapwn-Grobbulus" ] = {
+  [ "Sayshrimp-Grobbulus" ] = {
     level = "0",
-    faction = "Horde",
+    faction = "Alliance",
     guild = nil,
-    last_update = "2022-04-15 18:29:28",
-    last_update_int = 1650040168,
+    last_update = "2022-04-15 12:56:40",
+    last_update_int = 1650020200,
     performance = {
       {
         zoneId = 1011,
@@ -110860,8 +111868,8 @@ LogTracker_CharacterData_US = {
         partition = 5,
         allstars = {
           {
-            spec = "Arcane",
-            percentRank = 71.910581100744,
+            spec = "Restoration",
+            percentRank = 89.094102046424,
           },
         },
         encountersKilled = 14,
@@ -110871,47 +111879,7 @@ LogTracker_CharacterData_US = {
         zoneName = "Zul'Aman",
         zoneEncounters = "6",
         partition = 5,
-        allstars = {
-          {
-            spec = "Arcane",
-            percentRank = 74.018609025235,
-          },
-        },
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "Scheffy-Grobbulus" ] = {
-    level = "0",
-    faction = "Horde",
-    guild = nil,
-    last_update = "2022-04-15 13:20:30",
-    last_update_int = 1650021630,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Elemental",
-            percentRank = 97.870560803882,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Elemental",
-            percentRank = 97.510770703686,
-          },
-        },
+        allstars = {},
         encountersKilled = 6,
       },
     },
@@ -111203,12 +112171,12 @@ LogTracker_CharacterData_US = {
       },
     },
   },
-  [ "Snuggleshot-Grobbulus" ] = {
+  [ "Sanicent-Grobbulus" ] = {
     level = "0",
-    faction = "Alliance",
+    faction = "Horde",
     guild = nil,
-    last_update = "2022-04-15 12:57:27",
-    last_update_int = 1650020247,
+    last_update = "2022-04-15 12:59:15",
+    last_update_int = 1650020355,
     performance = {
       {
         zoneId = 1011,
@@ -111217,12 +112185,8 @@ LogTracker_CharacterData_US = {
         partition = 5,
         allstars = {
           {
-            spec = "BeastMastery",
-            percentRank = 82.502064234751,
-          },
-          {
-            spec = "Survival",
-            percentRank = 40.399398572669,
+            spec = "Holy",
+            percentRank = 38.423239444909,
           },
         },
         encountersKilled = 14,
@@ -111234,20 +112198,20 @@ LogTracker_CharacterData_US = {
         partition = 5,
         allstars = {
           {
-            spec = "BeastMastery",
-            percentRank = 54.188798236618,
+            spec = "Holy",
+            percentRank = 57.734484367709,
           },
         },
         encountersKilled = 6,
       },
     },
   },
-  [ "Solidchain-Grobbulus" ] = {
+  [ "Saxapwn-Grobbulus" ] = {
     level = "0",
-    faction = "Alliance",
+    faction = "Horde",
     guild = nil,
-    last_update = "2022-04-15 12:10:19",
-    last_update_int = 1650017419,
+    last_update = "2022-04-15 18:29:28",
+    last_update_int = 1650040168,
     performance = {
       {
         zoneId = 1011,
@@ -111256,8 +112220,8 @@ LogTracker_CharacterData_US = {
         partition = 5,
         allstars = {
           {
-            spec = "Restoration",
-            percentRank = 66.50817733284,
+            spec = "Arcane",
+            percentRank = 71.910581100744,
           },
         },
         encountersKilled = 14,
@@ -111269,55 +112233,20 @@ LogTracker_CharacterData_US = {
         partition = 5,
         allstars = {
           {
-            spec = "Restoration",
-            percentRank = 27.393448225358,
+            spec = "Arcane",
+            percentRank = 74.018609025235,
           },
         },
         encountersKilled = 6,
       },
     },
   },
-  [ "Songì-Grobbulus" ] = {
-    level = "70",
-    faction = "Alliance",
-    guild = nil,
-    last_update = "2022-04-15 10:32:19",
-    last_update_int = 1650011539,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Survival",
-            percentRank = 97.077571419496,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Survival",
-            percentRank = 98.681942613809,
-          },
-        },
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "Sopedu-Grobbulus" ] = {
+  [ "Scheffy-Grobbulus" ] = {
     level = "0",
-    faction = "Alliance",
+    faction = "Horde",
     guild = nil,
-    last_update = "2022-04-15 12:17:27",
-    last_update_int = 1650017847,
+    last_update = "2022-04-15 13:20:30",
+    last_update_int = 1650021630,
     performance = {
       {
         zoneId = 1011,
@@ -111326,12 +112255,8 @@ LogTracker_CharacterData_US = {
         partition = 5,
         allstars = {
           {
-            spec = "Destruction",
-            percentRank = 66.934599926927,
-          },
-          {
-            spec = "Affliction",
-            percentRank = 15.618540125867,
+            spec = "Elemental",
+            percentRank = 97.870560803882,
           },
         },
         encountersKilled = 14,
@@ -111343,8 +112268,8 @@ LogTracker_CharacterData_US = {
         partition = 5,
         allstars = {
           {
-            spec = "Destruction",
-            percentRank = 31.336794616528,
+            spec = "Elemental",
+            percentRank = 97.510770703686,
           },
         },
         encountersKilled = 6,
@@ -112053,19 +112978,28 @@ LogTracker_CharacterData_US = {
       },
     },
   },
-  [ "Softtofu-Grobbulus" ] = {
+  [ "Snuggleshot-Grobbulus" ] = {
     level = "0",
-    faction = "Horde",
+    faction = "Alliance",
     guild = nil,
-    last_update = "2022-04-15 04:05:01",
-    last_update_int = 1649988301,
+    last_update = "2022-04-15 12:57:27",
+    last_update_int = 1650020247,
     performance = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
         zoneEncounters = "14",
         partition = 5,
-        allstars = {},
+        allstars = {
+          {
+            spec = "BeastMastery",
+            percentRank = 82.502064234751,
+          },
+          {
+            spec = "Survival",
+            percentRank = 40.399398572669,
+          },
+        },
         encountersKilled = 14,
       },
       {
@@ -112073,17 +113007,92 @@ LogTracker_CharacterData_US = {
         zoneName = "Zul'Aman",
         zoneEncounters = "6",
         partition = 5,
-        allstars = {},
+        allstars = {
+          {
+            spec = "BeastMastery",
+            percentRank = 54.188798236618,
+          },
+        },
         encountersKilled = 6,
       },
     },
   },
-  [ "Sojour-Grobbulus" ] = {
-    level = "70",
-    faction = "Horde",
+  [ "Solidchain-Grobbulus" ] = {
+    level = "0",
+    faction = "Alliance",
     guild = nil,
-    last_update = "2022-04-15 12:53:43",
-    last_update_int = 1650020023,
+    last_update = "2022-04-15 12:10:19",
+    last_update_int = 1650017419,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Restoration",
+            percentRank = 66.50817733284,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Restoration",
+            percentRank = 27.393448225358,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "Songì-Grobbulus" ] = {
+    level = "70",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 10:32:19",
+    last_update_int = 1650011539,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Survival",
+            percentRank = 97.077571419496,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Survival",
+            percentRank = 98.681942613809,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "Sopedu-Grobbulus" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 12:17:27",
+    last_update_int = 1650017847,
     performance = {
       {
         zoneId = 1011,
@@ -112093,7 +113102,11 @@ LogTracker_CharacterData_US = {
         allstars = {
           {
             spec = "Destruction",
-            percentRank = 97.105091528688,
+            percentRank = 66.934599926927,
+          },
+          {
+            spec = "Affliction",
+            percentRank = 15.618540125867,
           },
         },
         encountersKilled = 14,
@@ -112106,7 +113119,7 @@ LogTracker_CharacterData_US = {
         allstars = {
           {
             spec = "Destruction",
-            percentRank = 97.257857196865,
+            percentRank = 31.336794616528,
           },
         },
         encountersKilled = 6,
@@ -112515,9 +113528,9 @@ LogTracker_CharacterData_US = {
       },
     },
   },
-  [ "Syagria-Grobbulus" ] = {
-    level = "70",
-    faction = "Alliance",
+  [ "Softtofu-Grobbulus" ] = {
+    level = "0",
+    faction = "Horde",
     guild = nil,
     last_update = "2022-04-15 04:05:01",
     last_update_int = 1649988301,
@@ -112527,10 +113540,35 @@ LogTracker_CharacterData_US = {
         zoneName = "BT / Hyjal",
         zoneEncounters = "14",
         partition = 5,
+        allstars = {},
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {},
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "Sojour-Grobbulus" ] = {
+    level = "70",
+    faction = "Horde",
+    guild = nil,
+    last_update = "2022-04-15 12:53:43",
+    last_update_int = 1650020023,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
         allstars = {
           {
-            spec = "Restoration",
-            percentRank = 82.591847066197,
+            spec = "Destruction",
+            percentRank = 97.105091528688,
           },
         },
         encountersKilled = 14,
@@ -112542,8 +113580,8 @@ LogTracker_CharacterData_US = {
         partition = 5,
         allstars = {
           {
-            spec = "Restoration",
-            percentRank = 40.583310560704,
+            spec = "Destruction",
+            percentRank = 97.257857196865,
           },
         },
         encountersKilled = 6,
@@ -113057,79 +114095,9 @@ LogTracker_CharacterData_US = {
       },
     },
   },
-  [ "Swanica-Grobbulus" ] = {
-    level = "0",
-    faction = "Horde",
-    guild = nil,
-    last_update = "2022-04-15 07:52:36",
-    last_update_int = 1650001956,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Destruction",
-            percentRank = 74.01765390518,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Destruction",
-            percentRank = 52.692662430826,
-          },
-        },
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "Sythetîc-Grobbulus" ] = {
-    level = "0",
-    faction = "Horde",
-    guild = nil,
-    last_update = "2022-04-15 10:49:32",
-    last_update_int = 1650012572,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "BeastMastery",
-            percentRank = 96.847119598586,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {
-          {
-            spec = "BeastMastery",
-            percentRank = 89.399807130065,
-          },
-        },
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "Taada-Grobbulus" ] = {
-    level = "0",
-    faction = "Horde",
+  [ "Syagria-Grobbulus" ] = {
+    level = "70",
+    faction = "Alliance",
     guild = nil,
     last_update = "2022-04-15 04:05:01",
     last_update_int = 1649988301,
@@ -113141,8 +114109,8 @@ LogTracker_CharacterData_US = {
         partition = 5,
         allstars = {
           {
-            spec = "Enhancement",
-            percentRank = 43.444202460633,
+            spec = "Restoration",
+            percentRank = 82.591847066197,
           },
         },
         encountersKilled = 14,
@@ -113153,52 +114121,9 @@ LogTracker_CharacterData_US = {
         zoneEncounters = "6",
         partition = 5,
         allstars = {
-          {
-            spec = "Enhancement",
-            percentRank = 45.427728613569,
-          },
-        },
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "Taikama-Grobbulus" ] = {
-    level = "0",
-    faction = "Horde",
-    guild = nil,
-    last_update = "2022-04-15 12:11:11",
-    last_update_int = 1650017471,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Balance",
-            percentRank = 79.031282405807,
-          },
-          {
-            spec = "Dreamstate",
-            percentRank = 75.714285714286,
-          },
           {
             spec = "Restoration",
-            percentRank = 50.823451910408,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Balance",
-            percentRank = 80.685406237967,
+            percentRank = 40.583310560704,
           },
         },
         encountersKilled = 6,
@@ -113615,12 +114540,12 @@ LogTracker_CharacterData_US = {
       },
     },
   },
-  [ "Tizanidine-Grobbulus" ] = {
+  [ "Swanica-Grobbulus" ] = {
     level = "0",
-    faction = "Alliance",
+    faction = "Horde",
     guild = nil,
-    last_update = "2022-04-15 13:25:45",
-    last_update_int = 1650021945,
+    last_update = "2022-04-15 07:52:36",
+    last_update_int = 1650001956,
     performance = {
       {
         zoneId = 1011,
@@ -113629,8 +114554,8 @@ LogTracker_CharacterData_US = {
         partition = 5,
         allstars = {
           {
-            spec = "Holy",
-            percentRank = 89.900175358393,
+            spec = "Destruction",
+            percentRank = 74.01765390518,
           },
         },
         encountersKilled = 14,
@@ -113640,14 +114565,54 @@ LogTracker_CharacterData_US = {
         zoneName = "Zul'Aman",
         zoneEncounters = "6",
         partition = 5,
-        allstars = {},
+        allstars = {
+          {
+            spec = "Destruction",
+            percentRank = 52.692662430826,
+          },
+        },
         encountersKilled = 6,
       },
     },
   },
-  [ "Tondruslock-Grobbulus" ] = {
+  [ "Sythetîc-Grobbulus" ] = {
     level = "0",
-    faction = "Alliance",
+    faction = "Horde",
+    guild = nil,
+    last_update = "2022-04-15 10:49:32",
+    last_update_int = 1650012572,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "BeastMastery",
+            percentRank = 96.847119598586,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "BeastMastery",
+            percentRank = 89.399807130065,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "Taada-Grobbulus" ] = {
+    level = "0",
+    faction = "Horde",
     guild = nil,
     last_update = "2022-04-15 04:05:01",
     last_update_int = 1649988301,
@@ -113659,8 +114624,8 @@ LogTracker_CharacterData_US = {
         partition = 5,
         allstars = {
           {
-            spec = "Destruction",
-            percentRank = 74.625343756759,
+            spec = "Enhancement",
+            percentRank = 43.444202460633,
           },
         },
         encountersKilled = 14,
@@ -113672,20 +114637,20 @@ LogTracker_CharacterData_US = {
         partition = 5,
         allstars = {
           {
-            spec = "Destruction",
-            percentRank = 53.68543758967,
+            spec = "Enhancement",
+            percentRank = 45.427728613569,
           },
         },
         encountersKilled = 6,
       },
     },
   },
-  [ "Tonize-Grobbulus" ] = {
-    level = "60",
-    faction = "Alliance",
+  [ "Taikama-Grobbulus" ] = {
+    level = "0",
+    faction = "Horde",
     guild = nil,
-    last_update = "2022-04-15 10:40:31",
-    last_update_int = 1650012031,
+    last_update = "2022-04-15 12:11:11",
+    last_update_int = 1650017471,
     performance = {
       {
         zoneId = 1011,
@@ -113694,16 +114659,16 @@ LogTracker_CharacterData_US = {
         partition = 5,
         allstars = {
           {
-            spec = "Retribution",
-            percentRank = 89.278054173577,
+            spec = "Balance",
+            percentRank = 79.031282405807,
           },
           {
-            spec = "Protection",
-            percentRank = 76.350261403611,
+            spec = "Dreamstate",
+            percentRank = 75.714285714286,
           },
           {
-            spec = "Justicar",
-            percentRank = 76.239221735758,
+            spec = "Restoration",
+            percentRank = 50.823451910408,
           },
         },
         encountersKilled = 14,
@@ -113715,16 +114680,8 @@ LogTracker_CharacterData_US = {
         partition = 5,
         allstars = {
           {
-            spec = "Justicar",
-            percentRank = 98.246017786399,
-          },
-          {
-            spec = "Protection",
-            percentRank = 90.785964183034,
-          },
-          {
-            spec = "Retribution",
-            percentRank = 71.548821548822,
+            spec = "Balance",
+            percentRank = 80.685406237967,
           },
         },
         encountersKilled = 6,
@@ -114267,12 +115224,12 @@ LogTracker_CharacterData_US = {
       },
     },
   },
-  [ "Tisatribute-Grobbulus" ] = {
+  [ "Tizanidine-Grobbulus" ] = {
     level = "0",
-    faction = "Horde",
+    faction = "Alliance",
     guild = nil,
-    last_update = "2022-04-15 14:52:32",
-    last_update_int = 1650027152,
+    last_update = "2022-04-15 13:25:45",
+    last_update_int = 1650021945,
     performance = {
       {
         zoneId = 1011,
@@ -114281,8 +115238,38 @@ LogTracker_CharacterData_US = {
         partition = 5,
         allstars = {
           {
-            spec = "BeastMastery",
-            percentRank = 91.199373319501,
+            spec = "Holy",
+            percentRank = 89.900175358393,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {},
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "Tondruslock-Grobbulus" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 04:05:01",
+    last_update_int = 1649988301,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Destruction",
+            percentRank = 74.625343756759,
           },
         },
         encountersKilled = 14,
@@ -114294,20 +115281,20 @@ LogTracker_CharacterData_US = {
         partition = 5,
         allstars = {
           {
-            spec = "BeastMastery",
-            percentRank = 78.920540648104,
+            spec = "Destruction",
+            percentRank = 53.68543758967,
           },
         },
         encountersKilled = 6,
       },
     },
   },
-  [ "Tomcrusader-Grobbulus" ] = {
-    level = "0",
-    faction = "Horde",
+  [ "Tonize-Grobbulus" ] = {
+    level = "60",
+    faction = "Alliance",
     guild = nil,
-    last_update = "2022-04-15 06:56:36",
-    last_update_int = 1649998596,
+    last_update = "2022-04-15 10:40:31",
+    last_update_int = 1650012031,
     performance = {
       {
         zoneId = 1011,
@@ -114316,12 +115303,16 @@ LogTracker_CharacterData_US = {
         partition = 5,
         allstars = {
           {
-            spec = "Justicar",
-            percentRank = 93.490605276959,
+            spec = "Retribution",
+            percentRank = 89.278054173577,
           },
           {
             spec = "Protection",
-            percentRank = 80.070470360127,
+            percentRank = 76.350261403611,
+          },
+          {
+            spec = "Justicar",
+            percentRank = 76.239221735758,
           },
         },
         encountersKilled = 14,
@@ -114334,7 +115325,15 @@ LogTracker_CharacterData_US = {
         allstars = {
           {
             spec = "Justicar",
-            percentRank = 99.510696214158,
+            percentRank = 98.246017786399,
+          },
+          {
+            spec = "Protection",
+            percentRank = 90.785964183034,
+          },
+          {
+            spec = "Retribution",
+            percentRank = 71.548821548822,
           },
         },
         encountersKilled = 6,
@@ -114713,12 +115712,12 @@ LogTracker_CharacterData_US = {
       },
     },
   },
-  [ "Voodoodolls-Grobbulus" ] = {
+  [ "Tisatribute-Grobbulus" ] = {
     level = "0",
-    faction = "Alliance",
+    faction = "Horde",
     guild = nil,
-    last_update = "2022-04-15 04:05:01",
-    last_update_int = 1649988301,
+    last_update = "2022-04-15 14:52:32",
+    last_update_int = 1650027152,
     performance = {
       {
         zoneId = 1011,
@@ -114727,8 +115726,8 @@ LogTracker_CharacterData_US = {
         partition = 5,
         allstars = {
           {
-            spec = "Destruction",
-            percentRank = 42.680770564465,
+            spec = "BeastMastery",
+            percentRank = 91.199373319501,
           },
         },
         encountersKilled = 14,
@@ -114740,8 +115739,47 @@ LogTracker_CharacterData_US = {
         partition = 5,
         allstars = {
           {
-            spec = "Destruction",
-            percentRank = 37.414172986268,
+            spec = "BeastMastery",
+            percentRank = 78.920540648104,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "Tomcrusader-Grobbulus" ] = {
+    level = "0",
+    faction = "Horde",
+    guild = nil,
+    last_update = "2022-04-15 06:56:36",
+    last_update_int = 1649998596,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Justicar",
+            percentRank = 93.490605276959,
+          },
+          {
+            spec = "Protection",
+            percentRank = 80.070470360127,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Justicar",
+            percentRank = 99.510696214158,
           },
         },
         encountersKilled = 6,
@@ -115379,44 +116417,9 @@ LogTracker_CharacterData_US = {
       },
     },
   },
-  [ "Visseria-Grobbulus" ] = {
+  [ "Voodoodolls-Grobbulus" ] = {
     level = "0",
-    faction = "Horde",
-    guild = nil,
-    last_update = "2022-04-15 03:20:25",
-    last_update_int = 1649985625,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Holy",
-            percentRank = 95.816475445819,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Holy",
-            percentRank = 94.477290253693,
-          },
-        },
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "Viviadra-Grobbulus" ] = {
-    level = "0",
-    faction = "Horde",
+    faction = "Alliance",
     guild = nil,
     last_update = "2022-04-15 04:05:01",
     last_update_int = 1649988301,
@@ -115428,8 +116431,8 @@ LogTracker_CharacterData_US = {
         partition = 5,
         allstars = {
           {
-            spec = "Shadow",
-            percentRank = 92.942757590841,
+            spec = "Destruction",
+            percentRank = 42.680770564465,
           },
         },
         encountersKilled = 14,
@@ -115441,113 +116444,8 @@ LogTracker_CharacterData_US = {
         partition = 5,
         allstars = {
           {
-            spec = "Shadow",
-            percentRank = 53.591404180159,
-          },
-        },
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "Vizsla-Grobbulus" ] = {
-    level = "0",
-    faction = "Horde",
-    guild = nil,
-    last_update = "2022-04-15 03:20:25",
-    last_update_int = 1649985625,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Elemental",
-            percentRank = 5.1878106365415,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Elemental",
-            percentRank = 7.4042532483333,
-          },
-        },
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "Vmpr-Grobbulus" ] = {
-    level = "0",
-    faction = "Horde",
-    guild = nil,
-    last_update = "2022-04-15 11:36:46",
-    last_update_int = 1650015406,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Combat",
-            percentRank = 95.63558421641,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Combat",
-            percentRank = 77.783607933676,
-          },
-        },
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "Voolt-Grobbulus" ] = {
-    level = "0",
-    faction = "Horde",
-    guild = nil,
-    last_update = "2022-04-15 15:50:17",
-    last_update_int = 1650030617,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Arcane",
-            percentRank = 94.61431231494,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Arcane",
-            percentRank = 79.524372693464,
+            spec = "Destruction",
+            percentRank = 37.414172986268,
           },
         },
         encountersKilled = 6,
@@ -115849,6 +116747,181 @@ LogTracker_CharacterData_US = {
         zoneEncounters = "6",
         partition = 5,
         allstars = {},
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "Visseria-Grobbulus" ] = {
+    level = "0",
+    faction = "Horde",
+    guild = nil,
+    last_update = "2022-04-15 03:20:25",
+    last_update_int = 1649985625,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Holy",
+            percentRank = 95.816475445819,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Holy",
+            percentRank = 94.477290253693,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "Viviadra-Grobbulus" ] = {
+    level = "0",
+    faction = "Horde",
+    guild = nil,
+    last_update = "2022-04-15 04:05:01",
+    last_update_int = 1649988301,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Shadow",
+            percentRank = 92.942757590841,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Shadow",
+            percentRank = 53.591404180159,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "Vizsla-Grobbulus" ] = {
+    level = "0",
+    faction = "Horde",
+    guild = nil,
+    last_update = "2022-04-15 03:20:25",
+    last_update_int = 1649985625,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Elemental",
+            percentRank = 5.1878106365415,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Elemental",
+            percentRank = 7.4042532483333,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "Vmpr-Grobbulus" ] = {
+    level = "0",
+    faction = "Horde",
+    guild = nil,
+    last_update = "2022-04-15 11:36:46",
+    last_update_int = 1650015406,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Combat",
+            percentRank = 95.63558421641,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Combat",
+            percentRank = 77.783607933676,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "Voolt-Grobbulus" ] = {
+    level = "0",
+    faction = "Horde",
+    guild = nil,
+    last_update = "2022-04-15 15:50:17",
+    last_update_int = 1650030617,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Arcane",
+            percentRank = 94.61431231494,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Arcane",
+            percentRank = 79.524372693464,
+          },
+        },
         encountersKilled = 6,
       },
     },
@@ -116535,6 +117608,175 @@ LogTracker_CharacterData_US = {
       },
     },
   },
+  [ "Xtrra-Grobbulus" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 17:21:14",
+    last_update_int = 1650036074,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Holy",
+            percentRank = 18.557967207298,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {},
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "Yackerlina-Grobbulus" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 04:11:24",
+    last_update_int = 1649988684,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Restoration",
+            percentRank = 62.181789691915,
+          },
+          {
+            spec = "Enhancement",
+            percentRank = 20.317898313588,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Restoration",
+            percentRank = 91.382008794376,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "Zafo-Grobbulus" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 08:22:42",
+    last_update_int = 1650003762,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Arcane",
+            percentRank = 80.611248112905,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Arcane",
+            percentRank = 67.38465108858,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "Zaii-Grobbulus" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 03:20:25",
+    last_update_int = 1649985625,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Arcane",
+            percentRank = 97.001140796098,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {},
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "Zehtsu-Grobbulus" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 04:11:24",
+    last_update_int = 1649988684,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Shadow",
+            percentRank = 82.241911398706,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Shadow",
+            percentRank = 91.588166028849,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
   [ "Xandraa-Grobbulus" ] = {
     level = "0",
     faction = "Horde",
@@ -116725,175 +117967,6 @@ LogTracker_CharacterData_US = {
         zoneEncounters = "6",
         partition = 5,
         allstars = {},
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "Xtrra-Grobbulus" ] = {
-    level = "0",
-    faction = "Alliance",
-    guild = nil,
-    last_update = "2022-04-15 17:21:14",
-    last_update_int = 1650036074,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Holy",
-            percentRank = 18.557967207298,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {},
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "Yackerlina-Grobbulus" ] = {
-    level = "0",
-    faction = "Alliance",
-    guild = nil,
-    last_update = "2022-04-15 04:11:24",
-    last_update_int = 1649988684,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Restoration",
-            percentRank = 62.181789691915,
-          },
-          {
-            spec = "Enhancement",
-            percentRank = 20.317898313588,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Restoration",
-            percentRank = 91.382008794376,
-          },
-        },
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "Zafo-Grobbulus" ] = {
-    level = "0",
-    faction = "Alliance",
-    guild = nil,
-    last_update = "2022-04-15 08:22:42",
-    last_update_int = 1650003762,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Arcane",
-            percentRank = 80.611248112905,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Arcane",
-            percentRank = 67.38465108858,
-          },
-        },
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "Zaii-Grobbulus" ] = {
-    level = "0",
-    faction = "Alliance",
-    guild = nil,
-    last_update = "2022-04-15 03:20:25",
-    last_update_int = 1649985625,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Arcane",
-            percentRank = 97.001140796098,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {},
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "Zehtsu-Grobbulus" ] = {
-    level = "0",
-    faction = "Alliance",
-    guild = nil,
-    last_update = "2022-04-15 04:11:24",
-    last_update_int = 1649988684,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Shadow",
-            percentRank = 82.241911398706,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Shadow",
-            percentRank = 91.588166028849,
-          },
-        },
         encountersKilled = 6,
       },
     },
@@ -125832,192 +126905,6 @@ LogTracker_CharacterData_US = {
       },
     },
   },
-  [ "Zarahemna-Mankrik" ] = {
-    level = "0",
-    faction = "Horde",
-    guild = nil,
-    last_update = "2022-04-15 11:32:32",
-    last_update_int = 1650015152,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Protection",
-            percentRank = 97.447184809438,
-          },
-          {
-            spec = "Justicar",
-            percentRank = 95.939258294916,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Protection",
-            percentRank = 99.913401919013,
-          },
-          {
-            spec = "Justicar",
-            percentRank = 49.890684332517,
-          },
-        },
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "Zhapa-Mankrik" ] = {
-    level = "0",
-    faction = "Horde",
-    guild = nil,
-    last_update = "2022-04-15 05:51:31",
-    last_update_int = 1649994691,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Elemental",
-            percentRank = 95.884733278301,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {},
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "Zûmo-Mankrik" ] = {
-    level = "0",
-    faction = "Horde",
-    guild = nil,
-    last_update = "2022-04-15 11:58:29",
-    last_update_int = 1650016709,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Survival",
-            percentRank = 81.175748078186,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Survival",
-            percentRank = 81.800669167596,
-          },
-        },
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "Zuzar-Mankrik" ] = {
-    level = "0",
-    faction = "Horde",
-    guild = nil,
-    last_update = "2022-04-15 11:40:40",
-    last_update_int = 1650015640,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Elemental",
-            percentRank = 92.210961713634,
-          },
-          {
-            spec = "Restoration",
-            percentRank = 26.793458133728,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Elemental",
-            percentRank = 73.731450454763,
-          },
-          {
-            spec = "Restoration",
-            percentRank = 0.08543670360787,
-          },
-        },
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "Zypzz-Mankrik" ] = {
-    level = "70",
-    faction = "Horde",
-    guild = nil,
-    last_update = "2022-04-15 03:20:25",
-    last_update_int = 1649985625,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "BeastMastery",
-            percentRank = 95.660335500606,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {
-          {
-            spec = "BeastMastery",
-            percentRank = 93.351930059686,
-          },
-        },
-        encountersKilled = 6,
-      },
-    },
-  },
   [ "Athereal-Myzrael" ] = {
     level = "0",
     faction = "Alliance",
@@ -126668,12 +127555,12 @@ LogTracker_CharacterData_US = {
       },
     },
   },
-  [ "Flowa-Myzrael" ] = {
+  [ "Zarahemna-Mankrik" ] = {
     level = "0",
-    faction = "Alliance",
+    faction = "Horde",
     guild = nil,
-    last_update = "2022-04-15 13:20:19",
-    last_update_int = 1650021619,
+    last_update = "2022-04-15 11:32:32",
+    last_update_int = 1650015152,
     performance = {
       {
         zoneId = 1011,
@@ -126681,87 +127568,13 @@ LogTracker_CharacterData_US = {
         zoneEncounters = "14",
         partition = 5,
         allstars = {
-          {
-            spec = "Balance",
-            percentRank = 22.530677497408,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Balance",
-            percentRank = 7.5009626492106,
-          },
-        },
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "Focaz-Myzrael" ] = {
-    level = "0",
-    faction = "Alliance",
-    guild = nil,
-    last_update = "2022-04-15 09:13:43",
-    last_update_int = 1650006823,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Survival",
-            percentRank = 91.869337148307,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Survival",
-            percentRank = 74.186214735972,
-          },
-        },
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "Galaxyx-Myzrael" ] = {
-    level = "0",
-    faction = "Alliance",
-    guild = nil,
-    last_update = "2022-04-15 10:26:31",
-    last_update_int = 1650011191,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Justicar",
-            percentRank = 90.769258205748,
-          },
-          {
-            spec = "Retribution",
-            percentRank = 73.322277501382,
-          },
           {
             spec = "Protection",
-            percentRank = 49.409169533361,
+            percentRank = 97.447184809438,
+          },
+          {
+            spec = "Justicar",
+            percentRank = 95.939258294916,
           },
         },
         encountersKilled = 14,
@@ -126774,23 +127587,131 @@ LogTracker_CharacterData_US = {
         allstars = {
           {
             spec = "Protection",
-            percentRank = 94.223907998199,
+            percentRank = 99.913401919013,
           },
           {
             spec = "Justicar",
-            percentRank = 84.906218664212,
+            percentRank = 49.890684332517,
           },
         },
         encountersKilled = 6,
       },
     },
   },
-  [ "Gàren-Myzrael" ] = {
+  [ "Zhapa-Mankrik" ] = {
+    level = "0",
+    faction = "Horde",
+    guild = nil,
+    last_update = "2022-04-15 05:51:31",
+    last_update_int = 1649994691,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Elemental",
+            percentRank = 95.884733278301,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {},
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "Zûmo-Mankrik" ] = {
+    level = "0",
+    faction = "Horde",
+    guild = nil,
+    last_update = "2022-04-15 11:58:29",
+    last_update_int = 1650016709,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Survival",
+            percentRank = 81.175748078186,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Survival",
+            percentRank = 81.800669167596,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "Zuzar-Mankrik" ] = {
+    level = "0",
+    faction = "Horde",
+    guild = nil,
+    last_update = "2022-04-15 11:40:40",
+    last_update_int = 1650015640,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Elemental",
+            percentRank = 92.210961713634,
+          },
+          {
+            spec = "Restoration",
+            percentRank = 26.793458133728,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Elemental",
+            percentRank = 73.731450454763,
+          },
+          {
+            spec = "Restoration",
+            percentRank = 0.08543670360787,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "Zypzz-Mankrik" ] = {
     level = "70",
-    faction = "Alliance",
+    faction = "Horde",
     guild = nil,
-    last_update = "2022-04-15 05:04:09",
-    last_update_int = 1649991849,
+    last_update = "2022-04-15 03:20:25",
+    last_update_int = 1649985625,
     performance = {
       {
         zoneId = 1011,
@@ -126799,12 +127720,8 @@ LogTracker_CharacterData_US = {
         partition = 5,
         allstars = {
           {
-            spec = "Protection",
-            percentRank = 97.895731425253,
-          },
-          {
-            spec = "Justicar",
-            percentRank = 49.065952945006,
+            spec = "BeastMastery",
+            percentRank = 95.660335500606,
           },
         },
         encountersKilled = 14,
@@ -126816,55 +127733,8 @@ LogTracker_CharacterData_US = {
         partition = 5,
         allstars = {
           {
-            spec = "Protection",
-            percentRank = 92.946211560816,
-          },
-          {
-            spec = "Justicar",
-            percentRank = 69.117082213056,
-          },
-        },
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "Geistreiter-Myzrael" ] = {
-    level = "0",
-    faction = "Alliance",
-    guild = nil,
-    last_update = "2022-04-15 07:13:44",
-    last_update_int = 1649999624,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Gladiator",
-            percentRank = 89.535303522616,
-          },
-          {
-            spec = "Protection",
-            percentRank = 87.384316663677,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Protection",
-            percentRank = 94.888734353268,
-          },
-          {
-            spec = "Gladiator",
-            percentRank = 52.110525254271,
+            spec = "BeastMastery",
+            percentRank = 93.351930059686,
           },
         },
         encountersKilled = 6,
@@ -127211,6 +128081,209 @@ LogTracker_CharacterData_US = {
         zoneEncounters = "6",
         partition = 5,
         allstars = {},
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "Flowa-Myzrael" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 13:20:19",
+    last_update_int = 1650021619,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Balance",
+            percentRank = 22.530677497408,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Balance",
+            percentRank = 7.5009626492106,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "Focaz-Myzrael" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 09:13:43",
+    last_update_int = 1650006823,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Survival",
+            percentRank = 91.869337148307,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Survival",
+            percentRank = 74.186214735972,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "Galaxyx-Myzrael" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 10:26:31",
+    last_update_int = 1650011191,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Justicar",
+            percentRank = 90.769258205748,
+          },
+          {
+            spec = "Retribution",
+            percentRank = 73.322277501382,
+          },
+          {
+            spec = "Protection",
+            percentRank = 49.409169533361,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Protection",
+            percentRank = 94.223907998199,
+          },
+          {
+            spec = "Justicar",
+            percentRank = 84.906218664212,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "Gàren-Myzrael" ] = {
+    level = "70",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 05:04:09",
+    last_update_int = 1649991849,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Protection",
+            percentRank = 97.895731425253,
+          },
+          {
+            spec = "Justicar",
+            percentRank = 49.065952945006,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Protection",
+            percentRank = 92.946211560816,
+          },
+          {
+            spec = "Justicar",
+            percentRank = 69.117082213056,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "Geistreiter-Myzrael" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 07:13:44",
+    last_update_int = 1649999624,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Gladiator",
+            percentRank = 89.535303522616,
+          },
+          {
+            spec = "Protection",
+            percentRank = 87.384316663677,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Protection",
+            percentRank = 94.888734353268,
+          },
+          {
+            spec = "Gladiator",
+            percentRank = 52.110525254271,
+          },
+        },
         encountersKilled = 6,
       },
     },
@@ -128111,6 +129184,105 @@ LogTracker_CharacterData_US = {
       },
     },
   },
+  [ "Gurlaya-Myzrael" ] = {
+    level = "0",
+    faction = "Horde",
+    guild = nil,
+    last_update = "2022-04-15 14:22:38",
+    last_update_int = 1650025358,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Destruction",
+            percentRank = 64.612321970641,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {},
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "Gwarn-Myzrael" ] = {
+    level = "0",
+    faction = "Horde",
+    guild = nil,
+    last_update = "2022-04-15 11:19:24",
+    last_update_int = 1650014364,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Balance",
+            percentRank = 43.112685793294,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Balance",
+            percentRank = 25.829803619561,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "Lever-Myzrael" ] = {
+    level = "70",
+    faction = "Horde",
+    guild = nil,
+    last_update = "2022-04-15 09:21:16",
+    last_update_int = 1650007276,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Protection",
+            percentRank = 82.490001371843,
+          },
+          {
+            spec = "Gladiator",
+            percentRank = 34.373098148435,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {},
+        encountersKilled = 6,
+      },
+    },
+  },
   [ "Magnumopera-Myzrael" ] = {
     level = "0",
     faction = "Alliance",
@@ -128275,135 +129447,6 @@ LogTracker_CharacterData_US = {
             percentRank = 64.676642765596,
           },
         },
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "Gurlaya-Myzrael" ] = {
-    level = "0",
-    faction = "Horde",
-    guild = nil,
-    last_update = "2022-04-15 14:22:38",
-    last_update_int = 1650025358,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Destruction",
-            percentRank = 64.612321970641,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {},
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "Gwarn-Myzrael" ] = {
-    level = "0",
-    faction = "Horde",
-    guild = nil,
-    last_update = "2022-04-15 11:19:24",
-    last_update_int = 1650014364,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Balance",
-            percentRank = 43.112685793294,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Balance",
-            percentRank = 25.829803619561,
-          },
-        },
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "Lever-Myzrael" ] = {
-    level = "70",
-    faction = "Horde",
-    guild = nil,
-    last_update = "2022-04-15 09:21:16",
-    last_update_int = 1650007276,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Protection",
-            percentRank = 82.490001371843,
-          },
-          {
-            spec = "Gladiator",
-            percentRank = 34.373098148435,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {},
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "Máveric-Myzrael" ] = {
-    level = "0",
-    faction = "Horde",
-    guild = nil,
-    last_update = "2022-04-15 15:36:34",
-    last_update_int = 1650029794,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Shadow",
-            percentRank = 96.293665591366,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {},
         encountersKilled = 6,
       },
     },
@@ -129236,12 +130279,12 @@ LogTracker_CharacterData_US = {
       },
     },
   },
-  [ "Sno-Myzrael" ] = {
+  [ "Máveric-Myzrael" ] = {
     level = "0",
-    faction = "Alliance",
+    faction = "Horde",
     guild = nil,
-    last_update = "2022-04-15 05:04:14",
-    last_update_int = 1649991854,
+    last_update = "2022-04-15 15:36:34",
+    last_update_int = 1650029794,
     performance = {
       {
         zoneId = 1011,
@@ -129250,8 +130293,8 @@ LogTracker_CharacterData_US = {
         partition = 5,
         allstars = {
           {
-            spec = "Arcane",
-            percentRank = 90.825813414942,
+            spec = "Shadow",
+            percentRank = 96.293665591366,
           },
         },
         encountersKilled = 14,
@@ -129261,152 +130304,7 @@ LogTracker_CharacterData_US = {
         zoneName = "Zul'Aman",
         zoneEncounters = "6",
         partition = 5,
-        allstars = {
-          {
-            spec = "Arcane",
-            percentRank = 97.309371509798,
-          },
-        },
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "Teianiah-Myzrael" ] = {
-    level = "0",
-    faction = "Alliance",
-    guild = nil,
-    last_update = "2022-04-15 18:10:25",
-    last_update_int = 1650039025,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Enhancement",
-            percentRank = 7.278627201334,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Enhancement",
-            percentRank = 55.913613050732,
-          },
-        },
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "Tenlee-Myzrael" ] = {
-    level = "0",
-    faction = "Alliance",
-    guild = nil,
-    last_update = "2022-04-15 10:19:37",
-    last_update_int = 1650010777,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Holy",
-            percentRank = 41.558281053214,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Holy",
-            percentRank = 21.204697464613,
-          },
-        },
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "Teslaiesh-Myzrael" ] = {
-    level = "0",
-    faction = "Alliance",
-    guild = nil,
-    last_update = "2022-04-15 05:04:06",
-    last_update_int = 1649991846,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Combat",
-            percentRank = 93.750990537454,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Combat",
-            percentRank = 90.686257070689,
-          },
-        },
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "Teslyn-Myzrael" ] = {
-    level = "0",
-    faction = "Alliance",
-    guild = nil,
-    last_update = "2022-04-15 18:54:27",
-    last_update_int = 1650041667,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Holy",
-            percentRank = 10.017184759708,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Holy",
-            percentRank = 26.16464457925,
-          },
-        },
+        allstars = {},
         encountersKilled = 6,
       },
     },
@@ -129616,6 +130514,181 @@ LogTracker_CharacterData_US = {
           {
             spec = "Combat",
             percentRank = 54.196164929382,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "Sno-Myzrael" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 05:04:14",
+    last_update_int = 1649991854,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Arcane",
+            percentRank = 90.825813414942,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Arcane",
+            percentRank = 97.309371509798,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "Teianiah-Myzrael" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 18:10:25",
+    last_update_int = 1650039025,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Enhancement",
+            percentRank = 7.278627201334,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Enhancement",
+            percentRank = 55.913613050732,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "Tenlee-Myzrael" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 10:19:37",
+    last_update_int = 1650010777,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Holy",
+            percentRank = 41.558281053214,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Holy",
+            percentRank = 21.204697464613,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "Teslaiesh-Myzrael" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 05:04:06",
+    last_update_int = 1649991846,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Combat",
+            percentRank = 93.750990537454,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Combat",
+            percentRank = 90.686257070689,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "Teslyn-Myzrael" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 18:54:27",
+    last_update_int = 1650041667,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Holy",
+            percentRank = 10.017184759708,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Holy",
+            percentRank = 26.16464457925,
           },
         },
         encountersKilled = 6,
@@ -130418,171 +131491,6 @@ LogTracker_CharacterData_US = {
       },
     },
   },
-  [ "Attraction-Pagle" ] = {
-    level = "0",
-    faction = "Alliance",
-    guild = nil,
-    last_update = "2022-04-15 07:51:44",
-    last_update_int = 1650001904,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Restoration",
-            percentRank = 21.655778409913,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Restoration",
-            percentRank = 42.896181651057,
-          },
-        },
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "Baconjunior-Pagle" ] = {
-    level = "0",
-    faction = "Alliance",
-    guild = nil,
-    last_update = "2022-04-15 08:54:20",
-    last_update_int = 1650005660,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Arcane",
-            percentRank = 98.81719254862,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Arcane",
-            percentRank = 87.714488780587,
-          },
-        },
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "Badruzkha-Pagle" ] = {
-    level = "0",
-    faction = "Alliance",
-    guild = nil,
-    last_update = "2022-04-15 07:00:28",
-    last_update_int = 1649998828,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {},
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {
-          {
-            spec = "BeastMastery",
-            percentRank = 7.4740139319609,
-          },
-        },
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "Baffldbobcat-Pagle" ] = {
-    level = "0",
-    faction = "Alliance",
-    guild = nil,
-    last_update = "2022-04-15 06:54:33",
-    last_update_int = 1649998473,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Balance",
-            percentRank = 95.09941315582,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Balance",
-            percentRank = 89.558800439629,
-          },
-        },
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "Balloonman-Pagle" ] = {
-    level = "0",
-    faction = "Alliance",
-    guild = nil,
-    last_update = "2022-04-15 03:20:25",
-    last_update_int = 1649985625,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Restoration",
-            percentRank = 75.579910048196,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {},
-        encountersKilled = 6,
-      },
-    },
-  },
   [ "Tupu-Myzrael" ] = {
     level = "0",
     faction = "Horde",
@@ -130809,6 +131717,171 @@ LogTracker_CharacterData_US = {
             percentRank = 2.0326637598609,
           },
         },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "Attraction-Pagle" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 07:51:44",
+    last_update_int = 1650001904,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Restoration",
+            percentRank = 21.655778409913,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Restoration",
+            percentRank = 42.896181651057,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "Baconjunior-Pagle" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 08:54:20",
+    last_update_int = 1650005660,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Arcane",
+            percentRank = 98.81719254862,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Arcane",
+            percentRank = 87.714488780587,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "Badruzkha-Pagle" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 07:00:28",
+    last_update_int = 1649998828,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {},
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "BeastMastery",
+            percentRank = 7.4740139319609,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "Baffldbobcat-Pagle" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 06:54:33",
+    last_update_int = 1649998473,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Balance",
+            percentRank = 95.09941315582,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Balance",
+            percentRank = 89.558800439629,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "Balloonman-Pagle" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 03:20:25",
+    last_update_int = 1649985625,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Restoration",
+            percentRank = 75.579910048196,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {},
         encountersKilled = 6,
       },
     },
@@ -139689,114 +140762,6 @@ LogTracker_CharacterData_US = {
       },
     },
   },
-  [ "Calanthe-Remulos" ] = {
-    level = "0",
-    faction = "Alliance",
-    guild = nil,
-    last_update = "2022-04-15 08:26:31",
-    last_update_int = 1650003991,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Shadow",
-            percentRank = 77.513190642111,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Shadow",
-            percentRank = 46.74712982043,
-          },
-        },
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "Cartwheels-Remulos" ] = {
-    level = "0",
-    faction = "Alliance",
-    guild = nil,
-    last_update = "2022-04-15 08:35:12",
-    last_update_int = 1650004512,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Shadow",
-            percentRank = 85.559980089597,
-          },
-          {
-            spec = "Holy",
-            percentRank = 19.436303880972,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Shadow",
-            percentRank = 72.670738887253,
-          },
-          {
-            spec = "Holy",
-            percentRank = 7.4387519031894,
-          },
-        },
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "Cheekylionel-Remulos" ] = {
-    level = "0",
-    faction = "Alliance",
-    guild = nil,
-    last_update = "2022-04-15 14:29:12",
-    last_update_int = 1650025752,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Holy",
-            percentRank = 9.884767946892,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {},
-        encountersKilled = 6,
-      },
-    },
-  },
   [ "Altered-Remulos" ] = {
     level = "0",
     faction = "Horde",
@@ -140161,12 +141126,12 @@ LogTracker_CharacterData_US = {
       },
     },
   },
-  [ "Chadstity-Remulos" ] = {
-    level = "70",
-    faction = "Horde",
+  [ "Calanthe-Remulos" ] = {
+    level = "0",
+    faction = "Alliance",
     guild = nil,
-    last_update = "2022-04-15 13:07:32",
-    last_update_int = 1650020852,
+    last_update = "2022-04-15 08:26:31",
+    last_update_int = 1650003991,
     performance = {
       {
         zoneId = 1011,
@@ -140175,8 +141140,8 @@ LogTracker_CharacterData_US = {
         partition = 5,
         allstars = {
           {
-            spec = "Retribution",
-            percentRank = 84.619126589276,
+            spec = "Shadow",
+            percentRank = 77.513190642111,
           },
         },
         encountersKilled = 14,
@@ -140188,24 +141153,20 @@ LogTracker_CharacterData_US = {
         partition = 5,
         allstars = {
           {
-            spec = "Justicar",
-            percentRank = 69.457366889682,
-          },
-          {
-            spec = "Protection",
-            percentRank = 68.002009075479,
+            spec = "Shadow",
+            percentRank = 46.74712982043,
           },
         },
         encountersKilled = 6,
       },
     },
   },
-  [ "Chandelan-Remulos" ] = {
-    level = "60",
-    faction = "Horde",
+  [ "Cartwheels-Remulos" ] = {
+    level = "0",
+    faction = "Alliance",
     guild = nil,
-    last_update = "2022-04-15 09:18:41",
-    last_update_int = 1650007121,
+    last_update = "2022-04-15 08:35:12",
+    last_update_int = 1650004512,
     performance = {
       {
         zoneId = 1011,
@@ -140214,8 +141175,12 @@ LogTracker_CharacterData_US = {
         partition = 5,
         allstars = {
           {
-            spec = "Restoration",
-            percentRank = 63.038181213169,
+            spec = "Shadow",
+            percentRank = 85.559980089597,
+          },
+          {
+            spec = "Holy",
+            percentRank = 19.436303880972,
           },
         },
         encountersKilled = 14,
@@ -140227,14 +141192,44 @@ LogTracker_CharacterData_US = {
         partition = 5,
         allstars = {
           {
-            spec = "Guardian",
-            percentRank = 49.955252821558,
+            spec = "Shadow",
+            percentRank = 72.670738887253,
           },
           {
-            spec = "Feral",
-            percentRank = 38.456877398505,
+            spec = "Holy",
+            percentRank = 7.4387519031894,
           },
         },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "Cheekylionel-Remulos" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 14:29:12",
+    last_update_int = 1650025752,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Holy",
+            percentRank = 9.884767946892,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {},
         encountersKilled = 6,
       },
     },
@@ -141015,77 +142010,12 @@ LogTracker_CharacterData_US = {
       },
     },
   },
-  [ "Frenzill-Remulos" ] = {
-    level = "0",
-    faction = "Alliance",
+  [ "Chadstity-Remulos" ] = {
+    level = "70",
+    faction = "Horde",
     guild = nil,
-    last_update = "2022-04-15 09:52:23",
-    last_update_int = 1650009143,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {},
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Frost",
-            percentRank = 8.0587392550143,
-          },
-        },
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "Fruitylex-Remulos" ] = {
-    level = "0",
-    faction = "Alliance",
-    guild = nil,
-    last_update = "2022-04-15 16:47:37",
-    last_update_int = 1650034057,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Combat",
-            percentRank = 47.578044882159,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Combat",
-            percentRank = 30.457900444258,
-          },
-        },
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "Goldelocks-Remulos" ] = {
-    level = "0",
-    faction = "Alliance",
-    guild = nil,
-    last_update = "2022-04-15 09:09:44",
-    last_update_int = 1650006584,
+    last_update = "2022-04-15 13:07:32",
+    last_update_int = 1650020852,
     performance = {
       {
         zoneId = 1011,
@@ -141095,7 +142025,7 @@ LogTracker_CharacterData_US = {
         allstars = {
           {
             spec = "Retribution",
-            percentRank = 56.042255416498,
+            percentRank = 84.619126589276,
           },
         },
         encountersKilled = 14,
@@ -141108,15 +142038,50 @@ LogTracker_CharacterData_US = {
         allstars = {
           {
             spec = "Justicar",
-            percentRank = 83.637547803143,
+            percentRank = 69.457366889682,
           },
           {
             spec = "Protection",
-            percentRank = 70.597766740639,
+            percentRank = 68.002009075479,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "Chandelan-Remulos" ] = {
+    level = "60",
+    faction = "Horde",
+    guild = nil,
+    last_update = "2022-04-15 09:18:41",
+    last_update_int = 1650007121,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Restoration",
+            percentRank = 63.038181213169,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Guardian",
+            percentRank = 49.955252821558,
           },
           {
-            spec = "Retribution",
-            percentRank = 39.635086517046,
+            spec = "Feral",
+            percentRank = 38.456877398505,
           },
         },
         encountersKilled = 6,
@@ -141343,24 +142308,19 @@ LogTracker_CharacterData_US = {
       },
     },
   },
-  [ "Fridgekeys-Remulos" ] = {
+  [ "Frenzill-Remulos" ] = {
     level = "0",
-    faction = "Horde",
+    faction = "Alliance",
     guild = nil,
-    last_update = "2022-04-15 07:38:38",
-    last_update_int = 1650001118,
+    last_update = "2022-04-15 09:52:23",
+    last_update_int = 1650009143,
     performance = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
         zoneEncounters = "14",
         partition = 5,
-        allstars = {
-          {
-            spec = "Arms",
-            percentRank = 92.24433185202,
-          },
-        },
+        allstars = {},
         encountersKilled = 14,
       },
       {
@@ -141368,17 +142328,22 @@ LogTracker_CharacterData_US = {
         zoneName = "Zul'Aman",
         zoneEncounters = "6",
         partition = 5,
-        allstars = {},
+        allstars = {
+          {
+            spec = "Frost",
+            percentRank = 8.0587392550143,
+          },
+        },
         encountersKilled = 6,
       },
     },
   },
-  [ "Glavadin-Remulos" ] = {
+  [ "Fruitylex-Remulos" ] = {
     level = "0",
-    faction = "Horde",
+    faction = "Alliance",
     guild = nil,
-    last_update = "2022-04-15 08:19:44",
-    last_update_int = 1650003584,
+    last_update = "2022-04-15 16:47:37",
+    last_update_int = 1650034057,
     performance = {
       {
         zoneId = 1011,
@@ -141387,8 +142352,8 @@ LogTracker_CharacterData_US = {
         partition = 5,
         allstars = {
           {
-            spec = "Holy",
-            percentRank = 97.810319627148,
+            spec = "Combat",
+            percentRank = 47.578044882159,
           },
         },
         encountersKilled = 14,
@@ -141398,7 +142363,55 @@ LogTracker_CharacterData_US = {
         zoneName = "Zul'Aman",
         zoneEncounters = "6",
         partition = 5,
-        allstars = {},
+        allstars = {
+          {
+            spec = "Combat",
+            percentRank = 30.457900444258,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "Goldelocks-Remulos" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 09:09:44",
+    last_update_int = 1650006584,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Retribution",
+            percentRank = 56.042255416498,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Justicar",
+            percentRank = 83.637547803143,
+          },
+          {
+            spec = "Protection",
+            percentRank = 70.597766740639,
+          },
+          {
+            spec = "Retribution",
+            percentRank = 39.635086517046,
+          },
+        },
         encountersKilled = 6,
       },
     },
@@ -142202,12 +143215,12 @@ LogTracker_CharacterData_US = {
       },
     },
   },
-  [ "Lilpoppet-Remulos" ] = {
+  [ "Fridgekeys-Remulos" ] = {
     level = "0",
-    faction = "Alliance",
+    faction = "Horde",
     guild = nil,
-    last_update = "2022-04-15 07:20:39",
-    last_update_int = 1650000039,
+    last_update = "2022-04-15 07:38:38",
+    last_update_int = 1650001118,
     performance = {
       {
         zoneId = 1011,
@@ -142216,8 +143229,8 @@ LogTracker_CharacterData_US = {
         partition = 5,
         allstars = {
           {
-            spec = "Retribution",
-            percentRank = 29.789620060109,
+            spec = "Arms",
+            percentRank = 92.24433185202,
           },
         },
         encountersKilled = 14,
@@ -142227,61 +143240,17 @@ LogTracker_CharacterData_US = {
         zoneName = "Zul'Aman",
         zoneEncounters = "6",
         partition = 5,
-        allstars = {
-          {
-            spec = "Retribution",
-            percentRank = 10.750385471989,
-          },
-          {
-            spec = "Justicar",
-            percentRank = 9.6775270954059,
-          },
-        },
+        allstars = {},
         encountersKilled = 6,
       },
     },
   },
-  [ "Longcarabine-Remulos" ] = {
+  [ "Glavadin-Remulos" ] = {
     level = "0",
-    faction = "Alliance",
+    faction = "Horde",
     guild = nil,
-    last_update = "2022-04-15 09:02:19",
-    last_update_int = 1650006139,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "BeastMastery",
-            percentRank = 96.159490776293,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {
-          {
-            spec = "BeastMastery",
-            percentRank = 76.892268852561,
-          },
-        },
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "Loulala-Remulos" ] = {
-    level = "0",
-    faction = "Alliance",
-    guild = nil,
-    last_update = "2022-04-15 08:24:22",
-    last_update_int = 1650003862,
+    last_update = "2022-04-15 08:19:44",
+    last_update_int = 1650003584,
     performance = {
       {
         zoneId = 1011,
@@ -142291,7 +143260,7 @@ LogTracker_CharacterData_US = {
         allstars = {
           {
             spec = "Holy",
-            percentRank = 39.114649454813,
+            percentRank = 97.810319627148,
           },
         },
         encountersKilled = 14,
@@ -142301,12 +143270,7 @@ LogTracker_CharacterData_US = {
         zoneName = "Zul'Aman",
         zoneEncounters = "6",
         partition = 5,
-        allstars = {
-          {
-            spec = "Holy",
-            percentRank = 19.913787989639,
-          },
-        },
+        allstars = {},
         encountersKilled = 6,
       },
     },
@@ -142562,12 +143526,51 @@ LogTracker_CharacterData_US = {
       },
     },
   },
-  [ "Lhotse-Remulos" ] = {
+  [ "Lilpoppet-Remulos" ] = {
     level = "0",
-    faction = "Horde",
+    faction = "Alliance",
     guild = nil,
-    last_update = "2022-04-15 12:44:28",
-    last_update_int = 1650019468,
+    last_update = "2022-04-15 07:20:39",
+    last_update_int = 1650000039,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Retribution",
+            percentRank = 29.789620060109,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Retribution",
+            percentRank = 10.750385471989,
+          },
+          {
+            spec = "Justicar",
+            percentRank = 9.6775270954059,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "Longcarabine-Remulos" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 09:02:19",
+    last_update_int = 1650006139,
     performance = {
       {
         zoneId = 1011,
@@ -142577,7 +143580,7 @@ LogTracker_CharacterData_US = {
         allstars = {
           {
             spec = "BeastMastery",
-            percentRank = 89.245231088434,
+            percentRank = 96.159490776293,
           },
         },
         encountersKilled = 14,
@@ -142590,7 +143593,42 @@ LogTracker_CharacterData_US = {
         allstars = {
           {
             spec = "BeastMastery",
-            percentRank = 46.504615102022,
+            percentRank = 76.892268852561,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "Loulala-Remulos" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 08:24:22",
+    last_update_int = 1650003862,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Holy",
+            percentRank = 39.114649454813,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Holy",
+            percentRank = 19.913787989639,
           },
         },
         encountersKilled = 6,
@@ -143444,37 +144482,12 @@ LogTracker_CharacterData_US = {
       },
     },
   },
-  [ "Perseverance-Remulos" ] = {
+  [ "Lhotse-Remulos" ] = {
     level = "0",
-    faction = "Alliance",
+    faction = "Horde",
     guild = nil,
-    last_update = "2022-04-15 11:35:46",
-    last_update_int = 1650015346,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {},
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {},
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "Port-Remulos" ] = {
-    level = "0",
-    faction = "Alliance",
-    guild = nil,
-    last_update = "2022-04-15 11:17:46",
-    last_update_int = 1650014266,
+    last_update = "2022-04-15 12:44:28",
+    last_update_int = 1650019468,
     performance = {
       {
         zoneId = 1011,
@@ -143483,8 +144496,8 @@ LogTracker_CharacterData_US = {
         partition = 5,
         allstars = {
           {
-            spec = "Arcane",
-            percentRank = 81.661053395605,
+            spec = "BeastMastery",
+            percentRank = 89.245231088434,
           },
         },
         encountersKilled = 14,
@@ -143496,43 +144509,8 @@ LogTracker_CharacterData_US = {
         partition = 5,
         allstars = {
           {
-            spec = "Arcane",
-            percentRank = 75.675752696599,
-          },
-        },
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "Prushka-Remulos" ] = {
-    level = "0",
-    faction = "Alliance",
-    guild = nil,
-    last_update = "2022-04-15 06:55:39",
-    last_update_int = 1649998539,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Enhancement",
-            percentRank = 94.997776536185,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Enhancement",
-            percentRank = 88.137827151196,
+            spec = "BeastMastery",
+            percentRank = 46.504615102022,
           },
         },
         encountersKilled = 6,
@@ -143752,12 +144730,37 @@ LogTracker_CharacterData_US = {
       },
     },
   },
-  [ "Potatounited-Remulos" ] = {
-    level = "70",
-    faction = "Horde",
+  [ "Perseverance-Remulos" ] = {
+    level = "0",
+    faction = "Alliance",
     guild = nil,
-    last_update = "2022-04-15 08:36:39",
-    last_update_int = 1650004599,
+    last_update = "2022-04-15 11:35:46",
+    last_update_int = 1650015346,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {},
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {},
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "Port-Remulos" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 11:17:46",
+    last_update_int = 1650014266,
     performance = {
       {
         zoneId = 1011,
@@ -143766,8 +144769,8 @@ LogTracker_CharacterData_US = {
         partition = 5,
         allstars = {
           {
-            spec = "Holy",
-            percentRank = 88.357082685714,
+            spec = "Arcane",
+            percentRank = 81.661053395605,
           },
         },
         encountersKilled = 14,
@@ -143779,16 +144782,43 @@ LogTracker_CharacterData_US = {
         partition = 5,
         allstars = {
           {
-            spec = "Shadow",
-            percentRank = 47.19605534295,
+            spec = "Arcane",
+            percentRank = 75.675752696599,
           },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "Prushka-Remulos" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 06:55:39",
+    last_update_int = 1649998539,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
           {
-            spec = "Holy",
-            percentRank = 44.946908429399,
+            spec = "Enhancement",
+            percentRank = 94.997776536185,
           },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
           {
-            spec = "Discipline",
-            percentRank = 19.30226636109,
+            spec = "Enhancement",
+            percentRank = 88.137827151196,
           },
         },
         encountersKilled = 6,
@@ -144476,12 +145506,12 @@ LogTracker_CharacterData_US = {
       },
     },
   },
-  [ "Systerjay-Remulos" ] = {
-    level = "0",
-    faction = "Alliance",
+  [ "Potatounited-Remulos" ] = {
+    level = "70",
+    faction = "Horde",
     guild = nil,
-    last_update = "2022-04-15 07:38:42",
-    last_update_int = 1650001122,
+    last_update = "2022-04-15 08:36:39",
+    last_update_int = 1650004599,
     performance = {
       {
         zoneId = 1011,
@@ -144490,16 +145520,8 @@ LogTracker_CharacterData_US = {
         partition = 5,
         allstars = {
           {
-            spec = "Arms",
-            percentRank = 48.679555039769,
-          },
-          {
-            spec = "Gladiator",
-            percentRank = 40.622002166177,
-          },
-          {
-            spec = "Protection",
-            percentRank = 27.874803457045,
+            spec = "Holy",
+            percentRank = 88.357082685714,
           },
         },
         encountersKilled = 14,
@@ -144511,121 +145533,16 @@ LogTracker_CharacterData_US = {
         partition = 5,
         allstars = {
           {
-            spec = "Protection",
-            percentRank = 49.965229485396,
-          },
-        },
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "Tamynna-Remulos" ] = {
-    level = "0",
-    faction = "Alliance",
-    guild = nil,
-    last_update = "2022-04-15 09:59:30",
-    last_update_int = 1650009570,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "BeastMastery",
-            percentRank = 45.603285838291,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {
-          {
-            spec = "BeastMastery",
-            percentRank = 34.272681351314,
-          },
-        },
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "Tazosin-Remulos" ] = {
-    level = "0",
-    faction = "Alliance",
-    guild = nil,
-    last_update = "2022-04-15 14:29:17",
-    last_update_int = 1650025757,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Destruction",
-            percentRank = 98.553911609341,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Destruction",
-            percentRank = 87.969100486428,
-          },
-        },
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "Tentacle-Remulos" ] = {
-    level = "60",
-    faction = "Alliance",
-    guild = nil,
-    last_update = "2022-04-15 13:23:39",
-    last_update_int = 1650021819,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Retribution",
-            percentRank = 98.675511332228,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Retribution",
-            percentRank = 98.249158249158,
+            spec = "Shadow",
+            percentRank = 47.19605534295,
           },
           {
-            spec = "Justicar",
-            percentRank = 93.799418079003,
+            spec = "Holy",
+            percentRank = 44.946908429399,
           },
           {
-            spec = "Protection",
-            percentRank = 78.012747237521,
+            spec = "Discipline",
+            percentRank = 19.30226636109,
           },
         },
         encountersKilled = 6,
@@ -144975,6 +145892,162 @@ LogTracker_CharacterData_US = {
           {
             spec = "Combat",
             percentRank = 71.991177203031,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "Systerjay-Remulos" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 07:38:42",
+    last_update_int = 1650001122,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Arms",
+            percentRank = 48.679555039769,
+          },
+          {
+            spec = "Gladiator",
+            percentRank = 40.622002166177,
+          },
+          {
+            spec = "Protection",
+            percentRank = 27.874803457045,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Protection",
+            percentRank = 49.965229485396,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "Tamynna-Remulos" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 09:59:30",
+    last_update_int = 1650009570,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "BeastMastery",
+            percentRank = 45.603285838291,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "BeastMastery",
+            percentRank = 34.272681351314,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "Tazosin-Remulos" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 14:29:17",
+    last_update_int = 1650025757,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Destruction",
+            percentRank = 98.553911609341,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Destruction",
+            percentRank = 87.969100486428,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "Tentacle-Remulos" ] = {
+    level = "60",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 13:23:39",
+    last_update_int = 1650021819,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Retribution",
+            percentRank = 98.675511332228,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Retribution",
+            percentRank = 98.249158249158,
+          },
+          {
+            spec = "Justicar",
+            percentRank = 93.799418079003,
+          },
+          {
+            spec = "Protection",
+            percentRank = 78.012747237521,
           },
         },
         encountersKilled = 6,
@@ -148477,6 +149550,161 @@ LogTracker_CharacterData_US = {
       },
     },
   },
+  [ "Airtemis-Westfall" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 08:17:17",
+    last_update_int = 1650003437,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "BeastMastery",
+            percentRank = 96.345927404905,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "BeastMastery",
+            percentRank = 93.707241814583,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "Altonias-Westfall" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 10:24:24",
+    last_update_int = 1650011064,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Combat",
+            percentRank = 95.083103132882,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Combat",
+            percentRank = 96.872704376115,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "Aroy-Westfall" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 20:05:12",
+    last_update_int = 1650045912,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Fury",
+            percentRank = 40.722299959653,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {},
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "Asurmen-Westfall" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 10:33:13",
+    last_update_int = 1650011593,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Protection",
+            percentRank = 88.043457135638,
+          },
+          {
+            spec = "Retribution",
+            percentRank = 86.332780541736,
+          },
+          {
+            spec = "Justicar",
+            percentRank = 84.106574406805,
+          },
+          {
+            spec = "Holy",
+            percentRank = 13.010637499403,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Protection",
+            percentRank = 88.588104887596,
+          },
+          {
+            spec = "Justicar",
+            percentRank = 88.475005342495,
+          },
+          {
+            spec = "Retribution",
+            percentRank = 83.560606060606,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
   [ "Seibu-Sulfuras" ] = {
     level = "0",
     faction = "Horde",
@@ -148600,344 +149828,6 @@ LogTracker_CharacterData_US = {
           {
             spec = "Elemental",
             percentRank = 84.529660810745,
-          },
-        },
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "Airtemis-Westfall" ] = {
-    level = "0",
-    faction = "Alliance",
-    guild = nil,
-    last_update = "2022-04-15 08:17:17",
-    last_update_int = 1650003437,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "BeastMastery",
-            percentRank = 96.345927404905,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {
-          {
-            spec = "BeastMastery",
-            percentRank = 93.707241814583,
-          },
-        },
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "Altonias-Westfall" ] = {
-    level = "0",
-    faction = "Alliance",
-    guild = nil,
-    last_update = "2022-04-15 10:24:24",
-    last_update_int = 1650011064,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Combat",
-            percentRank = 95.083103132882,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Combat",
-            percentRank = 96.872704376115,
-          },
-        },
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "Asurmen-Westfall" ] = {
-    level = "0",
-    faction = "Alliance",
-    guild = nil,
-    last_update = "2022-04-15 10:33:13",
-    last_update_int = 1650011593,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Protection",
-            percentRank = 88.043457135638,
-          },
-          {
-            spec = "Retribution",
-            percentRank = 86.332780541736,
-          },
-          {
-            spec = "Justicar",
-            percentRank = 84.106574406805,
-          },
-          {
-            spec = "Holy",
-            percentRank = 13.010637499403,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Protection",
-            percentRank = 88.588104887596,
-          },
-          {
-            spec = "Justicar",
-            percentRank = 88.475005342495,
-          },
-          {
-            spec = "Retribution",
-            percentRank = 83.560606060606,
-          },
-        },
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "Bladex-Westfall" ] = {
-    level = "0",
-    faction = "Alliance",
-    guild = nil,
-    last_update = "2022-04-15 17:00:05",
-    last_update_int = 1650034805,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Destruction",
-            percentRank = 83.586640670084,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Destruction",
-            percentRank = 70.66688509716,
-          },
-        },
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "Bonnkadin-Westfall" ] = {
-    level = "63",
-    faction = "Alliance",
-    guild = nil,
-    last_update = "2022-04-15 07:49:30",
-    last_update_int = 1650001770,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Retribution",
-            percentRank = 24.04342170188,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {},
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "Bubb-Westfall" ] = {
-    level = "0",
-    faction = "Alliance",
-    guild = nil,
-    last_update = "2022-04-15 11:58:24",
-    last_update_int = 1650016704,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Arcane",
-            percentRank = 96.913888012699,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Arcane",
-            percentRank = 95.299297530671,
-          },
-        },
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "Candre-Westfall" ] = {
-    level = "0",
-    faction = "Alliance",
-    guild = nil,
-    last_update = "2022-04-15 11:41:44",
-    last_update_int = 1650015704,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Retribution",
-            percentRank = 88.256495301271,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Retribution",
-            percentRank = 76.927609427609,
-          },
-        },
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "Cazera-Westfall" ] = {
-    level = "0",
-    faction = "Alliance",
-    guild = nil,
-    last_update = "2022-04-15 08:17:24",
-    last_update_int = 1650003444,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Elemental",
-            percentRank = 99.112178395571,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Elemental",
-            percentRank = 97.793079955229,
-          },
-        },
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "Chillydog-Westfall" ] = {
-    level = "0",
-    faction = "Alliance",
-    guild = nil,
-    last_update = "2022-04-15 09:45:17",
-    last_update_int = 1650008717,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Justicar",
-            percentRank = 87.165951831079,
-          },
-          {
-            spec = "Protection",
-            percentRank = 78.562960371601,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Protection",
-            percentRank = 92.347388072845,
-          },
-          {
-            spec = "Justicar",
-            percentRank = 60.935856114627,
           },
         },
         encountersKilled = 6,
@@ -149742,6 +150632,299 @@ LogTracker_CharacterData_US = {
       },
     },
   },
+  [ "Baee-Westfall" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 19:50:12",
+    last_update_int = 1650045012,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {},
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Fury",
+            percentRank = 65.301361688276,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "Bladex-Westfall" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 17:00:05",
+    last_update_int = 1650034805,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Destruction",
+            percentRank = 83.586640670084,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Destruction",
+            percentRank = 70.66688509716,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "Bonnkadin-Westfall" ] = {
+    level = "63",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 07:49:30",
+    last_update_int = 1650001770,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Retribution",
+            percentRank = 24.04342170188,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {},
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "Brehtt-Westfall" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 19:54:43",
+    last_update_int = 1650045283,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {},
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {},
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "Bubb-Westfall" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 11:58:24",
+    last_update_int = 1650016704,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Arcane",
+            percentRank = 96.913888012699,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Arcane",
+            percentRank = 95.299297530671,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "Candre-Westfall" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 11:41:44",
+    last_update_int = 1650015704,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Retribution",
+            percentRank = 88.256495301271,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Retribution",
+            percentRank = 76.927609427609,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "Cazera-Westfall" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 08:17:24",
+    last_update_int = 1650003444,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Elemental",
+            percentRank = 99.112178395571,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Elemental",
+            percentRank = 97.793079955229,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "Chillydog-Westfall" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 09:45:17",
+    last_update_int = 1650008717,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Justicar",
+            percentRank = 87.165951831079,
+          },
+          {
+            spec = "Protection",
+            percentRank = 78.562960371601,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Protection",
+            percentRank = 92.347388072845,
+          },
+          {
+            spec = "Justicar",
+            percentRank = 60.935856114627,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "Cilesea-Westfall" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 20:08:21",
+    last_update_int = 1650046101,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {},
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {},
+        encountersKilled = 6,
+      },
+    },
+  },
   [ "Coit-Westfall" ] = {
     level = "0",
     faction = "Alliance",
@@ -150317,6 +151500,41 @@ LogTracker_CharacterData_US = {
       },
     },
   },
+  [ "Haji-Westfall" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 19:53:14",
+    last_update_int = 1650045194,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Combat",
+            percentRank = 62.013691922505,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Combat",
+            percentRank = 18.602861440515,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
   [ "Holycapybara-Westfall" ] = {
     level = "0",
     faction = "Alliance",
@@ -150815,6 +152033,41 @@ LogTracker_CharacterData_US = {
       },
     },
   },
+  [ "Loblock-Westfall" ] = {
+    level = "70",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 19:46:28",
+    last_update_int = 1650044788,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Destruction",
+            percentRank = 82.686548817008,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Destruction",
+            percentRank = 45.357511908662,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
   [ "Lockazilla-Westfall" ] = {
     level = "0",
     faction = "Alliance",
@@ -150985,6 +152238,31 @@ LogTracker_CharacterData_US = {
       },
     },
   },
+  [ "Midir-Westfall" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 19:56:05",
+    last_update_int = 1650045365,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {},
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {},
+        encountersKilled = 6,
+      },
+    },
+  },
   [ "Millurlite-Westfall" ] = {
     level = "0",
     faction = "Alliance",
@@ -151054,6 +152332,91 @@ LogTracker_CharacterData_US = {
       },
     },
   },
+  [ "Naturewalk-Westfall" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 19:59:43",
+    last_update_int = 1650045583,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {},
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {},
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "Oraca-Westfall" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 19:57:39",
+    last_update_int = 1650045459,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "BeastMastery",
+            percentRank = 65.220079181928,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "BeastMastery",
+            percentRank = 24.875629506039,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "Palma-Westfall" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 20:06:55",
+    last_update_int = 1650046015,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {},
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {},
+        encountersKilled = 6,
+      },
+    },
+  },
   [ "Pannita-Westfall" ] = {
     level = "0",
     faction = "Alliance",
@@ -151093,6 +152456,41 @@ LogTracker_CharacterData_US = {
       },
     },
   },
+  [ "Perimede-Westfall" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 20:01:34",
+    last_update_int = 1650045694,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Restoration",
+            percentRank = 66.753079192899,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Restoration",
+            percentRank = 11.338671093102,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
   [ "Pimaf-Westfall" ] = {
     level = "0",
     faction = "Alliance",
@@ -151122,6 +152520,66 @@ LogTracker_CharacterData_US = {
           {
             spec = "Arcane",
             percentRank = 95.892258822506,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "Pkj-Westfall" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 19:57:19",
+    last_update_int = 1650045439,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {},
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {},
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "Quesofundido-Westfall" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 20:06:18",
+    last_update_int = 1650045978,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "BeastMastery",
+            percentRank = 56.181059852222,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "BeastMastery",
+            percentRank = 57.599228520259,
           },
         },
         encountersKilled = 6,
@@ -152003,6 +153461,31 @@ LogTracker_CharacterData_US = {
       },
     },
   },
+  [ "Vecth-Westfall" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 20:02:24",
+    last_update_int = 1650045744,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {},
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {},
+        encountersKilled = 6,
+      },
+    },
+  },
   [ "Vharin-Westfall" ] = {
     level = "0",
     faction = "Alliance",
@@ -152046,6 +153529,41 @@ LogTracker_CharacterData_US = {
       },
     },
   },
+  [ "Xeldin-Westfall" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 20:00:12",
+    last_update_int = 1650045612,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Retribution",
+            percentRank = 23.42509673853,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Retribution",
+            percentRank = 11.927609427609,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
   [ "Xiana-Westfall" ] = {
     level = "0",
     faction = "Alliance",
@@ -152076,6 +153594,31 @@ LogTracker_CharacterData_US = {
             percentRank = 25.23959035392,
           },
         },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "Ÿùmmÿ-Westfall" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 19:59:24",
+    last_update_int = 1650045564,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {},
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {},
         encountersKilled = 6,
       },
     },
@@ -153351,66 +154894,6 @@ LogTracker_CharacterData_US = {
       },
     },
   },
-  [ "Bgmeatyclaws-Whitemane" ] = {
-    level = "0",
-    faction = "Alliance",
-    guild = nil,
-    last_update = "2022-04-15 17:49:16",
-    last_update_int = 1650037756,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Destruction",
-            percentRank = 87.240276037274,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {},
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "Bighuge-Whitemane" ] = {
-    level = "70",
-    faction = "Alliance",
-    guild = nil,
-    last_update = "2022-04-15 11:30:30",
-    last_update_int = 1650015030,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Holy",
-            percentRank = 98.279167832311,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {},
-        encountersKilled = 6,
-      },
-    },
-  },
   [ "Avocadoman-Whitemane" ] = {
     level = "70",
     faction = "Horde",
@@ -153870,6 +155353,96 @@ LogTracker_CharacterData_US = {
           {
             spec = "Affliction",
             percentRank = 34.792572845049,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {},
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "Bgmeatyclaws-Whitemane" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 17:49:16",
+    last_update_int = 1650037756,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Destruction",
+            percentRank = 87.240276037274,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {},
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "Bighuge-Whitemane" ] = {
+    level = "70",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 11:30:30",
+    last_update_int = 1650015030,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Holy",
+            percentRank = 98.279167832311,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {},
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "Blitzqt-Whitemane" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 10:34:27",
+    last_update_int = 1650011667,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Elemental",
+            percentRank = 95.703883634197,
           },
         },
         encountersKilled = 14,
@@ -154493,36 +156066,6 @@ LogTracker_CharacterData_US = {
             percentRank = 76.51284119263,
           },
         },
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "Blitzqt-Whitemane" ] = {
-    level = "0",
-    faction = "Alliance",
-    guild = nil,
-    last_update = "2022-04-15 10:34:27",
-    last_update_int = 1650011667,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Elemental",
-            percentRank = 95.703883634197,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {},
         encountersKilled = 6,
       },
     },
@@ -156757,49 +158300,6 @@ LogTracker_CharacterData_US = {
       },
     },
   },
-  [ "Dathel-Whitemane" ] = {
-    level = "0",
-    faction = "Alliance",
-    guild = nil,
-    last_update = "2022-04-15 11:29:40",
-    last_update_int = 1650014980,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Arms",
-            percentRank = 74.390041493776,
-          },
-          {
-            spec = "Fury",
-            percentRank = 59.283709191426,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Gladiator",
-            percentRank = 73.904438789935,
-          },
-          {
-            spec = "Arms",
-            percentRank = 72.081047800291,
-          },
-        },
-        encountersKilled = 6,
-      },
-    },
-  },
   [ "Crypticsham-Whitemane" ] = {
     level = "0",
     faction = "Horde",
@@ -157199,6 +158699,49 @@ LogTracker_CharacterData_US = {
         zoneEncounters = "6",
         partition = 5,
         allstars = {},
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "Dathel-Whitemane" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 11:29:40",
+    last_update_int = 1650014980,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Arms",
+            percentRank = 74.390041493776,
+          },
+          {
+            spec = "Fury",
+            percentRank = 59.283709191426,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Gladiator",
+            percentRank = 73.904438789935,
+          },
+          {
+            spec = "Arms",
+            percentRank = 72.081047800291,
+          },
+        },
         encountersKilled = 6,
       },
     },
@@ -157917,31 +159460,6 @@ LogTracker_CharacterData_US = {
       },
     },
   },
-  [ "Doyouevntry-Whitemane" ] = {
-    level = "0",
-    faction = "Alliance",
-    guild = nil,
-    last_update = "2022-04-15 11:21:17",
-    last_update_int = 1650014477,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {},
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {},
-        encountersKilled = 6,
-      },
-    },
-  },
   [ "Diemtea-Whitemane" ] = {
     level = "70",
     faction = "Horde",
@@ -158402,6 +159920,66 @@ LogTracker_CharacterData_US = {
           {
             spec = "Destruction",
             percentRank = 86.154949784792,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "Doyouevntry-Whitemane" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 11:21:17",
+    last_update_int = 1650014477,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {},
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {},
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "Ephemerides-Whitemane" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 17:11:11",
+    last_update_int = 1650035471,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Restoration",
+            percentRank = 66.566117529,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Restoration",
+            percentRank = 42.960015622712,
           },
         },
         encountersKilled = 6,
@@ -159136,80 +160714,6 @@ LogTracker_CharacterData_US = {
       },
     },
   },
-  [ "Ephemerides-Whitemane" ] = {
-    level = "0",
-    faction = "Alliance",
-    guild = nil,
-    last_update = "2022-04-15 17:11:11",
-    last_update_int = 1650035471,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Restoration",
-            percentRank = 66.566117529,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Restoration",
-            percentRank = 42.960015622712,
-          },
-        },
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "Fedelm-Whitemane" ] = {
-    level = "0",
-    faction = "Alliance",
-    guild = nil,
-    last_update = "2022-04-15 09:07:47",
-    last_update_int = 1650006467,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Restoration",
-            percentRank = 45.691866768283,
-          },
-          {
-            spec = "Dreamstate",
-            percentRank = 23.518564052127,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Restoration",
-            percentRank = 5.7946020522549,
-          },
-        },
-        encountersKilled = 6,
-      },
-    },
-  },
   [ "Eileendacrow-Whitemane" ] = {
     level = "0",
     faction = "Horde",
@@ -159590,6 +161094,45 @@ LogTracker_CharacterData_US = {
         zoneEncounters = "6",
         partition = 5,
         allstars = {},
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "Fedelm-Whitemane" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 09:07:47",
+    last_update_int = 1650006467,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Restoration",
+            percentRank = 45.691866768283,
+          },
+          {
+            spec = "Dreamstate",
+            percentRank = 23.518564052127,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Restoration",
+            percentRank = 5.7946020522549,
+          },
+        },
         encountersKilled = 6,
       },
     },
@@ -161387,83 +162930,6 @@ LogTracker_CharacterData_US = {
       },
     },
   },
-  [ "Hektorias-Whitemane" ] = {
-    level = "0",
-    faction = "Alliance",
-    guild = nil,
-    last_update = "2022-04-15 10:34:32",
-    last_update_int = 1650011672,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Guardian",
-            percentRank = 96.999100163705,
-          },
-          {
-            spec = "Warden",
-            percentRank = 91.844695667125,
-          },
-          {
-            spec = "Feral",
-            percentRank = 84.037538521008,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Guardian",
-            percentRank = 94.518939023197,
-          },
-          {
-            spec = "Warden",
-            percentRank = 77.521689310853,
-          },
-        },
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "Hendersen-Whitemane" ] = {
-    level = "0",
-    faction = "Alliance",
-    guild = nil,
-    last_update = "2022-04-15 13:38:36",
-    last_update_int = 1650022716,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Elemental",
-            percentRank = 56.170332220013,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {},
-        encountersKilled = 6,
-      },
-    },
-  },
   [ "Grimnatrome-Whitemane" ] = {
     level = "0",
     faction = "Horde",
@@ -161917,6 +163383,83 @@ LogTracker_CharacterData_US = {
             percentRank = 65.093191882817,
           },
         },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "Hektorias-Whitemane" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 10:34:32",
+    last_update_int = 1650011672,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Guardian",
+            percentRank = 96.999100163705,
+          },
+          {
+            spec = "Warden",
+            percentRank = 91.844695667125,
+          },
+          {
+            spec = "Feral",
+            percentRank = 84.037538521008,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Guardian",
+            percentRank = 94.518939023197,
+          },
+          {
+            spec = "Warden",
+            percentRank = 77.521689310853,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "Hendersen-Whitemane" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 13:38:36",
+    last_update_int = 1650022716,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Elemental",
+            percentRank = 56.170332220013,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {},
         encountersKilled = 6,
       },
     },
@@ -164944,41 +166487,6 @@ LogTracker_CharacterData_US = {
       },
     },
   },
-  [ "Leere-Whitemane" ] = {
-    level = "0",
-    faction = "Alliance",
-    guild = nil,
-    last_update = "2022-04-15 13:05:28",
-    last_update_int = 1650020728,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Holy",
-            percentRank = 94.426134959216,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Holy",
-            percentRank = 96.657722818479,
-          },
-        },
-        encountersKilled = 6,
-      },
-    },
-  },
   [ "Kasagarth-Whitemane" ] = {
     level = "0",
     faction = "Horde",
@@ -165424,6 +166932,41 @@ LogTracker_CharacterData_US = {
           {
             spec = "Destruction",
             percentRank = 95.023565289714,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "Leere-Whitemane" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 13:05:28",
+    last_update_int = 1650020728,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Holy",
+            percentRank = 94.426134959216,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Holy",
+            percentRank = 96.657722818479,
           },
         },
         encountersKilled = 6,
@@ -169779,6 +171322,80 @@ LogTracker_CharacterData_US = {
       },
     },
   },
+  [ "Peppabear-Whitemane" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 10:46:22",
+    last_update_int = 1650012382,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Balance",
+            percentRank = 32.922139647425,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Dreamstate",
+            percentRank = 32.303370786517,
+          },
+          {
+            spec = "Balance",
+            percentRank = 4.0739314593762,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "Pipdegan-Whitemane" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 10:23:27",
+    last_update_int = 1650011007,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Arcane",
+            percentRank = 77.18739506914,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Arcane",
+            percentRank = 89.678118009148,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
   [ "Omyra-Whitemane" ] = {
     level = "0",
     faction = "Horde",
@@ -170382,80 +171999,6 @@ LogTracker_CharacterData_US = {
         zoneEncounters = "6",
         partition = 5,
         allstars = {},
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "Peppabear-Whitemane" ] = {
-    level = "0",
-    faction = "Alliance",
-    guild = nil,
-    last_update = "2022-04-15 10:46:22",
-    last_update_int = 1650012382,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Balance",
-            percentRank = 32.922139647425,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Dreamstate",
-            percentRank = 32.303370786517,
-          },
-          {
-            spec = "Balance",
-            percentRank = 4.0739314593762,
-          },
-        },
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "Pipdegan-Whitemane" ] = {
-    level = "0",
-    faction = "Alliance",
-    guild = nil,
-    last_update = "2022-04-15 10:23:27",
-    last_update_int = 1650011007,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Arcane",
-            percentRank = 77.18739506914,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Arcane",
-            percentRank = 89.678118009148,
-          },
-        },
         encountersKilled = 6,
       },
     },
@@ -172608,69 +174151,6 @@ LogTracker_CharacterData_US = {
       },
     },
   },
-  [ "Shadopotamus-Whitemane" ] = {
-    level = "0",
-    faction = "Alliance",
-    guild = nil,
-    last_update = "2022-04-15 11:21:37",
-    last_update_int = 1650014497,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {},
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {},
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "Shiftest-Whitemane" ] = {
-    level = "60",
-    faction = "Alliance",
-    guild = nil,
-    last_update = "2022-04-15 07:29:26",
-    last_update_int = 1650000566,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Guardian",
-            percentRank = 99.032332386145,
-          },
-          {
-            spec = "Feral",
-            percentRank = 93.60276330987,
-          },
-          {
-            spec = "Warden",
-            percentRank = 91.776337256096,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {},
-        encountersKilled = 6,
-      },
-    },
-  },
   [ "Samodeyice-Whitemane" ] = {
     level = "0",
     faction = "Horde",
@@ -173114,6 +174594,108 @@ LogTracker_CharacterData_US = {
           {
             spec = "Justicar",
             percentRank = 7.9691387919373,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "Shadopotamus-Whitemane" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 11:21:37",
+    last_update_int = 1650014497,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {},
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {},
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "Shiftest-Whitemane" ] = {
+    level = "60",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 07:29:26",
+    last_update_int = 1650000566,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Guardian",
+            percentRank = 99.032332386145,
+          },
+          {
+            spec = "Feral",
+            percentRank = 93.60276330987,
+          },
+          {
+            spec = "Warden",
+            percentRank = 91.776337256096,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {},
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "Shynji-Whitemane" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 10:18:11",
+    last_update_int = 1650010691,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Destruction",
+            percentRank = 95.003056078181,
+          },
+          {
+            spec = "Affliction",
+            percentRank = 71.675318112913,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Destruction",
+            percentRank = 95.024825465635,
           },
         },
         encountersKilled = 6,
@@ -173730,88 +175312,6 @@ LogTracker_CharacterData_US = {
       },
     },
   },
-  [ "Shynji-Whitemane" ] = {
-    level = "0",
-    faction = "Alliance",
-    guild = nil,
-    last_update = "2022-04-15 10:18:11",
-    last_update_int = 1650010691,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Destruction",
-            percentRank = 95.003056078181,
-          },
-          {
-            spec = "Affliction",
-            percentRank = 71.675318112913,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Destruction",
-            percentRank = 95.024825465635,
-          },
-        },
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "Spurg-Whitemane" ] = {
-    level = "70",
-    faction = "Alliance",
-    guild = nil,
-    last_update = "2022-04-15 11:40:19",
-    last_update_int = 1650015619,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Protection",
-            percentRank = 93.182127378384,
-          },
-          {
-            spec = "Justicar",
-            percentRank = 56.474983726716,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Protection",
-            percentRank = 99.847587377464,
-          },
-          {
-            spec = "Justicar",
-            percentRank = 12.600069041474,
-          },
-        },
-        encountersKilled = 6,
-      },
-    },
-  },
   [ "Shmalcolm-Whitemane" ] = {
     level = "0",
     faction = "Horde",
@@ -174200,6 +175700,49 @@ LogTracker_CharacterData_US = {
           {
             spec = "Arcane",
             percentRank = 93.860161582195,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "Spurg-Whitemane" ] = {
+    level = "70",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 11:40:19",
+    last_update_int = 1650015619,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Protection",
+            percentRank = 93.182127378384,
+          },
+          {
+            spec = "Justicar",
+            percentRank = 56.474983726716,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Protection",
+            percentRank = 99.847587377464,
+          },
+          {
+            spec = "Justicar",
+            percentRank = 12.600069041474,
           },
         },
         encountersKilled = 6,
@@ -177168,36 +178711,6 @@ LogTracker_CharacterData_US = {
       },
     },
   },
-  [ "Velociraptor-Whitemane" ] = {
-    level = "0",
-    faction = "Alliance",
-    guild = nil,
-    last_update = "2022-04-15 15:41:23",
-    last_update_int = 1650030083,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "BeastMastery",
-            percentRank = 98.345648169712,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {},
-        encountersKilled = 6,
-      },
-    },
-  },
   [ "Twotoeshank-Whitemane" ] = {
     level = "0",
     faction = "Horde",
@@ -177631,6 +179144,36 @@ LogTracker_CharacterData_US = {
             percentRank = 88.395153052239,
           },
         },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "Velociraptor-Whitemane" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 15:41:23",
+    last_update_int = 1650030083,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "BeastMastery",
+            percentRank = 98.345648169712,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {},
         encountersKilled = 6,
       },
     },
@@ -178382,75 +179925,6 @@ LogTracker_CharacterData_US = {
       },
     },
   },
-  [ "Wndypefrcorn-Whitemane" ] = {
-    level = "0",
-    faction = "Alliance",
-    guild = nil,
-    last_update = "2022-04-15 11:48:39",
-    last_update_int = 1650016119,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Retribution",
-            percentRank = 75.880597014925,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {},
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "Wølf-Whitemane" ] = {
-    level = "0",
-    faction = "Alliance",
-    guild = nil,
-    last_update = "2022-04-15 14:37:11",
-    last_update_int = 1650026231,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Combat",
-            percentRank = 94.829959626382,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Subtlety",
-            percentRank = 81.754385964912,
-          },
-          {
-            spec = "Combat",
-            percentRank = 64.707734284815,
-          },
-        },
-        encountersKilled = 6,
-      },
-    },
-  },
   [ "Warpipe-Whitemane" ] = {
     level = "0",
     faction = "Horde",
@@ -178847,6 +180321,75 @@ LogTracker_CharacterData_US = {
           {
             spec = "Fury",
             percentRank = 12.00564205501,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "Wndypefrcorn-Whitemane" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 11:48:39",
+    last_update_int = 1650016119,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Retribution",
+            percentRank = 75.880597014925,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {},
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "Wølf-Whitemane" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 14:37:11",
+    last_update_int = 1650026231,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Combat",
+            percentRank = 94.829959626382,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Subtlety",
+            percentRank = 81.754385964912,
+          },
+          {
+            spec = "Combat",
+            percentRank = 64.707734284815,
           },
         },
         encountersKilled = 6,
@@ -179605,41 +181148,6 @@ LogTracker_CharacterData_US = {
       },
     },
   },
-  [ "Zenra-Whitemane" ] = {
-    level = "70",
-    faction = "Alliance",
-    guild = nil,
-    last_update = "2022-04-15 06:49:09",
-    last_update_int = 1649998149,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Enhancement",
-            percentRank = 97.518842430531,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Enhancement",
-            percentRank = 91.18810016946,
-          },
-        },
-        encountersKilled = 6,
-      },
-    },
-  },
   [ "Xuejingling-Whitemane" ] = {
     level = "0",
     faction = "Horde",
@@ -180051,6 +181559,146 @@ LogTracker_CharacterData_US = {
         zoneEncounters = "6",
         partition = 5,
         allstars = {},
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "Zenra-Whitemane" ] = {
+    level = "70",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 06:49:09",
+    last_update_int = 1649998149,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Enhancement",
+            percentRank = 97.518842430531,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Enhancement",
+            percentRank = 91.18810016946,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "Zilzag-Whitemane" ] = {
+    level = "70",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 12:09:23",
+    last_update_int = 1650017363,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "BeastMastery",
+            percentRank = 97.759193784007,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "BeastMastery",
+            percentRank = 97.650354360238,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "Bigjuicy-Windseeker" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 10:27:17",
+    last_update_int = 1650011237,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Retribution",
+            percentRank = 59.170812603648,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Retribution",
+            percentRank = 29.107744107744,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "Blådez-Windseeker" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 14:37:16",
+    last_update_int = 1650026236,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Fury",
+            percentRank = 75.451759393591,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Fury",
+            percentRank = 40.080290782835,
+          },
+        },
         encountersKilled = 6,
       },
     },
@@ -180757,12 +182405,242 @@ LogTracker_CharacterData_US = {
       },
     },
   },
-  [ "Zilzag-Whitemane" ] = {
-    level = "70",
-    faction = "Alliance",
+  [ "Zgd-Whitemane" ] = {
+    level = "0",
+    faction = "Horde",
     guild = nil,
-    last_update = "2022-04-15 12:09:23",
-    last_update_int = 1650017363,
+    last_update = "2022-04-15 09:14:35",
+    last_update_int = 1650006875,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Restoration",
+            percentRank = 57.799937742188,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {},
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "Zouyelu-Whitemane" ] = {
+    level = "0",
+    faction = "Horde",
+    guild = nil,
+    last_update = "2022-04-15 05:50:19",
+    last_update_int = 1649994619,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Destruction",
+            percentRank = 99.135844431398,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Destruction",
+            percentRank = 86.498257839721,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "Zuggles-Whitemane" ] = {
+    level = "0",
+    faction = "Horde",
+    guild = nil,
+    last_update = "2022-04-15 06:23:19",
+    last_update_int = 1649996599,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Survival",
+            percentRank = 90.334677244548,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Survival",
+            percentRank = 76.325307429989,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "Zugittomebb-Whitemane" ] = {
+    level = "0",
+    faction = "Horde",
+    guild = nil,
+    last_update = "2022-04-15 03:55:24",
+    last_update_int = 1649987724,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Destruction",
+            percentRank = 96.110784949891,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {},
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "Zugmo-Whitemane" ] = {
+    level = "0",
+    faction = "Horde",
+    guild = nil,
+    last_update = "2022-04-15 03:55:24",
+    last_update_int = 1649987724,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Elemental",
+            percentRank = 99.116796453332,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Elemental",
+            percentRank = 91.34264441092,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "Zugy-Whitemane" ] = {
+    level = "0",
+    faction = "Horde",
+    guild = nil,
+    last_update = "2022-04-15 06:24:28",
+    last_update_int = 1649996668,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Holy",
+            percentRank = 74.487741650809,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Holy",
+            percentRank = 84.482327442481,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "Zuldank-Whitemane" ] = {
+    level = "0",
+    faction = "Horde",
+    guild = nil,
+    last_update = "2022-04-15 11:27:18",
+    last_update_int = 1650014838,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Enhancement",
+            percentRank = 74.70846055908,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {},
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "Zurgi-Whitemane" ] = {
+    level = "0",
+    faction = "Horde",
+    guild = nil,
+    last_update = "2022-04-15 04:09:56",
+    last_update_int = 1649988596,
     performance = {
       {
         zoneId = 1011,
@@ -180772,7 +182650,7 @@ LogTracker_CharacterData_US = {
         allstars = {
           {
             spec = "BeastMastery",
-            percentRank = 97.759193784007,
+            percentRank = 81.506936978447,
           },
         },
         encountersKilled = 14,
@@ -180782,82 +182660,7 @@ LogTracker_CharacterData_US = {
         zoneName = "Zul'Aman",
         zoneEncounters = "6",
         partition = 5,
-        allstars = {
-          {
-            spec = "BeastMastery",
-            percentRank = 97.650354360238,
-          },
-        },
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "Bigjuicy-Windseeker" ] = {
-    level = "0",
-    faction = "Alliance",
-    guild = nil,
-    last_update = "2022-04-15 10:27:17",
-    last_update_int = 1650011237,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Retribution",
-            percentRank = 59.170812603648,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Retribution",
-            percentRank = 29.107744107744,
-          },
-        },
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "Blådez-Windseeker" ] = {
-    level = "0",
-    faction = "Alliance",
-    guild = nil,
-    last_update = "2022-04-15 14:37:16",
-    last_update_int = 1650026236,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Fury",
-            percentRank = 75.451759393591,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Fury",
-            percentRank = 40.080290782835,
-          },
-        },
+        allstars = {},
         encountersKilled = 6,
       },
     },
@@ -181396,519 +183199,6 @@ LogTracker_CharacterData_US = {
       },
     },
   },
-  [ "Zgd-Whitemane" ] = {
-    level = "0",
-    faction = "Horde",
-    guild = nil,
-    last_update = "2022-04-15 09:14:35",
-    last_update_int = 1650006875,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Restoration",
-            percentRank = 57.799937742188,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {},
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "Zouyelu-Whitemane" ] = {
-    level = "0",
-    faction = "Horde",
-    guild = nil,
-    last_update = "2022-04-15 05:50:19",
-    last_update_int = 1649994619,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Destruction",
-            percentRank = 99.135844431398,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Destruction",
-            percentRank = 86.498257839721,
-          },
-        },
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "Zuggles-Whitemane" ] = {
-    level = "0",
-    faction = "Horde",
-    guild = nil,
-    last_update = "2022-04-15 06:23:19",
-    last_update_int = 1649996599,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Survival",
-            percentRank = 90.334677244548,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Survival",
-            percentRank = 76.325307429989,
-          },
-        },
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "Zugittomebb-Whitemane" ] = {
-    level = "0",
-    faction = "Horde",
-    guild = nil,
-    last_update = "2022-04-15 03:55:24",
-    last_update_int = 1649987724,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Destruction",
-            percentRank = 96.110784949891,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {},
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "Zugmo-Whitemane" ] = {
-    level = "0",
-    faction = "Horde",
-    guild = nil,
-    last_update = "2022-04-15 03:55:24",
-    last_update_int = 1649987724,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Elemental",
-            percentRank = 99.116796453332,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Elemental",
-            percentRank = 91.34264441092,
-          },
-        },
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "Zugy-Whitemane" ] = {
-    level = "0",
-    faction = "Horde",
-    guild = nil,
-    last_update = "2022-04-15 06:24:28",
-    last_update_int = 1649996668,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Holy",
-            percentRank = 74.487741650809,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Holy",
-            percentRank = 84.482327442481,
-          },
-        },
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "Zuldank-Whitemane" ] = {
-    level = "0",
-    faction = "Horde",
-    guild = nil,
-    last_update = "2022-04-15 11:27:18",
-    last_update_int = 1650014838,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Enhancement",
-            percentRank = 74.70846055908,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {},
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "Zurgi-Whitemane" ] = {
-    level = "0",
-    faction = "Horde",
-    guild = nil,
-    last_update = "2022-04-15 04:09:56",
-    last_update_int = 1649988596,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "BeastMastery",
-            percentRank = 81.506936978447,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {},
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "Dichencider-Windseeker" ] = {
-    level = "0",
-    faction = "Horde",
-    guild = nil,
-    last_update = "2022-04-15 08:52:37",
-    last_update_int = 1650005557,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Arcane",
-            percentRank = 83.409272554632,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Arcane",
-            percentRank = 79.216164077571,
-          },
-        },
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "Guldãn-Windseeker" ] = {
-    level = "0",
-    faction = "Horde",
-    guild = nil,
-    last_update = "2022-04-15 09:24:20",
-    last_update_int = 1650007460,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Destruction",
-            percentRank = 53.33868924389,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Destruction",
-            percentRank = 44.145829063333,
-          },
-        },
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "Jarlaxx-Windseeker" ] = {
-    level = "70",
-    faction = "Horde",
-    guild = nil,
-    last_update = "2022-04-15 14:27:38",
-    last_update_int = 1650025658,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Combat",
-            percentRank = 79.975794307043,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Combat",
-            percentRank = 45.24783992724,
-          },
-        },
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "Justiceblaid-Windseeker" ] = {
-    level = "0",
-    faction = "Horde",
-    guild = nil,
-    last_update = "2022-04-15 07:56:38",
-    last_update_int = 1650002198,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Protection",
-            percentRank = 83.805596291448,
-          },
-          {
-            spec = "Justicar",
-            percentRank = 79.327992476988,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Protection",
-            percentRank = 78.947831906724,
-          },
-          {
-            spec = "Justicar",
-            percentRank = 76.443279170355,
-          },
-        },
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "Moofaza-Windseeker" ] = {
-    level = "0",
-    faction = "Horde",
-    guild = nil,
-    last_update = "2022-04-15 18:44:35",
-    last_update_int = 1650041075,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Balance",
-            percentRank = 94.007086069824,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Balance",
-            percentRank = 98.23642664613,
-          },
-        },
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "Nandrend-Windseeker" ] = {
-    level = "0",
-    faction = "Horde",
-    guild = nil,
-    last_update = "2022-04-15 08:36:30",
-    last_update_int = 1650004590,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Arcane",
-            percentRank = 65.615585870523,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Arcane",
-            percentRank = 46.843044253949,
-          },
-        },
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "Nexs-Windseeker" ] = {
-    level = "0",
-    faction = "Horde",
-    guild = nil,
-    last_update = "2022-04-15 12:14:19",
-    last_update_int = 1650017659,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Holy",
-            percentRank = 79.463035111054,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Holy",
-            percentRank = 78.011743661534,
-          },
-        },
-        encountersKilled = 6,
-      },
-    },
-  },
   [ "Rroxannez-Windseeker" ] = {
     level = "58",
     faction = "Alliance",
@@ -182206,6 +183496,371 @@ LogTracker_CharacterData_US = {
           {
             spec = "Fury",
             percentRank = 21.136006076059,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "Dichencider-Windseeker" ] = {
+    level = "0",
+    faction = "Horde",
+    guild = nil,
+    last_update = "2022-04-15 08:52:37",
+    last_update_int = 1650005557,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Arcane",
+            percentRank = 83.409272554632,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Arcane",
+            percentRank = 79.216164077571,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "Guldãn-Windseeker" ] = {
+    level = "0",
+    faction = "Horde",
+    guild = nil,
+    last_update = "2022-04-15 09:24:20",
+    last_update_int = 1650007460,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Destruction",
+            percentRank = 53.33868924389,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Destruction",
+            percentRank = 44.145829063333,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "Jarlaxx-Windseeker" ] = {
+    level = "70",
+    faction = "Horde",
+    guild = nil,
+    last_update = "2022-04-15 14:27:38",
+    last_update_int = 1650025658,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Combat",
+            percentRank = 79.975794307043,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Combat",
+            percentRank = 45.24783992724,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "Justiceblaid-Windseeker" ] = {
+    level = "0",
+    faction = "Horde",
+    guild = nil,
+    last_update = "2022-04-15 07:56:38",
+    last_update_int = 1650002198,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Protection",
+            percentRank = 83.805596291448,
+          },
+          {
+            spec = "Justicar",
+            percentRank = 79.327992476988,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Protection",
+            percentRank = 78.947831906724,
+          },
+          {
+            spec = "Justicar",
+            percentRank = 76.443279170355,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "Moofaza-Windseeker" ] = {
+    level = "0",
+    faction = "Horde",
+    guild = nil,
+    last_update = "2022-04-15 18:44:35",
+    last_update_int = 1650041075,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Balance",
+            percentRank = 94.007086069824,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Balance",
+            percentRank = 98.23642664613,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "Nandrend-Windseeker" ] = {
+    level = "0",
+    faction = "Horde",
+    guild = nil,
+    last_update = "2022-04-15 08:36:30",
+    last_update_int = 1650004590,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Arcane",
+            percentRank = 65.615585870523,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Arcane",
+            percentRank = 46.843044253949,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "Nexs-Windseeker" ] = {
+    level = "0",
+    faction = "Horde",
+    guild = nil,
+    last_update = "2022-04-15 12:14:19",
+    last_update_int = 1650017659,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Holy",
+            percentRank = 79.463035111054,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Holy",
+            percentRank = 78.011743661534,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "Ranciddotz-Windseeker" ] = {
+    level = "0",
+    faction = "Horde",
+    guild = nil,
+    last_update = "2022-04-15 09:24:41",
+    last_update_int = 1650007481,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Destruction",
+            percentRank = 55.542509106765,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Destruction",
+            percentRank = 45.398647263784,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "Thewall-Windseeker" ] = {
+    level = "60",
+    faction = "Horde",
+    guild = nil,
+    last_update = "2022-04-15 16:48:22",
+    last_update_int = 1650034102,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Protection",
+            percentRank = 88.733397578246,
+          },
+          {
+            spec = "Gladiator",
+            percentRank = 84.135559921415,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Protection",
+            percentRank = 73.197448265131,
+          },
+          {
+            spec = "Gladiator",
+            percentRank = 52.225049476958,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "Versaçe-Windseeker" ] = {
+    level = "0",
+    faction = "Horde",
+    guild = nil,
+    last_update = "2022-04-15 08:40:37",
+    last_update_int = 1650004837,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {},
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Arcane",
+            percentRank = 5.8526608937818,
+          },
+          {
+            spec = "Fire",
+            percentRank = 0.84118016321406,
           },
         },
         encountersKilled = 6,
@@ -182792,12 +184447,12 @@ LogTracker_CharacterData_US = {
       },
     },
   },
-  [ "Ranciddotz-Windseeker" ] = {
+  [ "Drexler-Yojamba" ] = {
     level = "0",
-    faction = "Horde",
+    faction = "Alliance",
     guild = nil,
-    last_update = "2022-04-15 09:24:41",
-    last_update_int = 1650007481,
+    last_update = "2022-04-15 15:29:32",
+    last_update_int = 1650029372,
     performance = {
       {
         zoneId = 1011,
@@ -182806,8 +184461,16 @@ LogTracker_CharacterData_US = {
         partition = 5,
         allstars = {
           {
-            spec = "Destruction",
-            percentRank = 55.542509106765,
+            spec = "Guardian",
+            percentRank = 85.221001962294,
+          },
+          {
+            spec = "Warden",
+            percentRank = 83.486287826685,
+          },
+          {
+            spec = "Feral",
+            percentRank = 76.701635330878,
           },
         },
         encountersKilled = 14,
@@ -182819,20 +184482,28 @@ LogTracker_CharacterData_US = {
         partition = 5,
         allstars = {
           {
-            spec = "Destruction",
-            percentRank = 45.398647263784,
+            spec = "Warden",
+            percentRank = 94.634146341463,
+          },
+          {
+            spec = "Guardian",
+            percentRank = 88.43104629539,
+          },
+          {
+            spec = "Feral",
+            percentRank = 80.901653315153,
           },
         },
         encountersKilled = 6,
       },
     },
   },
-  [ "Thewall-Windseeker" ] = {
-    level = "60",
+  [ "Aprilsnow-Yojamba" ] = {
+    level = "0",
     faction = "Horde",
     guild = nil,
-    last_update = "2022-04-15 16:48:22",
-    last_update_int = 1650034102,
+    last_update = "2022-04-15 20:23:19",
+    last_update_int = 1650046999,
     performance = {
       {
         zoneId = 1011,
@@ -182841,12 +184512,8 @@ LogTracker_CharacterData_US = {
         partition = 5,
         allstars = {
           {
-            spec = "Protection",
-            percentRank = 88.733397578246,
-          },
-          {
-            spec = "Gladiator",
-            percentRank = 84.135559921415,
+            spec = "Restoration",
+            percentRank = 47.628035887082,
           },
         },
         encountersKilled = 14,
@@ -182855,51 +184522,8 @@ LogTracker_CharacterData_US = {
         zoneId = 1012,
         zoneName = "Zul'Aman",
         zoneEncounters = "6",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Protection",
-            percentRank = 73.197448265131,
-          },
-          {
-            spec = "Gladiator",
-            percentRank = 52.225049476958,
-          },
-        },
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "Versaçe-Windseeker" ] = {
-    level = "0",
-    faction = "Horde",
-    guild = nil,
-    last_update = "2022-04-15 08:40:37",
-    last_update_int = 1650004837,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
         partition = 5,
         allstars = {},
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Arcane",
-            percentRank = 5.8526608937818,
-          },
-          {
-            spec = "Fire",
-            percentRank = 0.84118016321406,
-          },
-        },
         encountersKilled = 6,
       },
     },
@@ -182959,6 +184583,71 @@ LogTracker_CharacterData_US = {
           {
             spec = "Affliction",
             percentRank = 16.206532224723,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {},
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "Berthonx-Yojamba" ] = {
+    level = "0",
+    faction = "Horde",
+    guild = nil,
+    last_update = "2022-04-15 19:40:23",
+    last_update_int = 1650044423,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Shadow",
+            percentRank = 97.783302258131,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Shadow",
+            percentRank = 77.879784580909,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "Bittauren-Yojamba" ] = {
+    level = "0",
+    faction = "Horde",
+    guild = nil,
+    last_update = "2022-04-15 20:25:50",
+    last_update_int = 1650047150,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "BeastMastery",
+            percentRank = 93.397412825779,
           },
         },
         encountersKilled = 14,
@@ -183107,12 +184796,12 @@ LogTracker_CharacterData_US = {
       },
     },
   },
-  [ "Drexler-Yojamba" ] = {
+  [ "Ciria-Yojamba" ] = {
     level = "0",
-    faction = "Alliance",
+    faction = "Horde",
     guild = nil,
-    last_update = "2022-04-15 15:29:32",
-    last_update_int = 1650029372,
+    last_update = "2022-04-15 20:27:07",
+    last_update_int = 1650047227,
     performance = {
       {
         zoneId = 1011,
@@ -183121,16 +184810,128 @@ LogTracker_CharacterData_US = {
         partition = 5,
         allstars = {
           {
-            spec = "Guardian",
-            percentRank = 85.221001962294,
+            spec = "Survival",
+            percentRank = 92.981936003049,
           },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {},
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "Deandria-Yojamba" ] = {
+    level = "0",
+    faction = "Horde",
+    guild = nil,
+    last_update = "2022-04-15 20:21:11",
+    last_update_int = 1650046871,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
           {
-            spec = "Warden",
-            percentRank = 83.486287826685,
+            spec = "Holy",
+            percentRank = 94.773949787545,
           },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {},
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "Dinbru-Yojamba" ] = {
+    level = "0",
+    faction = "Horde",
+    guild = nil,
+    last_update = "2022-04-15 19:43:23",
+    last_update_int = 1650044603,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
           {
-            spec = "Feral",
-            percentRank = 76.701635330878,
+            spec = "Retribution",
+            percentRank = 66.211166390271,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {},
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "Ehhlahor-Yojamba" ] = {
+    level = "0",
+    faction = "Horde",
+    guild = nil,
+    last_update = "2022-04-15 20:13:27",
+    last_update_int = 1650046407,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Arcane",
+            percentRank = 97.101449275362,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {},
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "Eranox-Yojamba" ] = {
+    level = "0",
+    faction = "Horde",
+    guild = nil,
+    last_update = "2022-04-15 20:15:27",
+    last_update_int = 1650046527,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Enhancement",
+            percentRank = 88.429686883824,
           },
         },
         encountersKilled = 14,
@@ -183142,16 +184943,117 @@ LogTracker_CharacterData_US = {
         partition = 5,
         allstars = {
           {
-            spec = "Warden",
-            percentRank = 94.634146341463,
+            spec = "Enhancement",
+            percentRank = 67.221775937712,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "Excellerate-Yojamba" ] = {
+    level = "0",
+    faction = "Horde",
+    guild = nil,
+    last_update = "2022-04-15 09:00:30",
+    last_update_int = 1650006030,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Holy",
+            percentRank = 96.89473539064,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Holy",
+            percentRank = 67.043181060353,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "Fairee-Yojamba" ] = {
+    level = "0",
+    faction = "Horde",
+    guild = nil,
+    last_update = "2022-04-15 14:17:19",
+    last_update_int = 1650025039,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Destruction",
+            percentRank = 66.819186024674,
           },
           {
-            spec = "Guardian",
-            percentRank = 88.43104629539,
+            spec = "Affliction",
+            percentRank = 26.776608939317,
           },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
           {
-            spec = "Feral",
-            percentRank = 80.901653315153,
+            spec = "Destruction",
+            percentRank = 31.518259949089,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "Frey-Yojamba" ] = {
+    level = "0",
+    faction = "Horde",
+    guild = nil,
+    last_update = "2022-04-15 17:04:30",
+    last_update_int = 1650035070,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Arcane",
+            percentRank = 91.803267568182,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Arcane",
+            percentRank = 89.078240549436,
           },
         },
         encountersKilled = 6,
@@ -183780,184 +185682,6 @@ LogTracker_CharacterData_US = {
       },
     },
   },
-  [ "Montero-Yojamba" ] = {
-    level = "0",
-    faction = "Alliance",
-    guild = nil,
-    last_update = "2022-04-15 08:30:41",
-    last_update_int = 1650004241,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Restoration",
-            percentRank = 62.825645924797,
-          },
-          {
-            spec = "Balance",
-            percentRank = 8.6975562757292,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {},
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "Mürk-Yojamba" ] = {
-    level = "0",
-    faction = "Alliance",
-    guild = nil,
-    last_update = "2022-04-15 11:46:32",
-    last_update_int = 1650015992,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Arcane",
-            percentRank = 73.298127439907,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Arcane",
-            percentRank = 83.345919835853,
-          },
-        },
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "Excellerate-Yojamba" ] = {
-    level = "0",
-    faction = "Horde",
-    guild = nil,
-    last_update = "2022-04-15 09:00:30",
-    last_update_int = 1650006030,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Holy",
-            percentRank = 96.89473539064,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Holy",
-            percentRank = 67.043181060353,
-          },
-        },
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "Fairee-Yojamba" ] = {
-    level = "0",
-    faction = "Horde",
-    guild = nil,
-    last_update = "2022-04-15 14:17:19",
-    last_update_int = 1650025039,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Destruction",
-            percentRank = 66.819186024674,
-          },
-          {
-            spec = "Affliction",
-            percentRank = 26.776608939317,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Destruction",
-            percentRank = 31.518259949089,
-          },
-        },
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "Frey-Yojamba" ] = {
-    level = "0",
-    faction = "Horde",
-    guild = nil,
-    last_update = "2022-04-15 17:04:30",
-    last_update_int = 1650035070,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Arcane",
-            percentRank = 91.803267568182,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Arcane",
-            percentRank = 89.078240549436,
-          },
-        },
-        encountersKilled = 6,
-      },
-    },
-  },
   [ "Graciemoomoo-Yojamba" ] = {
     level = "0",
     faction = "Horde",
@@ -184035,6 +185759,70 @@ LogTracker_CharacterData_US = {
       },
     },
   },
+  [ "Hexor-Yojamba" ] = {
+    level = "0",
+    faction = "Horde",
+    guild = nil,
+    last_update = "2022-04-15 19:41:09",
+    last_update_int = 1650044469,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Destruction",
+            percentRank = 88.0935876992,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {},
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "Holydot-Yojamba" ] = {
+    level = "0",
+    faction = "Horde",
+    guild = nil,
+    last_update = "2022-04-15 20:25:18",
+    last_update_int = 1650047118,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Protection",
+            percentRank = 96.401570365188,
+          },
+          {
+            spec = "Justicar",
+            percentRank = 91.13306642175,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {},
+        encountersKilled = 6,
+      },
+    },
+  },
   [ "Icizzs-Yojamba" ] = {
     level = "0",
     faction = "Horde",
@@ -184080,6 +185868,49 @@ LogTracker_CharacterData_US = {
           {
             spec = "Guardian",
             percentRank = 5.3685034746012,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "Ilth-Yojamba" ] = {
+    level = "70",
+    faction = "Horde",
+    guild = nil,
+    last_update = "2022-04-15 20:13:32",
+    last_update_int = 1650046412,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Balance",
+            percentRank = 95.560404424473,
+          },
+          {
+            spec = "Dreamstate",
+            percentRank = 76.074429771909,
+          },
+          {
+            spec = "Restoration",
+            percentRank = 54.529516766543,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Restoration",
+            percentRank = 85.427897574124,
           },
         },
         encountersKilled = 6,
@@ -184146,6 +185977,41 @@ LogTracker_CharacterData_US = {
       },
     },
   },
+  [ "Kambah-Yojamba" ] = {
+    level = "0",
+    faction = "Horde",
+    guild = nil,
+    last_update = "2022-04-15 19:26:33",
+    last_update_int = 1650043593,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "BeastMastery",
+            percentRank = 61.229648762518,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "BeastMastery",
+            percentRank = 51.753432625633,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
   [ "Kelengkia-Yojamba" ] = {
     level = "0",
     faction = "Horde",
@@ -184197,6 +186063,36 @@ LogTracker_CharacterData_US = {
       },
     },
   },
+  [ "Madtrollz-Yojamba" ] = {
+    level = "0",
+    faction = "Horde",
+    guild = nil,
+    last_update = "2022-04-15 19:34:23",
+    last_update_int = 1650044063,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Elemental",
+            percentRank = 97.804678235264,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {},
+        encountersKilled = 6,
+      },
+    },
+  },
   [ "Maniacal-Yojamba" ] = {
     level = "0",
     faction = "Horde",
@@ -184234,6 +186130,41 @@ LogTracker_CharacterData_US = {
           {
             spec = "Justicar",
             percentRank = 60.929176199462,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "Medzen-Yojamba" ] = {
+    level = "60",
+    faction = "Horde",
+    guild = nil,
+    last_update = "2022-04-15 20:10:17",
+    last_update_int = 1650046217,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "BeastMastery",
+            percentRank = 93.882666779582,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "BeastMastery",
+            percentRank = 76.759172802278,
           },
         },
         encountersKilled = 6,
@@ -184304,6 +186235,75 @@ LogTracker_CharacterData_US = {
           {
             spec = "BeastMastery",
             percentRank = 88.697209508794,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "Montero-Yojamba" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 08:30:41",
+    last_update_int = 1650004241,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Restoration",
+            percentRank = 62.825645924797,
+          },
+          {
+            spec = "Balance",
+            percentRank = 8.6975562757292,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {},
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "Mürk-Yojamba" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 11:46:32",
+    last_update_int = 1650015992,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Arcane",
+            percentRank = 73.298127439907,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Arcane",
+            percentRank = 83.345919835853,
           },
         },
         encountersKilled = 6,
@@ -184812,12 +186812,12 @@ LogTracker_CharacterData_US = {
       },
     },
   },
-  [ "Smoothtotem-Yojamba" ] = {
+  [ "Miyukiss-Yojamba" ] = {
     level = "0",
-    faction = "Alliance",
+    faction = "Horde",
     guild = nil,
-    last_update = "2022-04-15 07:56:23",
-    last_update_int = 1650002183,
+    last_update = "2022-04-15 20:17:30",
+    last_update_int = 1650046650,
     performance = {
       {
         zoneId = 1011,
@@ -184826,86 +186826,8 @@ LogTracker_CharacterData_US = {
         partition = 5,
         allstars = {
           {
-            spec = "Restoration",
-            percentRank = 68.516464972759,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Restoration",
-            percentRank = 67.406156062902,
-          },
-        },
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "Spatial-Yojamba" ] = {
-    level = "0",
-    faction = "Alliance",
-    guild = nil,
-    last_update = "2022-04-15 17:44:42",
-    last_update_int = 1650037482,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Destruction",
-            percentRank = 70.85389214605,
-          },
-          {
-            spec = "Affliction",
-            percentRank = 56.980109329781,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Destruction",
-            percentRank = 23.914358444439,
-          },
-        },
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "Sportsbet-Yojamba" ] = {
-    level = "0",
-    faction = "Alliance",
-    guild = nil,
-    last_update = "2022-04-15 12:21:45",
-    last_update_int = 1650018105,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Dreamstate",
-            percentRank = 41.440576230492,
-          },
-          {
-            spec = "Balance",
-            percentRank = 18.700311095748,
+            spec = "Arcane",
+            percentRank = 80.57638627445,
           },
         },
         encountersKilled = 14,
@@ -184920,12 +186842,12 @@ LogTracker_CharacterData_US = {
       },
     },
   },
-  [ "Thorahk-Yojamba" ] = {
+  [ "Mooph-Yojamba" ] = {
     level = "0",
-    faction = "Alliance",
+    faction = "Horde",
     guild = nil,
-    last_update = "2022-04-15 12:17:31",
-    last_update_int = 1650017851,
+    last_update = "2022-04-15 20:21:09",
+    last_update_int = 1650046869,
     performance = {
       {
         zoneId = 1011,
@@ -184934,12 +186856,16 @@ LogTracker_CharacterData_US = {
         partition = 5,
         allstars = {
           {
-            spec = "Justicar",
-            percentRank = 96.479620498096,
+            spec = "Feral",
+            percentRank = 93.625108717828,
           },
           {
-            spec = "Protection",
-            percentRank = 89.477775834257,
+            spec = "Warden",
+            percentRank = 91.26977303989,
+          },
+          {
+            spec = "Guardian",
+            percentRank = 49.556044623207,
           },
         },
         encountersKilled = 14,
@@ -184949,26 +186875,17 @@ LogTracker_CharacterData_US = {
         zoneName = "Zul'Aman",
         zoneEncounters = "6",
         partition = 5,
-        allstars = {
-          {
-            spec = "Justicar",
-            percentRank = 92.660233754706,
-          },
-          {
-            spec = "Protection",
-            percentRank = 48.001316290831,
-          },
-        },
+        allstars = {},
         encountersKilled = 6,
       },
     },
   },
-  [ "Tõner-Yojamba" ] = {
-    level = "70",
-    faction = "Alliance",
+  [ "Naturesbeef-Yojamba" ] = {
+    level = "0",
+    faction = "Horde",
     guild = nil,
-    last_update = "2022-04-15 12:22:38",
-    last_update_int = 1650018158,
+    last_update = "2022-04-15 20:27:56",
+    last_update_int = 1650047276,
     performance = {
       {
         zoneId = 1011,
@@ -184977,20 +186894,8 @@ LogTracker_CharacterData_US = {
         partition = 5,
         allstars = {
           {
-            spec = "Justicar",
-            percentRank = 52.019224767493,
-          },
-          {
-            spec = "Holy",
-            percentRank = 51.943612382895,
-          },
-          {
-            spec = "Protection",
-            percentRank = 46.423920859814,
-          },
-          {
-            spec = "Retribution",
-            percentRank = 24.862354892206,
+            spec = "Restoration",
+            percentRank = 56.999872497769,
           },
         },
         encountersKilled = 14,
@@ -185000,16 +186905,7 @@ LogTracker_CharacterData_US = {
         zoneName = "Zul'Aman",
         zoneEncounters = "6",
         partition = 5,
-        allstars = {
-          {
-            spec = "Protection",
-            percentRank = 88.854826977034,
-          },
-          {
-            spec = "Justicar",
-            percentRank = 83.033879637697,
-          },
-        },
+        allstars = {},
         encountersKilled = 6,
       },
     },
@@ -185030,6 +186926,36 @@ LogTracker_CharacterData_US = {
           {
             spec = "Combat",
             percentRank = 23.072090466468,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {},
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "Nuggetz-Yojamba" ] = {
+    level = "0",
+    faction = "Horde",
+    guild = nil,
+    last_update = "2022-04-15 19:40:10",
+    last_update_int = 1650044410,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Elemental",
+            percentRank = 95.0920350839,
           },
         },
         encountersKilled = 14,
@@ -185075,6 +187001,36 @@ LogTracker_CharacterData_US = {
             percentRank = 26.964969090374,
           },
         },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "Nuwinds-Yojamba" ] = {
+    level = "0",
+    faction = "Horde",
+    guild = nil,
+    last_update = "2022-04-15 19:34:25",
+    last_update_int = 1650044065,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Holy",
+            percentRank = 48.841065251063,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {},
         encountersKilled = 6,
       },
     },
@@ -185138,6 +187094,66 @@ LogTracker_CharacterData_US = {
           {
             spec = "Justicar",
             percentRank = 76.86875261933,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {},
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "Pheje-Yojamba" ] = {
+    level = "0",
+    faction = "Horde",
+    guild = nil,
+    last_update = "2022-04-15 19:39:11",
+    last_update_int = 1650044351,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Combat",
+            percentRank = 93.668640693281,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {},
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "Poplica-Yojamba" ] = {
+    level = "0",
+    faction = "Horde",
+    guild = nil,
+    last_update = "2022-04-15 19:29:06",
+    last_update_int = 1650043746,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Destruction",
+            percentRank = 99.188688071734,
           },
         },
         encountersKilled = 14,
@@ -185408,12 +187424,47 @@ LogTracker_CharacterData_US = {
       },
     },
   },
-  [ "Srslyahealer-Yojamba" ] = {
+  [ "Shenism-Yojamba" ] = {
     level = "0",
     faction = "Horde",
     guild = nil,
-    last_update = "2022-04-15 10:20:34",
-    last_update_int = 1650010834,
+    last_update = "2022-04-15 19:28:05",
+    last_update_int = 1650043685,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Elemental",
+            percentRank = 88.512944492504,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Elemental",
+            percentRank = 62.43417903303,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "Smoothtotem-Yojamba" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 07:56:23",
+    last_update_int = 1650002183,
     performance = {
       {
         zoneId = 1011,
@@ -185423,7 +187474,7 @@ LogTracker_CharacterData_US = {
         allstars = {
           {
             spec = "Restoration",
-            percentRank = 77.695413764679,
+            percentRank = 68.516464972759,
           },
         },
         encountersKilled = 14,
@@ -185436,19 +187487,19 @@ LogTracker_CharacterData_US = {
         allstars = {
           {
             spec = "Restoration",
-            percentRank = 24.39095835571,
+            percentRank = 67.406156062902,
           },
         },
         encountersKilled = 6,
       },
     },
   },
-  [ "Stylishsama-Yojamba" ] = {
+  [ "Spatial-Yojamba" ] = {
     level = "0",
-    faction = "Horde",
+    faction = "Alliance",
     guild = nil,
-    last_update = "2022-04-15 16:04:37",
-    last_update_int = 1650031477,
+    last_update = "2022-04-15 17:44:42",
+    last_update_int = 1650037482,
     performance = {
       {
         zoneId = 1011,
@@ -185457,12 +187508,12 @@ LogTracker_CharacterData_US = {
         partition = 5,
         allstars = {
           {
-            spec = "Holy",
-            percentRank = 40.646076342706,
+            spec = "Destruction",
+            percentRank = 70.85389214605,
           },
           {
-            spec = "Shadow",
-            percentRank = 17.6901753036,
+            spec = "Affliction",
+            percentRank = 56.980109329781,
           },
         },
         encountersKilled = 14,
@@ -185474,20 +187525,20 @@ LogTracker_CharacterData_US = {
         partition = 5,
         allstars = {
           {
-            spec = "Holy",
-            percentRank = 93.128791413906,
+            spec = "Destruction",
+            percentRank = 23.914358444439,
           },
         },
         encountersKilled = 6,
       },
     },
   },
-  [ "Sylvang-Yojamba" ] = {
+  [ "Sportsbet-Yojamba" ] = {
     level = "0",
-    faction = "Horde",
+    faction = "Alliance",
     guild = nil,
-    last_update = "2022-04-15 12:29:20",
-    last_update_int = 1650018560,
+    last_update = "2022-04-15 12:21:45",
+    last_update_int = 1650018105,
     performance = {
       {
         zoneId = 1011,
@@ -185496,12 +187547,12 @@ LogTracker_CharacterData_US = {
         partition = 5,
         allstars = {
           {
-            spec = "Retribution",
-            percentRank = 49.618573797678,
+            spec = "Dreamstate",
+            percentRank = 41.440576230492,
           },
           {
-            spec = "Holy",
-            percentRank = 15.385140252598,
+            spec = "Balance",
+            percentRank = 18.700311095748,
           },
         },
         encountersKilled = 14,
@@ -185511,22 +187562,17 @@ LogTracker_CharacterData_US = {
         zoneName = "Zul'Aman",
         zoneEncounters = "6",
         partition = 5,
-        allstars = {
-          {
-            spec = "Retribution",
-            percentRank = 49.393939393939,
-          },
-        },
+        allstars = {},
         encountersKilled = 6,
       },
     },
   },
-  [ "Theogpaly-Yojamba" ] = {
+  [ "Thorahk-Yojamba" ] = {
     level = "0",
-    faction = "Horde",
+    faction = "Alliance",
     guild = nil,
-    last_update = "2022-04-15 18:11:45",
-    last_update_int = 1650039105,
+    last_update = "2022-04-15 12:17:31",
+    last_update_int = 1650017851,
     performance = {
       {
         zoneId = 1011,
@@ -185536,11 +187582,11 @@ LogTracker_CharacterData_US = {
         allstars = {
           {
             spec = "Justicar",
-            percentRank = 47.94956619437,
+            percentRank = 96.479620498096,
           },
           {
             spec = "Protection",
-            percentRank = 38.745068314773,
+            percentRank = 89.477775834257,
           },
         },
         encountersKilled = 14,
@@ -185553,11 +187599,62 @@ LogTracker_CharacterData_US = {
         allstars = {
           {
             spec = "Justicar",
-            percentRank = 81.306198938076,
+            percentRank = 92.660233754706,
           },
           {
             spec = "Protection",
-            percentRank = 72.288614084312,
+            percentRank = 48.001316290831,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "Tõner-Yojamba" ] = {
+    level = "70",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 12:22:38",
+    last_update_int = 1650018158,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Justicar",
+            percentRank = 52.019224767493,
+          },
+          {
+            spec = "Holy",
+            percentRank = 51.943612382895,
+          },
+          {
+            spec = "Protection",
+            percentRank = 46.423920859814,
+          },
+          {
+            spec = "Retribution",
+            percentRank = 24.862354892206,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Protection",
+            percentRank = 88.854826977034,
+          },
+          {
+            spec = "Justicar",
+            percentRank = 83.033879637697,
           },
         },
         encountersKilled = 6,
@@ -185853,6 +187950,222 @@ LogTracker_CharacterData_US = {
       },
     },
   },
+  [ "Srslyahealer-Yojamba" ] = {
+    level = "0",
+    faction = "Horde",
+    guild = nil,
+    last_update = "2022-04-15 10:20:34",
+    last_update_int = 1650010834,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Restoration",
+            percentRank = 77.695413764679,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Restoration",
+            percentRank = 24.39095835571,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "Stylishsama-Yojamba" ] = {
+    level = "0",
+    faction = "Horde",
+    guild = nil,
+    last_update = "2022-04-15 16:04:37",
+    last_update_int = 1650031477,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Holy",
+            percentRank = 40.646076342706,
+          },
+          {
+            spec = "Shadow",
+            percentRank = 17.6901753036,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Holy",
+            percentRank = 93.128791413906,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "Swiftwinds-Yojamba" ] = {
+    level = "70",
+    faction = "Horde",
+    guild = nil,
+    last_update = "2022-04-15 19:39:05",
+    last_update_int = 1650044345,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Destruction",
+            percentRank = 95.950611044906,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {},
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "Sylvang-Yojamba" ] = {
+    level = "0",
+    faction = "Horde",
+    guild = nil,
+    last_update = "2022-04-15 12:29:20",
+    last_update_int = 1650018560,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Retribution",
+            percentRank = 49.618573797678,
+          },
+          {
+            spec = "Holy",
+            percentRank = 15.385140252598,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Retribution",
+            percentRank = 49.393939393939,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "Theogpaly-Yojamba" ] = {
+    level = "0",
+    faction = "Horde",
+    guild = nil,
+    last_update = "2022-04-15 18:11:45",
+    last_update_int = 1650039105,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Justicar",
+            percentRank = 47.94956619437,
+          },
+          {
+            spec = "Protection",
+            percentRank = 38.745068314773,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Justicar",
+            percentRank = 81.306198938076,
+          },
+          {
+            spec = "Protection",
+            percentRank = 72.288614084312,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "Titikeat-Yojamba" ] = {
+    level = "0",
+    faction = "Horde",
+    guild = nil,
+    last_update = "2022-04-15 20:21:05",
+    last_update_int = 1650046865,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Arcane",
+            percentRank = 97.536944142017,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {},
+        encountersKilled = 6,
+      },
+    },
+  },
   [ "Treetangs-Yojamba" ] = {
     level = "0",
     faction = "Horde",
@@ -185954,6 +188267,48 @@ LogTracker_CharacterData_US = {
             percentRank = 16.070161208557,
           },
         },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "Zangen-Yojamba" ] = {
+    level = "0",
+    faction = "Horde",
+    guild = nil,
+    last_update = "2022-04-15 19:28:04",
+    last_update_int = 1650043684,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Fury",
+            percentRank = 85.085287022809,
+          },
+          {
+            spec = "Arms",
+            percentRank = 82.179806362379,
+          },
+          {
+            spec = "Gladiator",
+            percentRank = 73.918426653569,
+          },
+          {
+            spec = "Protection",
+            percentRank = 58.653161268697,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {},
         encountersKilled = 6,
       },
     },
