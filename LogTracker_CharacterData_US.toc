@@ -34,3 +34,4 @@ LogTracker_CharacterData_US_5070.lua
 LogTracker_CharacterData_US_5086.lua
 LogTracker_CharacterData_US_5098.lua
 LogTracker_CharacterData_US_5192.lua
+LogTracker_CharacterData_US_5193.lua
