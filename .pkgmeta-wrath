@@ -1,0 +1,5 @@
+package-as: LogTracker_CharacterData_US
+
+ignore:
+  - README.md
+  - pkgmeta.yaml
