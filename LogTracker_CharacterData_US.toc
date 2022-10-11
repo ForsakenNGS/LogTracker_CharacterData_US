@@ -13,4 +13,7 @@
 ## LoadOnDemand: 1
 
 LogTracker_CharacterData_US.lua
+LogTracker_CharacterData_US_5060.lua
+LogTracker_CharacterData_US_5061.lua
 LogTracker_CharacterData_US_5068.lua
+LogTracker_CharacterData_US_5070.lua
